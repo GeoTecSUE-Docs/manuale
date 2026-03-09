@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting
 nav_order: 20
-parent: Assistenza e risoluzione problemi
+parent: Assistenza, risoluzione problemi e FAQ
 description: Problemi comuni su GeoTecSUE e soluzioni immediate basate su oltre 1.500 ticket reali - risolvi autonomamente i problemi più frequenti
 keywords: [troubleshooting, problemi comuni, errori, soluzioni, risoluzione problemi, FAQ tecnica, fix, debug]
 ---
