@@ -56,12 +56,11 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 
 **Soluzione**:
 1. Verifica che il Codice Fiscale sia di **16 caratteri** esatti
-2. Usa solo **lettere MAIUSCOLE** e numeri
-3. **Nessuno spazio** o carattere speciale
-4. Esempio corretto: `RSSMRA80A01H501U`
-5. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+2. **Nessuno spazio** o carattere speciale
+3. Esempio corretto: `RSSMRA80A01H501U`
+4. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
+5. Clicca **"Salva"** (non necessario)
+6. Riprova **"Valida e Salva"**
 
 ---
 
@@ -71,12 +70,11 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 
 **Soluzione**:
 1. Verifica che il Codice Fiscale sia di **16 caratteri** esatti
-2. Usa solo **lettere MAIUSCOLE** e numeri
-3. **Nessuno spazio** o carattere speciale
-4. Esempio corretto: `RSSMRA80A01H501U`
-5. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+2. **Nessuno spazio** o carattere speciale
+3. Esempio corretto: `RSSMRA80A01H501U`
+4. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
+5. Clicca **"Salva"** (non necessario)
+6. Riprova **"Valida e Salva"**
 
 ---
 
@@ -86,12 +84,11 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 
 **Soluzione**:
 1. Verifica che il Codice Fiscale sia di **16 caratteri** esatti
-2. Usa solo **lettere MAIUSCOLE** e numeri
-3. **Nessuno spazio** o carattere speciale
-4. Esempio corretto: `RSSMRA80A01H501U`
-5. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+2. **Nessuno spazio** o carattere speciale
+3. Esempio corretto: `RSSMRA80A01H501U`
+4. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
+5. Clicca **"Salva"** (non necessario)
+6. Riprova **"Valida e Salva"**
 
 ---
 
@@ -101,12 +98,11 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 
 **Soluzione**:
 1. Verifica che il Codice Fiscale sia di **16 caratteri** esatti
-2. Usa solo **lettere MAIUSCOLE** e numeri
-3. **Nessuno spazio** o carattere speciale
-4. Esempio corretto: `RSSMRA80A01H501U`
-5. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+2. **Nessuno spazio** o carattere speciale
+3. Esempio corretto: `RSSMRA80A01H501U`
+4. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
+5. Clicca **"Salva"** (non necessario)
+6. Riprova **"Valida e Salva"**
 
 ---
 
@@ -116,12 +112,11 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 
 **Soluzione**:
 1. Verifica che il Codice Fiscale sia di **16 caratteri** esatti
-2. Usa solo **lettere MAIUSCOLE** e numeri
-3. **Nessuno spazio** o carattere speciale
-4. Esempio corretto: `RSSMRA80A01H501U`
-5. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+2. **Nessuno spazio** o carattere speciale
+3. Esempio corretto: `RSSMRA80A01H501U`
+4. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
+5. Clicca **"Salva"** (non necessario)
+6. Riprova **"Valida e Salva"**
 
 ---
 
@@ -133,8 +128,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Codice Fiscale"** (evidenziato con sfondo giallo)
 3. Inserisci il Codice Fiscale completo
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -144,12 +139,11 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 
 **Soluzione**:
 1. Verifica che il Codice Fiscale sia di **16 caratteri** esatti
-2. Usa solo **lettere MAIUSCOLE** e numeri
-3. **Nessuno spazio** o carattere speciale
-4. Esempio corretto: `RSSMRA80A01H501U`
-5. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+2. **Nessuno spazio** o carattere speciale
+3. Esempio corretto: `RSSMRA80A01H501U`
+4. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
+5. Clicca **"Salva"** (non necessario)
+6. Riprova **"Valida e Salva"**
 
 ---
 
@@ -159,12 +153,11 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 
 **Soluzione**:
 1. Verifica che il Codice Fiscale sia di **16 caratteri** esatti
-2. Usa solo **lettere MAIUSCOLE** e numeri
-3. **Nessuno spazio** o carattere speciale
-4. Esempio corretto: `RSSMRA80A01H501U`
-5. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+2. **Nessuno spazio** o carattere speciale
+3. Esempio corretto: `RSSMRA80A01H501U`
+4. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
+5. Clicca **"Salva"** (non necessario)
+6. Riprova **"Valida e Salva"**
 
 ---
 
@@ -174,12 +167,11 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 
 **Soluzione**:
 1. Verifica che il Codice Fiscale sia di **16 caratteri** esatti
-2. Usa solo **lettere MAIUSCOLE** e numeri
-3. **Nessuno spazio** o carattere speciale
-4. Esempio corretto: `RSSMRA80A01H501U`
-5. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+2. **Nessuno spazio** o carattere speciale
+3. Esempio corretto: `RSSMRA80A01H501U`
+4. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
+5. Clicca **"Salva"** (non necessario)
+6. Riprova **"Valida e Salva"**
 
 ---
 
@@ -189,12 +181,11 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 
 **Soluzione**:
 1. Verifica che il Codice Fiscale sia di **16 caratteri** esatti
-2. Usa solo **lettere MAIUSCOLE** e numeri
-3. **Nessuno spazio** o carattere speciale
-4. Esempio corretto: `RSSMRA80A01H501U`
-5. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+2. **Nessuno spazio** o carattere speciale
+3. Esempio corretto: `RSSMRA80A01H501U`
+4. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
+5. Clicca **"Salva"** (non necessario)
+6. Riprova **"Valida e Salva"**
 
 ---
 
@@ -206,8 +197,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Codice Fiscale"** (evidenziato con sfondo giallo)
 3. Inserisci il Codice Fiscale completo
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -217,12 +208,11 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 
 **Soluzione**:
 1. Verifica che il Codice Fiscale sia di **16 caratteri** esatti
-2. Usa solo **lettere MAIUSCOLE** e numeri
-3. **Nessuno spazio** o carattere speciale
-4. Esempio corretto: `RSSMRA80A01H501U`
-5. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+2. **Nessuno spazio** o carattere speciale
+3. Esempio corretto: `RSSMRA80A01H501U`
+4. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
+5. Clicca **"Salva"** (non necessario)
+6. Riprova **"Valida e Salva"**
 
 ---
 
@@ -232,12 +222,11 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 
 **Soluzione**:
 1. Verifica che il Codice Fiscale sia di **16 caratteri** esatti
-2. Usa solo **lettere MAIUSCOLE** e numeri
-3. **Nessuno spazio** o carattere speciale
-4. Esempio corretto: `RSSMRA80A01H501U`
-5. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+2. **Nessuno spazio** o carattere speciale
+3. Esempio corretto: `RSSMRA80A01H501U`
+4. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
+5. Clicca **"Salva"** (non necessario)
+6. Riprova **"Valida e Salva"**
 
 ---
 
@@ -249,8 +238,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Codice Fiscale"** (evidenziato con sfondo giallo)
 3. Inserisci il Codice Fiscale completo
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -260,12 +249,11 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 
 **Soluzione**:
 1. Verifica che il Codice Fiscale sia di **16 caratteri** esatti
-2. Usa solo **lettere MAIUSCOLE** e numeri
-3. **Nessuno spazio** o carattere speciale
-4. Esempio corretto: `RSSMRA80A01H501U`
-5. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+2. **Nessuno spazio** o carattere speciale
+3. Esempio corretto: `RSSMRA80A01H501U`
+4. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
+5. Clicca **"Salva"** (non necessario)
+6. Riprova **"Valida e Salva"**
 
 ---
 
@@ -277,8 +265,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Codice Fiscale"** (evidenziato con sfondo giallo)
 3. Inserisci il Codice Fiscale completo
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -288,12 +276,11 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 
 **Soluzione**:
 1. Verifica che il Codice Fiscale sia di **16 caratteri** esatti
-2. Usa solo **lettere MAIUSCOLE** e numeri
-3. **Nessuno spazio** o carattere speciale
-4. Esempio corretto: `RSSMRA80A01H501U`
-5. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+2. **Nessuno spazio** o carattere speciale
+3. Esempio corretto: `RSSMRA80A01H501U`
+4. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
+5. Clicca **"Salva"** (non necessario)
+6. Riprova **"Valida e Salva"**
 
 ---
 
@@ -303,12 +290,11 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 
 **Soluzione**:
 1. Verifica che il Codice Fiscale sia di **16 caratteri** esatti
-2. Usa solo **lettere MAIUSCOLE** e numeri
-3. **Nessuno spazio** o carattere speciale
-4. Esempio corretto: `RSSMRA80A01H501U`
-5. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+2. **Nessuno spazio** o carattere speciale
+3. Esempio corretto: `RSSMRA80A01H501U`
+4. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
+5. Clicca **"Salva"** (non necessario)
+6. Riprova **"Valida e Salva"**
 
 ---
 
@@ -320,8 +306,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Codice Fiscale"** (evidenziato con sfondo giallo)
 3. Inserisci il Codice Fiscale completo
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -331,12 +317,11 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 
 **Soluzione**:
 1. Verifica che il Codice Fiscale sia di **16 caratteri** esatti
-2. Usa solo **lettere MAIUSCOLE** e numeri
-3. **Nessuno spazio** o carattere speciale
-4. Esempio corretto: `RSSMRA80A01H501U`
-5. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+2. **Nessuno spazio** o carattere speciale
+3. Esempio corretto: `RSSMRA80A01H501U`
+4. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
+5. Clicca **"Salva"** (non necessario)
+6. Riprova **"Valida e Salva"**
 
 ---
 
@@ -346,12 +331,11 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 
 **Soluzione**:
 1. Verifica che il Codice Fiscale sia di **16 caratteri** esatti
-2. Usa solo **lettere MAIUSCOLE** e numeri
-3. **Nessuno spazio** o carattere speciale
-4. Esempio corretto: `RSSMRA80A01H501U`
-5. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+2. **Nessuno spazio** o carattere speciale
+3. Esempio corretto: `RSSMRA80A01H501U`
+4. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
+5. Clicca **"Salva"** (non necessario)
+6. Riprova **"Valida e Salva"**
 
 ---
 
@@ -361,12 +345,11 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 
 **Soluzione**:
 1. Verifica che il Codice Fiscale sia di **16 caratteri** esatti
-2. Usa solo **lettere MAIUSCOLE** e numeri
-3. **Nessuno spazio** o carattere speciale
-4. Esempio corretto: `RSSMRA80A01H501U`
-5. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+2. **Nessuno spazio** o carattere speciale
+3. Esempio corretto: `RSSMRA80A01H501U`
+4. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
+5. Clicca **"Salva"** (non necessario)
+6. Riprova **"Valida e Salva"**
 
 ---
 
@@ -376,12 +359,11 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 
 **Soluzione**:
 1. Verifica che il Codice Fiscale sia di **16 caratteri** esatti
-2. Usa solo **lettere MAIUSCOLE** e numeri
-3. **Nessuno spazio** o carattere speciale
-4. Esempio corretto: `RSSMRA80A01H501U`
-5. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+2. **Nessuno spazio** o carattere speciale
+3. Esempio corretto: `RSSMRA80A01H501U`
+4. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
+5. Clicca **"Salva"** (non necessario)
+6. Riprova **"Valida e Salva"**
 
 ---
 
@@ -391,13 +373,11 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 
 **Soluzione**:
 1. Verifica che il Codice Fiscale sia di **16 caratteri** esatti
-2. Usa solo **lettere MAIUSCOLE** e numeri
-3. **Nessuno spazio** o carattere speciale
-4. Esempio corretto: `RSSMRA80A01H501U`
-5. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
-
+2. **Nessuno spazio** o carattere speciale
+3. Esempio corretto: `RSSMRA80A01H501U`
+4. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
+5. Clicca **"Salva"** (non necessario)
+6. Riprova **"Valida e Salva"**
 ---
 
 ### ATTENZIONE ! Inserire il codice fiscale del Costruttore.
@@ -406,12 +386,11 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 
 **Soluzione**:
 1. Verifica che il Codice Fiscale sia di **16 caratteri** esatti
-2. Usa solo **lettere MAIUSCOLE** e numeri
-3. **Nessuno spazio** o carattere speciale
-4. Esempio corretto: `RSSMRA80A01H501U`
-5. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+2. **Nessuno spazio** o carattere speciale
+3. Esempio corretto: `RSSMRA80A01H501U`
+4. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
+5. Clicca **"Salva"** (non necessario)
+6. Riprova **"Valida e Salva"**
 
 ---
 
@@ -421,12 +400,11 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 
 **Soluzione**:
 1. Verifica che il Codice Fiscale sia di **16 caratteri** esatti
-2. Usa solo **lettere MAIUSCOLE** e numeri
-3. **Nessuno spazio** o carattere speciale
-4. Esempio corretto: `RSSMRA80A01H501U`
-5. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+2. **Nessuno spazio** o carattere speciale
+3. Esempio corretto: `RSSMRA80A01H501U`
+4. Puoi verificarlo su un [calcolatore CF online](https://www.codicefiscale.com/)
+5. Clicca **"Salva"** (non necessario)
+6. Riprova **"Valida e Salva"**
 
 ---
 
@@ -444,7 +422,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Usa **solo numeri**, nessuna lettera
 3. **Nessuno spazio** o carattere speciale
 4. Esempio corretto: `12345678901`
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -458,7 +436,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Usa **solo numeri**, nessuna lettera
 3. **Nessuno spazio** o carattere speciale
 4. Esempio corretto: `12345678901`
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -471,8 +449,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Partita IVA"**
 3. Inserisci la Partita IVA completa
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -485,7 +463,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Usa **solo numeri**, nessuna lettera
 3. **Nessuno spazio** o carattere speciale
 4. Esempio corretto: `12345678901`
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -499,7 +477,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Usa **solo numeri**, nessuna lettera
 3. **Nessuno spazio** o carattere speciale
 4. Esempio corretto: `12345678901`
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -513,7 +491,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Usa **solo numeri**, nessuna lettera
 3. **Nessuno spazio** o carattere speciale
 4. Esempio corretto: `12345678901`
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -532,11 +510,12 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. **NO** 4 cifre (es. `0121` → SBAGLIATO)
 3. **NO** spazi (es. `10121 ` → SBAGLIATO)
 4. Esempio corretto: `10121`
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 {: .warning }
 > **IMPORTANTE**: CAP errato è una delle cause principali del mancato funzionamento di PagoPA! Se lo IUV non si genera, verifica il CAP come prima cosa.
+> **IMPORTANTE**: il CAP è da intendersi come quello italiano. Se si tratta di un CAP straniero è necessario ricondurlo a 5 cifre oppure indicare '00000'
 
 ---
 
@@ -545,14 +524,16 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 **Causa**: Il CAP è obbligatorio ma mancante o non valido.
 
 **Soluzione**:
-1. Vai alla sezione indicata nel messaggio
-2. Trova il campo **"CAP"**
-3. Inserisci il CAP
-5. Clicca **"Salva"**
+1. Verifica che il CAP sia di **5 cifre** esatte
+2. **NO** 4 cifre (es. `0121` → SBAGLIATO)
+3. **NO** spazi (es. `10121 ` → SBAGLIATO)
+4. Esempio corretto: `10121`
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 {: .warning }
 > **IMPORTANTE**: CAP errato è una delle cause principali del mancato funzionamento di PagoPA! Se lo IUV non si genera, verifica il CAP come prima cosa.
+> **IMPORTANTE**: il CAP è da intendersi come quello italiano. Se si tratta di un CAP straniero è necessario ricondurlo a 5 cifre oppure indicare '00000'
 
 ---
 
@@ -565,12 +546,12 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. **NO** 4 cifre (es. `0121` → SBAGLIATO)
 3. **NO** spazi (es. `10121 ` → SBAGLIATO)
 4. Esempio corretto: `10121`
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 {: .warning }
 > **IMPORTANTE**: CAP errato è una delle cause principali del mancato funzionamento di PagoPA! Se lo IUV non si genera, verifica il CAP come prima cosa.
-
+> **IMPORTANTE**: il CAP è da intendersi come quello italiano. Se si tratta di un CAP straniero è necessario ricondurlo a 5 cifre oppure indicare '00000'
 ---
 
 ### ATTENZIONE ! CAP di residenza del Professionista non inserito.
@@ -578,14 +559,16 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 **Causa**: Il CAP è obbligatorio ma mancante o non valido.
 
 **Soluzione**:
-1. Vai alla sezione indicata nel messaggio
-2. Trova il campo **"CAP"**
-3. Inserisci il CAP
-5. Clicca **"Salva"**
+1. Verifica che il CAP sia di **5 cifre** esatte
+2. **NO** 4 cifre (es. `0121` → SBAGLIATO)
+3. **NO** spazi (es. `10121 ` → SBAGLIATO)
+4. Esempio corretto: `10121`
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 {: .warning }
 > **IMPORTANTE**: CAP errato è una delle cause principali del mancato funzionamento di PagoPA! Se lo IUV non si genera, verifica il CAP come prima cosa.
+> **IMPORTANTE**: il CAP è da intendersi come quello italiano. Se si tratta di un CAP straniero è necessario ricondurlo a 5 cifre oppure indicare '00000'
 
 ---
 
@@ -598,11 +581,12 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. **NO** 4 cifre (es. `0121` → SBAGLIATO)
 3. **NO** spazi (es. `10121 ` → SBAGLIATO)
 4. Esempio corretto: `10121`
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 {: .warning }
 > **IMPORTANTE**: CAP errato è una delle cause principali del mancato funzionamento di PagoPA! Se lo IUV non si genera, verifica il CAP come prima cosa.
+> **IMPORTANTE**: il CAP è da intendersi come quello italiano. Se si tratta di un CAP straniero è necessario ricondurlo a 5 cifre oppure indicare '00000'
 
 ---
 
@@ -611,14 +595,16 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 **Causa**: Il CAP è obbligatorio ma mancante o non valido.
 
 **Soluzione**:
-1. Vai alla sezione indicata nel messaggio
-2. Trova il campo **"CAP"**
-3. Inserisci il CAP
-5. Clicca **"Salva"**
+1. Verifica che il CAP sia di **5 cifre** esatte
+2. **NO** 4 cifre (es. `0121` → SBAGLIATO)
+3. **NO** spazi (es. `10121 ` → SBAGLIATO)
+4. Esempio corretto: `10121`
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 {: .warning }
 > **IMPORTANTE**: CAP errato è una delle cause principali del mancato funzionamento di PagoPA! Se lo IUV non si genera, verifica il CAP come prima cosa.
+> **IMPORTANTE**: il CAP è da intendersi come quello italiano. Se si tratta di un CAP straniero è necessario ricondurlo a 5 cifre oppure indicare '00000'
 
 ---
 
@@ -631,11 +617,12 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. **NO** 4 cifre (es. `0121` → SBAGLIATO)
 3. **NO** spazi (es. `10121 ` → SBAGLIATO)
 4. Esempio corretto: `10121`
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 {: .warning }
 > **IMPORTANTE**: CAP errato è una delle cause principali del mancato funzionamento di PagoPA! Se lo IUV non si genera, verifica il CAP come prima cosa.
+> **IMPORTANTE**: il CAP è da intendersi come quello italiano. Se si tratta di un CAP straniero è necessario ricondurlo a 5 cifre oppure indicare '00000'
 
 ---
 
@@ -647,11 +634,12 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"CAP"**
 3. Inserisci il CAP
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 {: .warning }
 > **IMPORTANTE**: CAP errato è una delle cause principali del mancato funzionamento di PagoPA! Se lo IUV non si genera, verifica il CAP come prima cosa.
+> > **IMPORTANTE**: il CAP è da intendersi come quello italiano. Se si tratta di un CAP straniero è necessario ricondurlo a 5 cifre oppure indicare '00000'
 
 ---
 
@@ -664,11 +652,13 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. **NO** 4 cifre (es. `0121` → SBAGLIATO)
 3. **NO** spazi (es. `10121 ` → SBAGLIATO)
 4. Esempio corretto: `10121`
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 {: .warning }
 > **IMPORTANTE**: CAP errato è una delle cause principali del mancato funzionamento di PagoPA! Se lo IUV non si genera, verifica il CAP come prima cosa.
+> **IMPORTANTE**: il CAP è da intendersi come quello italiano. Se si tratta di un CAP straniero è necessario ricondurlo a 5 cifre oppure indicare '00000'
+
 
 ---
 
@@ -677,14 +667,17 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 **Causa**: Il CAP è obbligatorio ma mancante o non valido.
 
 **Soluzione**:
-1. Vai alla sezione indicata nel messaggio
-2. Trova il campo **"CAP"**
-3. Inserisci il CAP
-5. Clicca **"Salva"**
+1. Verifica che il CAP sia di **5 cifre** esatte
+2. **NO** 4 cifre (es. `0121` → SBAGLIATO)
+3. **NO** spazi (es. `10121 ` → SBAGLIATO)
+4. Esempio corretto: `10121`
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 {: .warning }
 > **IMPORTANTE**: CAP errato è una delle cause principali del mancato funzionamento di PagoPA! Se lo IUV non si genera, verifica il CAP come prima cosa.
+> **IMPORTANTE**: il CAP è da intendersi come quello italiano. Se si tratta di un CAP straniero è necessario ricondurlo a 5 cifre oppure indicare '00000'
+
 
 ---
 
@@ -697,11 +690,13 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. **NO** 4 cifre (es. `0121` → SBAGLIATO)
 3. **NO** spazi (es. `10121 ` → SBAGLIATO)
 4. Esempio corretto: `10121`
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 {: .warning }
 > **IMPORTANTE**: CAP errato è una delle cause principali del mancato funzionamento di PagoPA! Se lo IUV non si genera, verifica il CAP come prima cosa.
+> **IMPORTANTE**: il CAP è da intendersi come quello italiano. Se si tratta di un CAP straniero è necessario ricondurlo a 5 cifre oppure indicare '00000'
+
 
 ---
 
@@ -714,11 +709,12 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. **NO** 4 cifre (es. `0121` → SBAGLIATO)
 3. **NO** spazi (es. `10121 ` → SBAGLIATO)
 4. Esempio corretto: `10121`
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 {: .warning }
 > **IMPORTANTE**: CAP errato è una delle cause principali del mancato funzionamento di PagoPA! Se lo IUV non si genera, verifica il CAP come prima cosa.
+> **IMPORTANTE**: il CAP è da intendersi come quello italiano. Se si tratta di un CAP straniero è necessario ricondurlo a 5 cifre oppure indicare '00000'
 
 ---
 
@@ -731,11 +727,12 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. **NO** 4 cifre (es. `0121` → SBAGLIATO)
 3. **NO** spazi (es. `10121 ` → SBAGLIATO)
 4. Esempio corretto: `10121`
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 {: .warning }
 > **IMPORTANTE**: CAP errato è una delle cause principali del mancato funzionamento di PagoPA! Se lo IUV non si genera, verifica il CAP come prima cosa.
+> **IMPORTANTE**: il CAP è da intendersi come quello italiano. Se si tratta di un CAP straniero è necessario ricondurlo a 5 cifre oppure indicare '00000'
 
 ---
 
@@ -765,11 +762,12 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. **NO** 4 cifre (es. `0121` → SBAGLIATO)
 3. **NO** spazi (es. `10121 ` → SBAGLIATO)
 4. Esempio corretto: `10121`
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 {: .warning }
 > **IMPORTANTE**: CAP errato è una delle cause principali del mancato funzionamento di PagoPA! Se lo IUV non si genera, verifica il CAP come prima cosa.
+> **IMPORTANTE**: il CAP è da intendersi come quello italiano. Se si tratta di un CAP straniero è necessario ricondurlo a 5 cifre oppure indicare '00000'
 
 ---
 
@@ -793,7 +791,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -813,7 +811,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -826,8 +824,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Email"** o **"PEC"**
 3. Inserisci l'indirizzo email
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -859,7 +857,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -872,8 +870,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Email"** o **"PEC"**
 3. Inserisci l'indirizzo email
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -892,7 +890,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -912,7 +910,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -932,7 +930,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -945,8 +943,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Email"** o **"PEC"**
 3. Inserisci l'indirizzo email
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -965,7 +963,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -985,7 +983,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -1005,7 +1003,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -1018,8 +1016,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Email"** o **"PEC"**
 3. Inserisci l'indirizzo email
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1038,7 +1036,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -1058,7 +1056,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -1078,7 +1076,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -1091,8 +1089,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Email"** o **"PEC"**
 3. Inserisci l'indirizzo email
-6. Clicca **"Salva"**
-7. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1111,7 +1109,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -1131,7 +1129,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -1151,7 +1149,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -1171,7 +1169,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -1191,7 +1189,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -1211,7 +1209,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -1231,7 +1229,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -1251,7 +1249,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -1271,7 +1269,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -1291,7 +1289,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -1311,7 +1309,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -1331,7 +1329,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -1351,7 +1349,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -1371,7 +1369,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -1391,7 +1389,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -1411,7 +1409,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -1431,7 +1429,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -1451,7 +1449,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - `mario rossi@gmail.com` (spazio)
    - `mario.rossi.gmail.com` (manca @)
    - `mario@@gmail.com` (doppio @)
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -1473,7 +1471,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -1490,7 +1488,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -1507,7 +1505,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -1524,7 +1522,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -1541,7 +1539,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -1558,7 +1556,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -1571,8 +1569,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1584,8 +1582,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1597,8 +1595,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1610,8 +1608,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1623,8 +1621,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1636,8 +1634,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1662,8 +1660,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1675,8 +1673,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1688,8 +1686,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1701,8 +1699,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1714,8 +1712,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1727,8 +1725,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1740,8 +1738,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1753,8 +1751,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1766,8 +1764,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1779,8 +1777,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1792,8 +1790,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1805,8 +1803,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1818,8 +1816,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1831,8 +1829,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1844,8 +1842,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1857,9 +1855,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
-
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 ---
 
 ### ATTENZIONE ! Campo obbligatorio 'Data licenza' non inserito.
@@ -1870,9 +1867,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
-
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 ---
 
 ### ATTENZIONE ! Campo obbligatorio 'Data pratica' non inserito.
@@ -1883,8 +1879,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1896,9 +1892,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
-
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 ---
 
 ### ATTENZIONE ! Campo obbligatorio 'Data protocollo' non inserito.
@@ -1909,8 +1904,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1922,8 +1917,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1935,8 +1930,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1948,8 +1943,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1961,9 +1956,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
-
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 ---
 
 ### ATTENZIONE ! Campo obbligatorio 'Data' non inserita.
@@ -1974,8 +1968,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -1987,8 +1981,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -2000,8 +1994,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -2013,8 +2007,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -2026,9 +2020,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
-
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 ---
 
 ### ATTENZIONE ! Campo obbligatorio 'Data' provvedimento non inserito.
@@ -2039,8 +2032,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -2052,8 +2045,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -2065,8 +2058,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -2078,8 +2071,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -2091,8 +2084,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -2104,8 +2097,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo **"Data"**
 3. Inserisci la data richiesta
-5. Clicca **"Salva"**
-6. Riprova **"Valida e Salva"**
+4. Clicca **"Salva"** (non necessario)
+5. Riprova **"Valida e Salva"**
 
 ---
 
@@ -2121,7 +2114,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2138,7 +2131,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2155,7 +2148,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2172,7 +2165,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2189,7 +2182,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2206,7 +2199,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2223,7 +2216,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2240,7 +2233,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2257,7 +2250,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2274,7 +2267,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2291,7 +2284,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2308,7 +2301,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2325,7 +2318,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2342,7 +2335,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2359,7 +2352,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2376,7 +2369,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2393,9 +2386,8 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
-
 ---
 
 ### ATTENZIONE ! Inserire la data del protocollo dell'autorizzazione sismica.
@@ -2410,7 +2402,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2427,7 +2419,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2444,7 +2436,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2461,7 +2453,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2478,7 +2470,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2495,7 +2487,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2512,7 +2504,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2529,7 +2521,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2546,7 +2538,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2563,7 +2555,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2580,7 +2572,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2597,7 +2589,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2614,7 +2606,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2631,7 +2623,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2648,7 +2640,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2665,7 +2657,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2682,7 +2674,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2699,7 +2691,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2716,7 +2708,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2733,7 +2725,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2750,7 +2742,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2767,7 +2759,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2784,7 +2776,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2801,7 +2793,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2818,7 +2810,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2835,7 +2827,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2852,7 +2844,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2869,7 +2861,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2886,7 +2878,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2903,7 +2895,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2920,7 +2912,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2937,7 +2929,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2954,7 +2946,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2971,7 +2963,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -2988,7 +2980,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3005,7 +2997,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3022,7 +3014,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3039,7 +3031,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3056,7 +3048,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3073,7 +3065,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3090,7 +3082,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3107,7 +3099,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3124,7 +3116,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3141,7 +3133,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3158,7 +3150,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3175,7 +3167,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3192,7 +3184,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3209,7 +3201,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3226,7 +3218,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3243,7 +3235,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3260,7 +3252,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3277,7 +3269,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3294,7 +3286,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3311,7 +3303,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3328,7 +3320,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3345,7 +3337,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3362,7 +3354,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3379,7 +3371,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3396,7 +3388,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3413,7 +3405,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3430,7 +3422,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3447,7 +3439,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3464,7 +3456,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3481,7 +3473,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3498,7 +3490,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - Il giorno sia tra 01 e 31
    - Il mese sia tra 01 e 12
    - L'anno sia di 4 cifre
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -3517,7 +3509,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Cognome**: scrivi come da documento d'identità
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3531,7 +3523,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Cognome**: scrivi come da documento d'identità
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3545,7 +3537,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Cognome**: scrivi come da documento d'identità
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3559,7 +3551,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Cognome**: scrivi come da documento d'identità
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3573,7 +3565,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Cognome**: scrivi come da documento d'identità
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3587,7 +3579,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Cognome**: scrivi come da documento d'identità
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3601,7 +3593,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Cognome**: scrivi come da documento d'identità
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3615,7 +3607,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Cognome**: scrivi come da documento d'identità
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3629,7 +3621,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Cognome**: scrivi come da documento d'identità
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3644,7 +3636,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 3. Inserisci il dato richiesto:
    - **Comune di nascita**: seleziona dal menu a discesa
    - Se nato all'estero: seleziona "Stato estero" e specifica la nazione
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3659,7 +3651,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 3. Inserisci il dato richiesto:
    - **Comune di nascita**: seleziona dal menu a discesa
    - Se nato all'estero: seleziona "Stato estero" e specifica la nazione
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3674,7 +3666,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 3. Inserisci il dato richiesto:
    - **Comune di nascita**: seleziona dal menu a discesa
    - Se nato all'estero: seleziona "Stato estero" e specifica la nazione
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3689,7 +3681,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 3. Inserisci il dato richiesto:
    - **Comune di nascita**: seleziona dal menu a discesa
    - Se nato all'estero: seleziona "Stato estero" e specifica la nazione
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3703,7 +3695,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Cognome**: scrivi come da documento d'identità
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3717,7 +3709,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Cognome**: scrivi come da documento d'identità
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3731,7 +3723,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Nome**: scrivi come da documento d'identità
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3744,7 +3736,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio (es. "Dati Titolare", "Dati Professionista")
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3757,7 +3749,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio (es. "Dati Titolare", "Dati Professionista")
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3771,7 +3763,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Nome**: scrivi come da documento d'identità
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3785,7 +3777,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Nome**: scrivi come da documento d'identità
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3799,7 +3791,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Nome**: scrivi come da documento d'identità
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3813,7 +3805,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Nome**: scrivi come da documento d'identità
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3827,7 +3819,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Nome**: scrivi come da documento d'identità
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3841,7 +3833,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Nome**: scrivi come da documento d'identità
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3855,7 +3847,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Nome**: scrivi come da documento d'identità
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3869,7 +3861,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Nome**: scrivi come da documento d'identità
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3883,7 +3875,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Provincia di nascita**: seleziona dal menu a discesa (sigla provincia, es. TO, MI)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3897,7 +3889,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Provincia di nascita**: seleziona dal menu a discesa (sigla provincia, es. TO, MI)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3911,7 +3903,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Provincia di nascita**: seleziona dal menu a discesa (sigla provincia, es. TO, MI)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3925,7 +3917,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Provincia di nascita**: seleziona dal menu a discesa (sigla provincia, es. TO, MI)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3939,7 +3931,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo evidenziato con **sfondo giallo**
 3. Inserisci il dato richiesto:
    - **Provincia di nascita**: seleziona dal menu a discesa (sigla provincia, es. TO, MI)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3958,7 +3950,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Città/Comune**: seleziona dal menu a discesa
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3972,7 +3964,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Città/Comune**: seleziona dal menu a discesa
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -3986,7 +3978,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Città/Comune**: seleziona dal menu a discesa
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4000,7 +3992,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Città/Comune**: seleziona dal menu a discesa
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4014,7 +4006,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Città/Comune**: seleziona dal menu a discesa
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4028,7 +4020,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Città/Comune**: seleziona dal menu a discesa
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4042,7 +4034,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Città/Comune**: seleziona dal menu a discesa
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4056,7 +4048,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Città/Comune**: seleziona dal menu a discesa
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4071,7 +4063,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 3. Compila:
    - **Via/Piazza**: seleziona dal menu a discesa
    - Se non trovi la via, verifica con l'Ente se c'è "Inserimento manuale"
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4086,7 +4078,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 3. Compila:
    - **Via/Piazza**: seleziona dal menu a discesa
    - Se non trovi la via, verifica con l'Ente se c'è "Inserimento manuale"
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4101,7 +4093,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 3. Compila:
    - **Via/Piazza**: seleziona dal menu a discesa
    - Se non trovi la via, verifica con l'Ente se c'è "Inserimento manuale"
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4116,7 +4108,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 3. Compila:
    - **Via/Piazza**: seleziona dal menu a discesa
    - Se non trovi la via, verifica con l'Ente se c'è "Inserimento manuale"
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4131,7 +4123,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 3. Compila:
    - **Via/Piazza**: seleziona dal menu a discesa
    - Se non trovi la via, verifica con l'Ente se c'è "Inserimento manuale"
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4146,7 +4138,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 3. Compila:
    - **Via/Piazza**: seleziona dal menu a discesa
    - Se non trovi la via, verifica con l'Ente se c'è "Inserimento manuale"
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4161,7 +4153,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 3. Compila:
    - **Via/Piazza**: seleziona dal menu a discesa
    - Se non trovi la via, verifica con l'Ente se c'è "Inserimento manuale"
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4176,7 +4168,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 3. Compila:
    - **Via/Piazza**: seleziona dal menu a discesa
    - Se non trovi la via, verifica con l'Ente se c'è "Inserimento manuale"
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4190,7 +4182,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Città/Comune**: seleziona dal menu a discesa
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4203,7 +4195,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4218,7 +4210,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 3. Compila:
    - **Via/Piazza**: seleziona dal menu a discesa
    - Se non trovi la via, verifica con l'Ente se c'è "Inserimento manuale"
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4231,7 +4223,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4244,7 +4236,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4257,7 +4249,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4270,7 +4262,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4284,7 +4276,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Città/Comune**: seleziona dal menu a discesa
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4298,7 +4290,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Provincia**: seleziona sigla provincia (es. TO, MI, RM)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4312,7 +4304,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Numero civico**: inserisci solo il numero (es. `15`, `22/A`)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4326,7 +4318,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Numero civico**: inserisci solo il numero (es. `15`, `22/A`)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4340,7 +4332,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Numero civico**: inserisci solo il numero (es. `15`, `22/A`)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4354,7 +4346,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Numero civico**: inserisci solo il numero (es. `15`, `22/A`)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4368,7 +4360,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Numero civico**: inserisci solo il numero (es. `15`, `22/A`)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4382,7 +4374,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Numero civico**: inserisci solo il numero (es. `15`, `22/A`)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4396,7 +4388,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Numero civico**: inserisci solo il numero (es. `15`, `22/A`)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4410,7 +4402,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Numero civico**: inserisci solo il numero (es. `15`, `22/A`)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4424,7 +4416,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Numero civico**: inserisci solo il numero (es. `15`, `22/A`)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4438,7 +4430,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Provincia**: seleziona sigla provincia (es. TO, MI, RM)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4452,7 +4444,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Provincia**: seleziona sigla provincia (es. TO, MI, RM)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4466,7 +4458,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Provincia**: seleziona sigla provincia (es. TO, MI, RM)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4480,7 +4472,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Provincia**: seleziona sigla provincia (es. TO, MI, RM)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4494,7 +4486,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Provincia**: seleziona sigla provincia (es. TO, MI, RM)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4508,7 +4500,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Provincia**: seleziona sigla provincia (es. TO, MI, RM)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4522,7 +4514,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Provincia**: seleziona sigla provincia (es. TO, MI, RM)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4536,7 +4528,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Provincia**: seleziona sigla provincia (es. TO, MI, RM)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4550,7 +4542,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Provincia**: seleziona sigla provincia (es. TO, MI, RM)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4564,7 +4556,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Provincia**: seleziona sigla provincia (es. TO, MI, RM)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4578,7 +4570,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Provincia**: seleziona sigla provincia (es. TO, MI, RM)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4592,7 +4584,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
    - **Provincia**: seleziona sigla provincia (es. TO, MI, RM)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4605,7 +4597,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione indicata nel messaggio
 2. Trova il campo dell'indirizzo mancante
 3. Compila:
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 ---
@@ -4623,7 +4615,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione **"Localizzazione intervento"** → **"Dati catastali"**
 2. Inserisci i dati richiesti dal messaggio
 3. Usa i dati della **visura catastale** dell'immobile
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -4639,7 +4631,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione **"Localizzazione intervento"** → **"Dati catastali"**
 2. Inserisci i dati richiesti dal messaggio
 3. Usa i dati della **visura catastale** dell'immobile
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -4655,7 +4647,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione **"Localizzazione intervento"** → **"Dati catastali"**
 2. Inserisci i dati richiesti dal messaggio
 3. Usa i dati della **visura catastale** dell'immobile
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -4677,7 +4669,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
    - **Foglio**: numero del foglio catastale
    - **Particella**: numero della particella
    - **Subalterno**: solo se esiste (per fabbricati)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -4693,7 +4685,7 @@ Scorri all'indice qui sotto e clicca sulla categoria del tuo errore.
 1. Vai alla sezione **"Localizzazione intervento"** → **"Dati catastali"**
 2. Inserisci i dati richiesti dal messaggio
 3. Usa i dati della **visura catastale** dell'immobile
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5118,7 +5110,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 3. Vai alla sezione **"Oneri"** o **"Pagamenti"**
 4. Trova il campo **"Numero scontrino marca da bollo"**
 5. Inserisci il **numero identificativo** presente sullo scontrino
-6. Clicca **"Salva"**
+6. Clicca **"Salva"** (non necessario)
 7. Riprova **"Valida e Salva"**
 
 ---
@@ -5141,7 +5133,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5162,7 +5154,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5183,7 +5175,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5204,7 +5196,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5225,7 +5217,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5246,7 +5238,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5269,7 +5261,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Legale rappresentante (dati completi)
    - Codice impresa cassa edile
    - Sede cassa edile
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5290,7 +5282,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5311,7 +5303,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5332,7 +5324,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5353,7 +5345,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5374,7 +5366,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5395,7 +5387,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5416,7 +5408,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5437,7 +5429,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5458,7 +5450,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5479,7 +5471,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5500,7 +5492,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5521,7 +5513,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5542,7 +5534,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5563,7 +5555,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5584,7 +5576,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5605,7 +5597,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5626,7 +5618,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5647,7 +5639,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5668,7 +5660,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5689,7 +5681,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5710,7 +5702,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5733,7 +5725,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Legale rappresentante (dati completi)
    - Codice impresa cassa edile
    - Sede cassa edile
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5754,7 +5746,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
    - Codice Fiscale
    - Sede legale (indirizzo, CAP, città, provincia)
    - Legale rappresentante (dati completi)
-4. Clicca **"Salva"**
+4. Clicca **"Salva"** (non necessario)
 5. Riprova **"Valida e Salva"**
 
 {: .note }
@@ -5776,7 +5768,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -5790,7 +5782,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -5804,7 +5796,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -5818,7 +5810,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -5832,7 +5824,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -5846,7 +5838,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -5860,7 +5852,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -5874,7 +5866,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -5888,7 +5880,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -5902,7 +5894,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -5916,7 +5908,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -5930,7 +5922,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -5944,7 +5936,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -5958,7 +5950,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -5972,7 +5964,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -5986,7 +5978,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6000,7 +5992,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6014,7 +6006,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6028,7 +6020,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6042,7 +6034,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6056,7 +6048,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6070,7 +6062,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6084,7 +6076,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6098,7 +6090,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6112,7 +6104,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6126,7 +6118,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6140,7 +6132,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6154,7 +6146,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6168,7 +6160,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6182,7 +6174,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6196,7 +6188,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6210,7 +6202,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6224,7 +6216,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6238,7 +6230,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6252,7 +6244,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6266,7 +6258,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6280,7 +6272,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6294,7 +6286,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6308,7 +6300,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6322,7 +6314,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6336,7 +6328,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6350,7 +6342,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6364,7 +6356,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6378,7 +6370,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6392,7 +6384,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6406,7 +6398,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6420,7 +6412,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6434,7 +6426,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6448,7 +6440,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6462,7 +6454,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6476,7 +6468,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6490,7 +6482,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6504,7 +6496,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6518,7 +6510,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6532,7 +6524,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6546,7 +6538,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6560,7 +6552,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6574,7 +6566,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6588,7 +6580,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6602,7 +6594,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6616,7 +6608,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6630,7 +6622,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6644,7 +6636,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6658,7 +6650,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6672,7 +6664,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6686,7 +6678,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6700,7 +6692,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6714,7 +6706,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6728,7 +6720,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6742,7 +6734,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6756,7 +6748,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6770,7 +6762,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6784,7 +6776,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6798,7 +6790,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6812,7 +6804,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6826,7 +6818,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6840,7 +6832,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6854,7 +6846,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6868,7 +6860,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6882,7 +6874,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6896,7 +6888,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6910,7 +6902,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6924,7 +6916,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6938,7 +6930,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6952,7 +6944,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6966,7 +6958,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6980,7 +6972,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -6994,7 +6986,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7008,7 +7000,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7022,7 +7014,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7036,7 +7028,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7050,7 +7042,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7064,7 +7056,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7078,7 +7070,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7092,7 +7084,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7106,7 +7098,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7120,7 +7112,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7134,7 +7126,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7148,7 +7140,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7162,7 +7154,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7176,7 +7168,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7190,7 +7182,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7204,7 +7196,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7218,7 +7210,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7232,7 +7224,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7246,7 +7238,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7260,7 +7252,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7274,7 +7266,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7288,7 +7280,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7302,7 +7294,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7316,7 +7308,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7330,7 +7322,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7344,7 +7336,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7358,7 +7350,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7372,7 +7364,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7386,7 +7378,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7400,7 +7392,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7414,7 +7406,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7428,7 +7420,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7442,7 +7434,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7456,7 +7448,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7470,7 +7462,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7484,7 +7476,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7498,7 +7490,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7512,7 +7504,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7526,7 +7518,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7540,7 +7532,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7554,7 +7546,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7568,7 +7560,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7582,7 +7574,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7596,7 +7588,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7610,7 +7602,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7624,7 +7616,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7638,7 +7630,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7652,7 +7644,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7666,7 +7658,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7680,7 +7672,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7694,7 +7686,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7708,7 +7700,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7722,7 +7714,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7736,7 +7728,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7750,7 +7742,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7764,7 +7756,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7778,7 +7770,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7792,7 +7784,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7806,7 +7798,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7820,7 +7812,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7834,7 +7826,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7848,7 +7840,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7862,7 +7854,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7876,7 +7868,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7890,7 +7882,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7904,7 +7896,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7918,7 +7910,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7932,7 +7924,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7946,7 +7938,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7960,7 +7952,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7974,7 +7966,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -7988,7 +7980,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8002,7 +7994,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8016,7 +8008,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8030,7 +8022,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8044,7 +8036,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8058,7 +8050,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8072,7 +8064,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8086,7 +8078,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8100,7 +8092,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8114,7 +8106,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8128,7 +8120,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8142,7 +8134,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8156,7 +8148,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8170,7 +8162,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8184,7 +8176,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8198,7 +8190,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8212,7 +8204,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8226,7 +8218,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8240,7 +8232,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8254,7 +8246,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8268,7 +8260,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8282,7 +8274,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8296,7 +8288,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8310,7 +8302,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8324,7 +8316,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8338,7 +8330,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8352,7 +8344,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8366,7 +8358,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8380,7 +8372,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8394,7 +8386,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8408,7 +8400,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8422,7 +8414,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8436,7 +8428,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8450,7 +8442,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8464,7 +8456,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8478,7 +8470,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8492,7 +8484,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8506,7 +8498,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8520,7 +8512,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8534,7 +8526,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8548,7 +8540,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8562,7 +8554,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8576,7 +8568,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8590,7 +8582,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8604,7 +8596,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8618,7 +8610,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8632,7 +8624,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8646,7 +8638,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8660,7 +8652,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8674,7 +8666,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8688,7 +8680,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8702,7 +8694,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8716,7 +8708,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8730,7 +8722,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8744,7 +8736,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8758,7 +8750,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8772,7 +8764,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8786,7 +8778,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8800,7 +8792,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8814,7 +8806,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8828,7 +8820,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8842,7 +8834,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8856,7 +8848,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8870,7 +8862,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8884,7 +8876,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8898,7 +8890,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8912,7 +8904,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8926,7 +8918,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8940,7 +8932,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8954,7 +8946,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8968,7 +8960,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8982,7 +8974,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -8996,7 +8988,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9010,7 +9002,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9024,7 +9016,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9038,7 +9030,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9052,7 +9044,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9066,7 +9058,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9080,7 +9072,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9094,7 +9086,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9108,7 +9100,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9122,7 +9114,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9136,7 +9128,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9150,7 +9142,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9164,7 +9156,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9178,7 +9170,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9192,7 +9184,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9206,7 +9198,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9220,7 +9212,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9234,7 +9226,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9248,7 +9240,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9262,7 +9254,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9276,7 +9268,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9290,7 +9282,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9304,7 +9296,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9318,7 +9310,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9332,7 +9324,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9346,7 +9338,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9360,7 +9352,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9374,7 +9366,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9388,7 +9380,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9402,7 +9394,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9416,7 +9408,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9430,7 +9422,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9444,7 +9436,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9458,7 +9450,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9472,7 +9464,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9486,7 +9478,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9500,7 +9492,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9514,7 +9506,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9528,7 +9520,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9542,7 +9534,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9556,7 +9548,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9570,7 +9562,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9584,7 +9576,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9598,7 +9590,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9612,7 +9604,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9626,7 +9618,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9640,7 +9632,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9654,7 +9646,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9668,7 +9660,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9682,7 +9674,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9696,7 +9688,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9710,7 +9702,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9724,7 +9716,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9738,7 +9730,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9752,7 +9744,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9766,7 +9758,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9780,7 +9772,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9794,7 +9786,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9808,7 +9800,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9822,7 +9814,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9836,7 +9828,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9850,7 +9842,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9864,7 +9856,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9878,7 +9870,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9892,7 +9884,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9906,7 +9898,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9920,7 +9912,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9934,7 +9926,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9948,7 +9940,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9962,7 +9954,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9976,7 +9968,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -9990,7 +9982,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10004,7 +9996,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10018,7 +10010,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10032,7 +10024,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10046,7 +10038,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10060,7 +10052,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10074,7 +10066,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10088,7 +10080,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10102,7 +10094,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10116,7 +10108,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10130,7 +10122,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10144,7 +10136,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10158,7 +10150,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10172,7 +10164,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10186,7 +10178,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10200,7 +10192,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10214,7 +10206,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10228,7 +10220,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10242,7 +10234,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10256,7 +10248,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10270,7 +10262,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10284,7 +10276,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10298,7 +10290,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10312,7 +10304,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10326,7 +10318,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10340,7 +10332,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10354,7 +10346,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10368,7 +10360,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10382,7 +10374,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10396,7 +10388,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10410,7 +10402,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10424,7 +10416,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10438,7 +10430,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10452,7 +10444,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10466,7 +10458,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10480,7 +10472,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10494,7 +10486,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10508,7 +10500,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10522,7 +10514,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10536,7 +10528,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10550,7 +10542,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10564,7 +10556,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10578,7 +10570,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10592,7 +10584,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10606,7 +10598,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10620,7 +10612,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10634,7 +10626,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10648,7 +10640,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10662,7 +10654,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10676,7 +10668,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10690,7 +10682,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10704,7 +10696,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10718,7 +10710,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10732,7 +10724,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10746,7 +10738,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10760,7 +10752,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10774,7 +10766,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10788,7 +10780,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10802,7 +10794,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10816,7 +10808,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10830,7 +10822,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10844,7 +10836,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10858,7 +10850,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10872,7 +10864,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10886,7 +10878,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10900,7 +10892,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10914,7 +10906,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10928,7 +10920,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10942,7 +10934,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10956,7 +10948,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10970,7 +10962,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10984,7 +10976,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -10998,7 +10990,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11012,7 +11004,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11026,7 +11018,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11040,7 +11032,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11054,7 +11046,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11068,7 +11060,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11082,7 +11074,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11096,7 +11088,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11110,7 +11102,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11124,7 +11116,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11138,7 +11130,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11152,7 +11144,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11166,7 +11158,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11180,7 +11172,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11194,7 +11186,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11208,7 +11200,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11222,7 +11214,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11236,7 +11228,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11250,7 +11242,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11264,7 +11256,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11278,7 +11270,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11292,7 +11284,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11306,7 +11298,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11320,7 +11312,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11334,7 +11326,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11348,7 +11340,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11362,7 +11354,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11376,7 +11368,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11390,7 +11382,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11404,7 +11396,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11418,7 +11410,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11432,7 +11424,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11446,7 +11438,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11460,7 +11452,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11474,7 +11466,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11488,7 +11480,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11502,7 +11494,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11516,7 +11508,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11530,7 +11522,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11544,7 +11536,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11558,7 +11550,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11572,7 +11564,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11586,7 +11578,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11600,7 +11592,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11614,7 +11606,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11628,7 +11620,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11642,7 +11634,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11656,7 +11648,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11670,7 +11662,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11684,7 +11676,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11698,7 +11690,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11712,7 +11704,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11726,7 +11718,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11740,7 +11732,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11754,7 +11746,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11768,7 +11760,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11782,7 +11774,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11796,7 +11788,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11810,7 +11802,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11824,7 +11816,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11838,7 +11830,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11852,7 +11844,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11866,7 +11858,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11880,7 +11872,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11894,7 +11886,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11908,7 +11900,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11922,7 +11914,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11936,7 +11928,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11950,7 +11942,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11964,7 +11956,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11978,7 +11970,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -11992,7 +11984,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12006,7 +11998,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12020,7 +12012,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12034,7 +12026,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12048,7 +12040,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12062,7 +12054,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12076,7 +12068,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12090,7 +12082,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12104,7 +12096,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12118,7 +12110,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12132,7 +12124,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12146,7 +12138,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12160,7 +12152,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12174,7 +12166,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12188,7 +12180,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12202,7 +12194,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12216,7 +12208,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12230,7 +12222,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12244,7 +12236,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12258,7 +12250,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12272,7 +12264,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12286,7 +12278,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12300,7 +12292,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12314,7 +12306,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12328,7 +12320,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12342,7 +12334,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12356,7 +12348,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12370,7 +12362,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12384,7 +12376,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12398,7 +12390,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12412,7 +12404,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12426,7 +12418,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12440,7 +12432,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12454,7 +12446,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12468,7 +12460,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12482,7 +12474,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12496,7 +12488,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12510,7 +12502,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12524,7 +12516,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12538,7 +12530,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12552,7 +12544,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12566,7 +12558,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12580,7 +12572,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12594,7 +12586,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12608,7 +12600,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12622,7 +12614,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12636,7 +12628,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12650,7 +12642,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12664,7 +12656,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12678,7 +12670,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12692,7 +12684,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12706,7 +12698,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12720,7 +12712,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12734,7 +12726,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12748,7 +12740,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12762,7 +12754,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12776,7 +12768,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12790,7 +12782,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12804,7 +12796,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12818,7 +12810,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12832,7 +12824,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12846,7 +12838,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12860,7 +12852,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12874,7 +12866,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12888,7 +12880,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12902,7 +12894,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12916,7 +12908,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12930,7 +12922,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12944,7 +12936,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12958,7 +12950,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12972,7 +12964,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -12986,7 +12978,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13000,7 +12992,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13014,7 +13006,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13028,7 +13020,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13042,7 +13034,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13056,7 +13048,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13070,7 +13062,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13084,7 +13076,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13098,7 +13090,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13112,7 +13104,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13126,7 +13118,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13140,7 +13132,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13154,7 +13146,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13168,7 +13160,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13182,7 +13174,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13196,7 +13188,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13210,7 +13202,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13224,7 +13216,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13238,7 +13230,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13252,7 +13244,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13266,7 +13258,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13280,7 +13272,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13294,7 +13286,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13308,7 +13300,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13322,7 +13314,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
@@ -13336,7 +13328,7 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 2. Vai alla sezione indicata nel messaggio
 3. Trova il campo evidenziato con **sfondo giallo**
 4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"**
+5. Clicca **"Salva"** (non necessario)
 6. Riprova **"Valida e Salva"**
 
 ---
