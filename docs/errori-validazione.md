@@ -12,6 +12,7 @@ Riferimento completo a **tutti gli errori** che possono apparire durante la comp
 
 {: .note }
 > Quando clicchi **"Valida e Salva"**, il sistema verifica che tutti i dati siano corretti e completi. Se trova errori, appare un messaggio rosso. Usa questa guida per trovare rapidamente la soluzione.
+> Il sistema, individuato il primo errore, posiziona il cursore nella posizione in cui l'errore si è manifestato, pertanto puoi facilmente individuare il punto in cui intervenire
 
 ---
 
