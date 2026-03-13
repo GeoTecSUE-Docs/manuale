@@ -10057,20 +10057,6 @@ Dettagli: [Troubleshooting - Caricamento file](troubleshooting.html#21-file-non-
 
 ---
 
-### ATTENZIONE ! Non è stata selezionata nessuna voce per 'DestiLombardia1ione d'Uso'.
-
-**Causa**: Campo obbligatorio mancante o non valido.
-
-**Soluzione**:
-1. Leggi attentamente il messaggio di errore
-2. Vai alla sezione indicata nel messaggio
-3. Trova il campo evidenziato con **sfondo giallo**
-4. Compila o correggi il dato richiesto
-5. Clicca **"Salva"** (non necessario)
-6. Riprova **"Valida e Salva"**
-
----
-
 ### ATTENZIONE ! Non è stata selezionata nessuna voce per 'Destinazione d'Uso'.
 
 **Causa**: Campo obbligatorio mancante o non valido.
