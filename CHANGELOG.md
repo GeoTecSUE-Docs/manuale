@@ -6,17 +6,13 @@ permalink: /changelog/
 
 # Changelog - Manuale utente GeoTecSUE
 
-## [1.0.0] - 25/03/2026
+## [1.0] - 25/03/2026
 - Rilasciata la prima versione del manuale
 
 ### Aggiunte
 - Manuale completo versione 1.0
-- 16 file di documentazione
-- Troubleshooting basato su 1.542 ticket reali
-- FAQ estratte da tutte le sezioni
-- Notifica Preliminare (Piemonte)
-- Gestione anagrafiche e autocompilazione modelli
-- Importazione pratiche pregresse
+- 15 file di documentazione e 2 appendici
+- Troubleshooting basato su 1.542 ticket reali (aggiornati a Febbraio 2026)
 
 ### Note
 - Prima versione pubblica del manuale
