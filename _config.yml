@@ -17,7 +17,7 @@ search_enabled: true
 nav_sort: case_sensitive
 
 # Footer
-footer_content: '© GeoTecSUE · <a href="/GeoTecSUE-Manuale/CHANGELOG.md">Changelog</a>'
+footer_content: '© GeoTecSUE · <a href="/GeoTecSUE-Manuale/changelog/">Changelog</a>'
    
 locale: it-IT
 timezone: Europe/Rome
