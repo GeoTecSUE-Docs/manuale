@@ -33,31 +33,31 @@ Puoi:
 ## Indice dei contenuti
 
 ### Introduzione
-- [Accesso al portale e gestione del profilo](/GeoTecSUE-Manuale/docs/accesso-e-profilo)
-- [Nozioni di base](/GeoTecSUE-Manuale/docs/nozioni-di-base)
-- [Interfaccia e convenzioni](/GeoTecSUE-Manuale/docs/interfaccia-e-convenzioni)
+- [Accesso al portale e gestione del profilo](/manuale/docs/accesso-e-profilo)
+- [Nozioni di base](/manuale/docs/nozioni-di-base)
+- [Interfaccia e convenzioni](/manuale/docs/interfaccia-e-convenzioni)
 
 ### Le mie istanze
-- [Creazione di una nuova istanza](/GeoTecSUE-Manuale/docs/nuova-istanza)
-- [Compilare un'istanza](/GeoTecSUE-Manuale/docs/compilare-istanza)
-- [Errori di validazione](/GeoTecSUE-Manuale/docs/errori-validazione)
-- [Importazione pratiche pregresse](/GeoTecSUE-Manuale/docs/non-presenti-geotecsue)
-- [Consultare l'elenco delle pratiche](/GeoTecSUE-Manuale/docs/elenco-istanze)
-- [Dettaglio istanza](/GeoTecSUE-Manuale/docs/dettaglio-istanza)
-- [Notifica Preliminare (Piemonte)](/GeoTecSUE-Manuale/docs/notifica-preliminare)
+- [Creazione di una nuova istanza](/manuale/docs/nuova-istanza)
+- [Compilare un'istanza](/manuale/docs/compilare-istanza)
+- [Errori di validazione](/manuale/docs/errori-validazione)
+- [Importazione pratiche pregresse](/manuale/docs/non-presenti-geotecsue)
+- [Consultare l'elenco delle pratiche](/manuale/docs/elenco-istanze)
+- [Visualizzare il dettaglio di una pratica](/manuale/docs/dettaglio-istanza)
+- [Notifica Preliminare (Piemonte)](/manuale/docs/notifica-preliminare)
 
 ### Gestione anagrafiche e strumenti
-- [Gestione anagrafiche](/GeoTecSUE-Manuale/docs/gestione-anagrafiche)
-- [Autocompilazione modelli](/GeoTecSUE-Manuale/docs/autocompilazione-modelli)
+- [Gestione anagrafiche](/manuale/docs/gestione-anagrafiche)
+- [Autocompilazione modelli](/manuale/docs/autocompilazione-modelli)
 
-### Assistenza e risoluzione problemi
-- [Assistenza tecnica](/GeoTecSUE-Manuale/docs/assistenza-tecnica)
-- [Troubleshooting](/GeoTecSUE-Manuale/docs/troubleshooting)
-- [FAQ](/GeoTecSUE-Manuale/docs/faq)
+### Assistenza, risoluzione problemi e FAQ
+- [Assistenza tecnica](/manuale/docs/assistenza-tecnica)
+- [Troubleshooting](/manuale/docs/troubleshooting)
+- [FAQ](/manuale/docs/faq)
 
 ### Appendici
-- [Ciclo di vita dettagliato](/GeoTecSUE-Manuale/docs/appendici/ciclo-vita-dettagliato)
-- [Stati PagoPA](/GeoTecSUE-Manuale/docs/appendici/pagopa-stati)
+- [Ciclo di vita dettagliato](/manuale/docs/appendici/ciclo-vita-dettagliato)
+- [Stati PagoPA](/manuale/docs/appendici/pagopa-stati)
 
 ---
 
