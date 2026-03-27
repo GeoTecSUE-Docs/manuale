@@ -1,0 +1,14 @@
+baseurl: ""
+url: "https://69c3ae453897a6270dd732d9--cheery-dasik-43c72d.netlify.app"
+theme: just-the-docs
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: default
