@@ -1423,8 +1423,8 @@ Questo messaggio compare su qualsiasi campo data con formato errato.
 
 1. **Cerca in questa guida** con Ctrl+F (copia/incolla il messaggio esatto)
 2. Verifica [Errori Comuni](errori-validazione.html#errori-comuni)
-3. Consulta [Compilare istanza SCIA](compilare-istanza.html)
-4. Contatta [Assistenza](assistenza-tecnica.html) con screenshot
+3. Consulta [Compilare istanza](compilare-istanza.html)
+4. Contatta [Assistenza](assistenza-tecnica.html)
 
 ---
 
