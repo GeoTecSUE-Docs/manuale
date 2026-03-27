@@ -6,6 +6,18 @@ permalink: /changelog/
 
 # Changelog - Manuale utente GeoTecSUE
 
+## [1.1] - 27/03/2026
+- Rilasciata la versione 1.1 del manuale
+
+### Aggiunte
+- 3 nuove pagine sugli errori di validazione per pratiche della Regione Piemonte:
+  - Errori Validazione CILA - Regione Piemonte
+  - Errori Validazione SCIA - Regione Piemonte
+  - Errori Validazione Fine Lavori - Regione Piemonte
+
+### Note
+- Aggiornamento focalizzato sull’ampliamento della documentazione di troubleshooting e validazione
+
 ## [1.0] - 25/03/2026
 - Rilasciata la prima versione del manuale
 
