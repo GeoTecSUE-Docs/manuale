@@ -925,8 +925,8 @@ Quando vedi:
 
 1. **Cerca in questa guida** con Ctrl+F (copia/incolla messaggio esatto)
 2. Verifica [Errori Comuni](errori-validazione.html#errori-comuni)
-3. Consulta [Compilare istanza CILA](compilare-istanza.html)
-4. Contatta [Assistenza](assistenza-tecnica.html) con screenshot
+3. Consulta [Compilare istanza](compilare-istanza.html)
+4. Contatta [Assistenza](assistenza-tecnica.html)
 
 ---
 
