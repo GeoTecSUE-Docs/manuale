@@ -1431,7 +1431,6 @@ Questo messaggio compare su qualsiasi campo data con formato errato.
 ## Prossimi passi
 
 - [Compilare un'istanza](compilare-istanza.html) - Guida completa compilazione
-- [Errori CILA](errori-cila-piemonte.html) - Errori specifici CILA
 - [Errori comuni](errori-validazione.html#errori-comuni) - Errori validi per tutte le pratiche
 - [Troubleshooting](troubleshooting.html) - Problemi tecnici
 - [Assistenza tecnica](assistenza-tecnica.html) - Contatti supporto
