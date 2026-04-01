@@ -10,9 +10,10 @@ permalink: /changelog/
 - Rilasciata la versione 1.2 del manuale
 
 ### Aggiunte
-- 2 nuove pagine sugli errori di validazione per pratiche della Regione Piemonte:
+- 3 nuove pagine sugli errori di validazione per pratiche della Regione Piemonte:
   - Errori Validazione Permesso di Costruire - Regione Piemonte
   - Errori Validazione Segnalazione Certificata di Agibilità - Regione Piemonte
+  - Errori Validazione Denuncia Sismica - Regione Piemonte
 - 1 nuova FAQ relativa alla variante
 
 ### Note
