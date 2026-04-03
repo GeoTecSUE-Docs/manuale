@@ -4,6 +4,9 @@ nav_order: 20
 parent: Introduzione
 description: Concetti fondamentali di GeoTecSUE - tipologie di istanze, ciclo di vita e gestione dei professionisti
 keywords: [istanza, pratica, comunicazione, integrazione, ciclo di vita, stati, professionista principale, soggetti compilatori, retention]
+IDRegione: 99
+IDTipoPratica: 9999
+Fonte: Manuale
 ---
 
 # Nozioni di base
