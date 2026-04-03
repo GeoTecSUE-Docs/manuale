@@ -4,6 +4,9 @@ parent: Appendici
 nav_order: 1
 description: Descrizione completa di tutti gli stati possibili durante il ciclo di vita di un'istanza su GeoTecSUE, inclusi stati regionali e deprecati
 keywords: [stati pratica, ciclo di vita, inviata, protocollata, registrata, esecutiva, archiviata, diniego, integrazioni, verificata, rifiutata]
+IDRegione: 99
+IDTipoPratica: 9999
+Fonte: Manuale
 ---
 
 # Ciclo di vita dettagliato
