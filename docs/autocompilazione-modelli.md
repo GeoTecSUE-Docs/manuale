@@ -4,6 +4,9 @@ nav_order: 20
 parent: Gestione anagrafiche e strumenti
 description: Come generare automaticamente modelli precompilati (procure, deleghe, dichiarazioni) usando l'anagrafica o i dati delle pratiche
 keywords: [autocompilazione, modelli, procura, delega, dichiarazioni, PDF, precompilazione, template, documenti]
+IDRegione: 99
+IDTipoPratica: 9999
+Fonte: Manuale
 ---
 
 # Autocompilazione modelli
