@@ -4,6 +4,9 @@ parent: Appendici
 nav_order: 2
 description: Descrizione completa degli stati dei pagamenti PagoPA su GeoTecSUE con icone, codici e significato operativo per ogni fase del pagamento
 keywords: [PagoPA, stati pagamento, IUV, codici pagamento, pagamento eseguito, pagamento scaduto, incasso, storno]
+IDRegione: 99
+IDTipoPratica: 9999
+Fonte: Manuale
 ---
 
 # Stati PagoPA
