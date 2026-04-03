@@ -4,6 +4,9 @@ nav_order: 60
 parent: Le mie istanze
 description: Guida completa alla compilazione e trasmissione della Notifica Preliminare cantieri per la Regione Piemonte tramite GeoTecSUE, MUDE e SPRESAL
 keywords: [notifica preliminare, Piemonte, MUDE, SPRESAL, cantieri, D.Lgs 81/08, sicurezza cantieri, aggiornamento notifica]
+IDRegione: 2
+IDTipoPratica: 2
+Fonte: Manuale
 ---
 
 # Notifica Preliminare (Piemonte)
