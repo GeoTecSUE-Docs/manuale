@@ -4,6 +4,9 @@ parent: Errori di validazione
 nav_order: 5
 description: Errori di validazione specifici per la Segnalazione Certificata di Agibilità (SCA) Regione Piemonte - Guida dettagliata campo per campo
 keywords: [agibilità, SCA, segnalazione certificata agibilità, errori agibilità, validazione agibilità, titolo abilitativo, fine lavori]
+IDRegione: 2
+IDTipoPratica: 12
+Fonte: Manuale
 ---
 
 # Errori di validazione - Segnalazione Certificata di Agibilità Regione Piemonte
