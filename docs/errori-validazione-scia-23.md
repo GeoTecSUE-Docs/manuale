@@ -4,6 +4,9 @@ parent: Errori di validazione
 nav_order: 2
 description: Errori di validazione specifici per la SCIA Regione Piemonte - Guida dettagliata campo per campo
 keywords: [SCIA, errori SCIA, validazione SCIA, titolarità, qualificazione intervento, sanatoria, localizzazione]
+IDRegione: 2
+IDTipoPratica: 23
+Fonte: Manuale
 ---
 
 # Errori di validazione - SCIA Regione Piemonte
