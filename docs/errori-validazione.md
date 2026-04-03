@@ -162,11 +162,11 @@ Se ad esempio il CAP è di sole 3 cifre, si può fare un'aggiunta di due zeri in
 
 ### ATTENZIONE ! Campo obbligatorio non inserito.
 
-**Causa**: Campo obbligatorio mancante.
+**Causa**: Campo obbligatorio mancante oppure hai selezionato un valore dal menu **In qualità di** (ad esempio Altro, Legale rappresentante, ecc.). Quando questo menu ha una selezione attiva, il sistema rende obbligatori tutti i campi della sezione sottostante.
 
 **Soluzione**:
 1. Il sistema dovrebbe averti posizionato nella sezione **DATI DELLA DITTA/SOCIETA'/ENTE/ALTRO** o nella sezione **DATI DEL PROCURATORE / DELEGATO** in un campo mancante
-2. Compila o correggi il dato richiesto
+2. Compila o correggi il dato richiesto oppure, se hai attivato la tendina **In qualità di**: se il soggetto non è una ditta/società/ente, seleziona la voce vuota per azzerare la selezione — il sistema rimuoverà automaticamente l'obbligatorietà dei campi
 3. Riprova **"Valida e Salva"**
 
 ---
