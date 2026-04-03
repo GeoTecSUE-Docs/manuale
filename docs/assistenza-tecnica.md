@@ -4,6 +4,9 @@ nav_order: 10
 parent: Assistenza, risoluzione problemi e FAQ
 description: Come contattare l'assistenza tecnica di GeoTecSUE tramite sistema di ticketing o telefono, tempi di risposta e cosa può essere risolto
 keywords: [assistenza, supporto, ticket, help desk, contattare assistenza, problema tecnico, telefono assistenza, richiesta aiuto]
+IDRegione: 99
+IDTipoPratica: 9999
+Fonte: Manuale
 ---
 
 # Assistenza tecnica
