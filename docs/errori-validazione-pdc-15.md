@@ -4,6 +4,9 @@ parent: Errori di validazione
 nav_order: 4
 description: Errori di validazione specifici per il Permesso di Costruire Regione Piemonte - Guida dettagliata campo per campo
 keywords: [permesso di costruire, PdC, errori PdC, validazione permesso costruire, qualificazione intervento, sanatoria, deroga, variazione essenziale, contributo costruzione]
+IDRegione: 2
+IDTipoPratica: 15
+Fonte: Manuale
 ---
 
 # Errori di validazione - Permesso di Costruire Regione Piemonte
