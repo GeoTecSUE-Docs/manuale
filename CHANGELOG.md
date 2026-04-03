@@ -6,6 +6,18 @@ permalink: /changelog/
 
 # Changelog - Manuale utente GeoTecSUE
 
+## [1.2] - 01/04/2026
+- Rilasciata la versione 1.2 del manuale
+
+### Aggiunte
+- 2 nuove pagine sugli errori di validazione per pratiche della Regione Piemonte:
+  - Errori Validazione Permesso di Costruire - Regione Piemonte
+  - Errori Validazione Segnalazione Certificata di Agibilità - Regione Piemonte  
+- 1 nuova FAQ relativa alla variante
+
+### Note
+- Aggiornamento focalizzato sull'ampliamento della documentazione di troubleshooting e validazione
+
 ## [1.1] - 27/03/2026
 - Rilasciata la versione 1.1 del manuale
 
@@ -16,7 +28,7 @@ permalink: /changelog/
   - Errori Validazione Fine Lavori - Regione Piemonte
 
 ### Note
-- Aggiornamento focalizzato sull’ampliamento della documentazione di troubleshooting e validazione
+- Aggiornamento focalizzato sull'ampliamento della documentazione di troubleshooting e validazione
 
 ## [1.0] - 25/03/2026
 - Rilasciata la prima versione del manuale

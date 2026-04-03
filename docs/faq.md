@@ -127,6 +127,10 @@ Il filtro "Nascondi" influisce solo sulla **tua visualizzazione** personale.
 
 Devi operare su ogni pratica singolarmente.
 
+### Devo trasmettere una variante ad una pratica già presentata. Come fare?
+
+La **variante** è, a tutti gli effetti, una nuova pratica: pertanto dovrai creare una pratica da zero e all'interno della stessa (in base alla tipologia della pratica) potrai indicare la pratica che stai variando. Puoi sempre utilizzare anche la **descrizione dell'intervento** per indicare che quanto stai trasmettendo è *variante rispetto a...*
+
 ---
 
 ## Comunicazioni e integrazioni
