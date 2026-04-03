@@ -4,6 +4,9 @@ nav_order: 50
 parent: Le mie istanze
 description: Guida completa alla pagina di dettaglio delle pratiche inviate e importate - sezioni, azioni disponibili e gestione comunicazioni e integrazioni
 keywords: [dettaglio pratica, visualizza pratica, comunicazioni, integrazioni, pagamenti PagoPA, ricevute, archiviazione, allegati, tracciabilità]
+IDRegione: 99
+IDTipoPratica: 9999
+Fonte: Manuale
 ---
 
 # Visualizzare il dettaglio di una pratica
