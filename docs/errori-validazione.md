@@ -5,6 +5,9 @@ parent: Le mie istanze
 description: Guida agli errori di validazione - processo di validazione ed errori comuni
 keywords: [errori, validazione, campo obbligatorio, errore compilazione]
 has_children: true
+IDRegione: 99
+IDTipoPratica: 9999
+Fonte: Manuale
 ---
 
 # Errori di validazione
