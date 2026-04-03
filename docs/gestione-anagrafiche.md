@@ -4,6 +4,9 @@ nav_order: 10
 parent: Gestione anagrafiche e strumenti
 description: Come gestire le anagrafiche di richiedenti, professionisti e imprese su GeoTecSUE per velocizzare la compilazione delle pratiche
 keywords: [anagrafica, richiedenti, professionisti, imprese, soggetti, autocompilazione, dati ricorrenti, caricamento anagrafica]
+IDRegione: 99
+IDTipoPratica: 9999
+Fonte: Manuale
 ---
 
 # Gestione anagrafiche
