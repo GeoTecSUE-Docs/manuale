@@ -4,6 +4,9 @@ nav_order: 10
 parent: Introduzione
 description: Come accedere a GeoTecSUE tramite SPID o CIE e gestire i dati del proprio profilo utente
 keywords: [accesso, login, SPID, CIE, profilo, autenticazione]
+IDRegione: 99
+IDTipoPratica: 9999
+Fonte: Manuale
 ---
 
 # Accesso al portale e gestione del profilo
