@@ -4,6 +4,9 @@ parent: Errori di validazione
 nav_order: 3
 description: Errori di validazione specifici per la Comunicazione di Fine Lavori Regione Piemonte - Guida dettagliata campo per campo
 keywords: [fine lavori, errori fine lavori, validazione fine lavori, ultimazione lavori, localizzazione, titolo abilitativo]
+IDRegione: 2
+IDTipoPratica: 102
+Fonte: Manuale
 ---
 
 # Errori di validazione - Fine Lavori Regione Piemonte
