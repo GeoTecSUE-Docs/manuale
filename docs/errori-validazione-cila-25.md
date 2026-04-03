@@ -4,6 +4,9 @@ parent: Errori di validazione
 nav_order: 1
 description: Errori di validazione specifici per la C.I.L.A. Regione Piemonte - Guida dettagliata campo per campo
 keywords: [CILA, errori CILA, validazione CILA, titolarità, opere comuni, localizzazione]
+IDRegione: 2
+IDTipoPratica: 25
+Fonte: Manuale
 ---
 
 # Errori di validazione - CILA Regione Piemonte
