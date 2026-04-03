@@ -4,6 +4,9 @@ nav_order: 30
 parent: Introduzione
 description: Guida alle icone, colori e convenzioni grafiche dell'interfaccia GeoTecSUE per navigare il portale in modo efficace
 keywords: [interfaccia, pulsanti, icone, colori, convenzioni, modifica, cancellazione, visualizza, soggetti, azioni]
+IDRegione: 99
+IDTipoPratica: 9999
+Fonte: Manuale
 ---
 
 # Interfaccia e convenzioni
