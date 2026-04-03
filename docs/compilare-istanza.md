@@ -4,6 +4,9 @@ nav_order: 20
 parent: Le mie istanze
 description: Guida completa alla compilazione di pratiche edilizie su GeoTecSUE - inserimento dati, soggetti, localizzazione, allegati, pagamenti e invio
 keywords: [compilare pratica, inserimento dati, titolare, soggetti, localizzazione, mappali, allegati, pagamenti PagoPA, validazione, firma digitale, invio]
+IDRegione: 99
+IDTipoPratica: 9999
+Fonte: Manuale
 ---
 
 # Compilare un'istanza
