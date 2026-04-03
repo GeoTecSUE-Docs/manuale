@@ -4,6 +4,9 @@ nav_order: 10
 parent: Le mie istanze
 description: Come creare una nuova pratica edilizia da zero o duplicando una pratica esistente per riutilizzare i dati comuni
 keywords: [nuova istanza, creazione pratica, duplica istanza, tipo pratica, tipo intervento, allegati obbligatori, duplicazione]
+IDRegione: 99
+IDTipoPratica: 9999
+Fonte: Manuale
 ---
 
 # Creazione di una nuova istanza
