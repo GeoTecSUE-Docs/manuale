@@ -4,6 +4,9 @@ parent: Errori di validazione
 nav_order: 6
 description: Errori di validazione specifici per la Denuncia Sismica (DS) Regione Piemonte - Guida dettagliata campo per campo
 keywords: [denuncia sismica, DS, errori denuncia sismica, validazione sismica, progettista strutturale, direttore lavori strutturali, collaudo, vincolo idrogeologico]
+IDRegione: 2
+IDTipoPratica: 17
+Fonte: Manuale
 ---
 
 # Errori di validazione - Denuncia Sismica Regione Piemonte
