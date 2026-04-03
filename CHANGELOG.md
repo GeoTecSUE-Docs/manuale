@@ -6,7 +6,7 @@ permalink: /changelog/
 
 # Changelog - Manuale utente GeoTecSUE
 
-## [1.2] - 01/04/2026
+## [1.2] - 03/04/2026
 - Rilasciata la versione 1.2 del manuale
 
 ### Aggiunte
