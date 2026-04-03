@@ -4,6 +4,9 @@ nav_order: 30
 parent: Assistenza, risoluzione problemi e FAQ
 description: Domande frequenti su GeoTecSUE - risposte rapide ai quesiti più comuni su compilazione, invio, pagamenti, assistenza e funzionalità
 keywords: [FAQ, domande frequenti, aiuto, risposte, quesiti comuni, dubbi, help]
+IDRegione: 99
+IDTipoPratica: 9999
+Fonte: Manuale
 ---
 
 # Domande frequenti (FAQ)
