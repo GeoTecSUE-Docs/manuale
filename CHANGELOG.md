@@ -13,6 +13,8 @@ permalink: /changelog/
 - 2 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Autorizzazione Paesaggistica Semplificata - Regione Piemonte
   - Errori Validazione CILA Superbonus - Tutte le Regioni
+  - Errori Validazione SCIA Alternativa al Permesso di Costruire - Regione Piemonte
+  - Errori Validazione Inizio Lavori - Regione Piemonte
  
 ### Note
 - Aggiornamento focalizzato sull'ampliamento della documentazione di troubleshooting e validazione
