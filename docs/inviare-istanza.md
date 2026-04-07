@@ -39,5 +39,9 @@ Se il sistema non rileva incongruenze tra il file PDF generato e quello firmato 
 
 ## Invio Comunicazione
 
-L'invio della comunicazione ricalca quanto visto nella sezione dell'invio pratica (
+L'invio della comunicazione ricalca quanto visto nella sezione dell'[invio pratica](invaire-istanza.html#invio-pratica).
+
+## Richiesta Integrazioni
+
+All'interno del dettaglio della pratica, se l'Ente ha fatto una *richiesta di integrazioni* è possibile caricare e trasmettere...
 
