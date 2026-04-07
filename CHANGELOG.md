@@ -6,6 +6,17 @@ permalink: /changelog/
 
 # Changelog - Manuale utente GeoTecSUE
 
+## [1.3] - 10/04/2026
+- Rilasciata la versione 1.3 del manuale
+
+### Aggiunte
+- 2 nuove pagine sugli errori di validazione per pratiche
+  - Errori Validazione Autorizzazione Paesaggistica Semplificata - Regione Piemonte
+  - Errori Validazione CILA Superbonus - Tutte le Regioni
+ 
+### Note
+- Aggiornamento focalizzato sull'ampliamento della documentazione di troubleshooting e validazione
+
 ## [1.2] - 03/04/2026
 - Rilasciata la versione 1.2 del manuale
 
