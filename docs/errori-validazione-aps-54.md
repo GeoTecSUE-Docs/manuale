@@ -4,6 +4,9 @@ parent: Errori di validazione
 nav_order: 7
 description: Errori di validazione specifici per l'Autorizzazione Paesaggistica Semplificata (APS) Regione Piemonte - Guida dettagliata campo per campo
 keywords: [APS, autorizzazione paesaggistica semplificata, errori APS, validazione APS, vincolo paesaggistico, allegato B, DPR 31/2017, dlgs 42/2004]
+IDRegione: 2
+IDTipoPratica: 54
+Fonte: Manuale
 ---
 
 # Errori di validazione - Autorizzazione Paesaggistica Semplificata Regione Piemonte
