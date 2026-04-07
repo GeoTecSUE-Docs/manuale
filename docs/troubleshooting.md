@@ -323,16 +323,19 @@ Per tutti gli stati PagoPA: [Appendice Stati PagoPA](appendici/pagopa-stati.html
 
 **Soluzione**:
 1. Vai su **"Nuova istanza"**
-2. Seleziona il tipo di variante (es. CILA in variante, Permesso in variante)
+2. Seleziona il tipo di pratica di interesse (SCIA, Permesso di Costruire...)
 3. Compila normalmente
-4. Nella sezione **"Descrizione dell'intervento"**, scrivi:
+4. Nella sezione dedicata, indica la pratica esistente a cui la variante si riferisce inserendo numero e data (o selezionandola dall'elenco, se disponibile)
+5. Si può utilizzare anche la sezione **"Descrizione dell'intervento"**, in cui inserire (ad esempio):
    - "Variante alla SCIA n. [numero pratica] del [data]"
    - Oppure: "Variante al Permesso di Costruire n. [numero] - Pratica [anno/numero]"
-
-5. L'Ufficio Tecnico vedrà il riferimento e collegherà le due pratiche nel proprio gestionale
+6. L'Ufficio Tecnico vedrà il riferimento e collegherà le due pratiche nel proprio gestionale
 
 {: .note }
 > Il collegamento tra pratiche è gestito dall'Ente nel proprio sistema. Tu devi solo indicare chiaramente nella descrizione a quale pratica si riferisce la variante oppure spuntare opportuna voce se prevista dal modello.
+
+{: .note }
+> **Attenzione**: il D.P.R. 380/2001 disciplina le varianti distinguendo tra modifiche non rilevanti e variazioni essenziali. Tuttavia, non tutte le pratiche edilizie ammettono la presentazione di varianti: la possibilità dipende dal tipo di titolo edilizio e dalla normativa regionale applicabile. Devi quindi verificare caso per caso se la variante è consentita oppure se è necessario presentare una nuova pratica
 
 ### Problema 6.2: Denuncia Sismica collegata a SCIA
 
