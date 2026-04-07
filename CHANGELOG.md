@@ -16,6 +16,9 @@ permalink: /changelog/
   - Errori Validazione SCIA Alternativa al Permesso di Costruire - Regione Piemonte
   - Errori Validazione Inizio Lavori - Regione Piemonte
  
+### Modifiche
+- Migliorata la sezione delle **varianti** nel *troubleshooting*
+ 
 ### Note
 - Aggiornamento focalizzato sull'ampliamento della documentazione di troubleshooting e validazione
 
