@@ -10,6 +10,7 @@ permalink: /changelog/
 - Rilasciata la versione 1.3 del manuale
 
 ### Aggiunte
+- "Inviare un'istanza" nella sezione "Le mie istanze"
 - 2 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Autorizzazione Paesaggistica Semplificata - Regione Piemonte
   - Errori Validazione CILA Superbonus - Tutte le Regioni
@@ -21,6 +22,7 @@ permalink: /changelog/
  
 ### Note
 - Aggiornamento focalizzato sull'ampliamento della documentazione di troubleshooting e validazione
+- Inserita la pagina su come inviare l'istanza (pratica, comunicazione, integrazione)
 
 ## [1.2] - 03/04/2026
 - Rilasciata la versione 1.2 del manuale
