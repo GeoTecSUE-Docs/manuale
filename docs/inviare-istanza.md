@@ -25,23 +25,37 @@ Puoi trasmettere un'istanza all'Ente quando:
 
 La trasmissione dell'istanza verso l'Ente può essere effettuata solo da due punti:
 - Sei nella sezione **Le mie istanze** - **Elenco Istanze** nel serbatoio *Lista Pratiche in fase di compilazione* (caso invio Pratica)
-- Sei all'interno del **dettaglio** di una pratica nel serbatoio *Lista comunicazioni in fase di compilazione* (caso invio Comunicazione)
-- Sei all'interno del **dettaglio** di una pratica nella sezione *Richiesta integrazioni attiva* (caso Richiesta Integrazioni)
-- Sei all'interno del **dettaglio** di una pratica nella sezione *Invio documentazione all'Ente (integrazioni spontanee)* (caso Invio libero di documentazione, se previsto dall'Ente)
+- Sei all'interno del **dettaglio** di una pratica:
+  - nel serbatoio *Lista comunicazioni in fase di compilazione* (caso invio Comunicazione)
+  - nella sezione *Richiesta integrazioni attiva* (caso Richiesta Integrazioni)
+  - nella sezione *Invio documentazione all'Ente (integrazioni spontanee)* (caso Invio libero di documentazione, se previsto dall'Ente)
 
 ## Invio Pratica
 
 Se la pratica in fase di compilazione ha correttamente superato la fase di **validazione** (vedere la sezione apposita [Valida e salva](compilare-istanza.html#valida-e-salva-pulsante-verde-con-dischetto-e-spunta) si trova in stato **Completata**.
-Il passo successivo è quello di **generazione del PDF** che può essere effettuato cliccando sull'apposito bottone **Genera** presente nella decima colonna (**PDF**) del serbatoio *Lista Pratiche in fase di compilazione".
+Il passo successivo è quello di **generazione del PDF** che può essere effettuato cliccando sull'apposito bottone **Genera** presente nella decima colonna (**PDF**) del serbatoio *Lista Pratiche in fase di compilazione*.
 All'atto del *click* sul bottone, il sistema procederà alla generazione del PDF e lo metterà a disposizione nel *Download* del proprio computer.
 Nella maggior parte dei casi, l'Ente richiede che tale PDF venga firmato digitalmente in modalità **CAdES**: senza spostare nè rinominare il file appena generato, si deve apporre tale firma (ottenendo un file con estensione .pdf.p7m) e si carica nell'undicesima colonna (**P7M**) dopo aver sfogliato il file (e cliccato sul bottone di *upload*).
 Se il sistema non rileva incongruenze tra il file PDF generato e quello firmato digitalmente, il bottone **Invia** (di colore verde) sarà disponibile nell'ultima colonna.
+Cliccato il bottone **Invia** la pratica *cambia di stato* (vedi [ciclo di vita](nozioni-di-base.html#stati-di-lavorazione-dellente)), passando allo stato **Inviata** e verrà inserita nel serbatoio *Lista Pratiche inviate*.
 
 ## Invio Comunicazione
 
 L'invio della comunicazione ricalca quanto visto nella sezione dell'[invio pratica](invaire-istanza.html#invio-pratica).
+Una volta trasmessa la comunicazione, questa comparirà nella sezione *Comunicazioni Inviate collegate alla Pratica*
 
 ## Richiesta Integrazioni
 
-All'interno del dettaglio della pratica, se l'Ente ha fatto una *richiesta di integrazioni* è possibile caricare e trasmettere...
+All'interno del dettaglio della pratica, se l'Ente ha fatto una *richiesta di integrazioni* è possibile caricare e trasmettere verso l'Ente.
+A differenza della trasmissione di una pratica o di una comunicazione, in questo caso **non è necessario** generare il PDF e firmarlo ma è sufficiente procedere con il caricamento degli allegati e, una volta caricati tutti i documenti richiesti, è possibile cliccare il bottone **Invio Documenti Integrativi**.
+Quando i documenti vengono trasmessi, la pratica *cambia di stato*, passando allo stato **Invio Integrazioni** in attesa che l'Ente proceda con la registrazione delle stesse.
+Una volta trasmesse le integrazioni, queste vengono registrate nella sezione *Dati Ente* in *Storico richieste integrazioni*.
+
+## Invio libero di documentazione
+
+Nel dettaglio della pratica, se l'Ente lo consente, è possibile trasmettere delle *integrazioni spontanee* dalla sezione **Invio documentazione all'Ente (integrazioni spontanee)**.
+Cliccando il bottone **Nuovo Invio** il sistema consentirà il caricamento di uno (o più) file che soddisfino i requisiti di dimensione e di (eventuale) firma.
+Caricato il documento (o i documenti) è possibile cliccare il bottone **Invia documenti** per trasmetterli all'Ente. Come nel caso della *richiesta integrazioni* **non è necessario** generare il PDF e firmarlo.
+Una volta trasmessi i documenti, l'*Invio documentazione libera* verrà registrata nella sezione *Comunicazioni Inviate collegate alla Pratica* (come per le comunicazioni).
+
 
