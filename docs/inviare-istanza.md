@@ -19,7 +19,7 @@ Puoi trasmettere un'istanza all'Ente quando:
 - [Hai completato una nuova istanza](compilare-istanza.html)
 - [Hai completato una pratica duplicata](nuova-istanza.html#metodo-2-duplicare-una-pratica-esistente)
 - Hai completato una comunicazione all'interno del [dettaglio di una pratica](dettaglio-istanza.html#comunicazioni-verso-lente)
-- [Hai completato una pratica di Notifica Preliminare](notifica-preliminare.html) (Solo per la Regione Piemonte)
+- [Hai completato una pratica di Notifica Preliminare](notifica-preliminare.html) (solo per la Regione Piemonte)
 
 ## Dove ti puoi trovare per poter inviare un'istanza
 
@@ -32,22 +32,22 @@ La trasmissione dell'istanza verso l'Ente può essere effettuata solo da due pun
 
 ## Invio Pratica
 
-Se la pratica in fase di compilazione ha correttamente superato la fase di **validazione** (vedere la sezione apposita [Valida e salva](compilare-istanza.html#valida-e-salva-pulsante-verde-con-dischetto-e-spunta) si trova in stato **Completata**.
+Se la pratica in fase di compilazione ha correttamente superato la fase di **validazione** (vedere la sezione apposita [Valida e salva](compilare-istanza.html#valida-e-salva-pulsante-verde-con-dischetto-e-spunta)) si trova in stato **Completata**.
 Il passo successivo è quello di **generazione del PDF** che può essere effettuato cliccando sull'apposito bottone **Genera** presente nella decima colonna (**PDF**) del serbatoio *Lista Pratiche in fase di compilazione*.
 All'atto del *click* sul bottone, il sistema procederà alla generazione del PDF e lo metterà a disposizione nel *Download* del proprio computer.
-Nella maggior parte dei casi, l'Ente richiede che tale PDF venga firmato digitalmente in modalità **CAdES**: senza spostare nè rinominare il file appena generato, si deve apporre tale firma (ottenendo un file con estensione .pdf.p7m) e si carica nell'undicesima colonna (**P7M**) dopo aver sfogliato il file (e cliccato sul bottone di *upload*).
+Nella maggior parte dei casi, l'Ente richiede che tale PDF venga firmato digitalmente in modalità **CAdES**: senza spostare né rinominare il file appena generato, si deve apporre tale firma (ottenendo un file con estensione .pdf.p7m) e si carica nell'undicesima colonna (**P7M**) dopo aver sfogliato il file (e cliccato sul bottone di *upload*).
 Se il sistema non rileva incongruenze tra il file PDF generato e quello firmato digitalmente, il bottone **Invia** (di colore verde) sarà disponibile nell'ultima colonna.
 Cliccato il bottone **Invia** la pratica *cambia di stato* (vedi [ciclo di vita](nozioni-di-base.html#stati-di-lavorazione-dellente)), passando allo stato **Inviata** e verrà inserita nel serbatoio *Lista Pratiche inviate*.
 
 ## Invio Comunicazione
 
-L'invio della comunicazione ricalca quanto visto nella sezione dell'[invio pratica](invaire-istanza.html#invio-pratica).
-Una volta trasmessa la comunicazione, questa comparirà nella sezione *Comunicazioni Inviate collegate alla Pratica*
+L'invio della comunicazione ricalca quanto visto nella sezione dell'[invio pratica](#invio-pratica).
+Una volta trasmessa la comunicazione, questa comparirà nella sezione *Comunicazioni Inviate collegate alla Pratica*.
 
 ## Richiesta Integrazioni
 
-All'interno del dettaglio della pratica, se l'Ente ha fatto una *richiesta di integrazioni* è possibile caricare e trasmettere verso l'Ente.
-A differenza della trasmissione di una pratica o di una comunicazione, in questo caso **non è necessario** generare il PDF e firmarlo ma è sufficiente procedere con il caricamento degli allegati e, una volta caricati tutti i documenti richiesti, è possibile cliccare il bottone **Invio Documenti Integrativi**.
+All'interno del dettaglio della pratica, se l'Ente ha fatto una *richiesta di integrazioni*, è possibile caricare e trasmettere verso l'Ente.
+A differenza della trasmissione di una pratica o di una comunicazione, in questo caso **non è necessario** generare il PDF e firmarlo, ma è sufficiente procedere con il caricamento degli allegati e, una volta caricati tutti i documenti richiesti, è possibile cliccare il bottone **Invio Documenti Integrativi**.
 Quando i documenti vengono trasmessi, la pratica *cambia di stato*, passando allo stato **Invio Integrazioni** in attesa che l'Ente proceda con la registrazione delle stesse.
 Una volta trasmesse le integrazioni, queste vengono registrate nella sezione *Dati Ente* in *Storico richieste integrazioni*.
 
@@ -58,4 +58,28 @@ Cliccando il bottone **Nuovo Invio** il sistema consentirà il caricamento di un
 Caricato il documento (o i documenti) è possibile cliccare il bottone **Invia documenti** per trasmetterli all'Ente. Come nel caso della *richiesta integrazioni* **non è necessario** generare il PDF e firmarlo.
 Una volta trasmessi i documenti, l'*Invio documentazione libera* verrà registrata nella sezione *Comunicazioni Inviate collegate alla Pratica* (come per le comunicazioni).
 
+## Errori comuni durante l'invio
 
+### "Il file firmato digitalmente non corrisponde all'originale"
+
+Questo è l'errore più frequente durante la fase di invio della pratica e si verifica quando il file PDF generato e il file firmato digitalmente CAdES non sono congruenti.
+
+**Possibili cause:**
+- È stato firmato un file PDF diverso da quello generato dal sistema
+- Il file firmato non ha l'estensione corretta `.pdf.p7m`
+- Il file PDF è stato spostato dalla cartella di download prima della firma
+- Il file PDF è stato rinominato prima della firma
+- Sono presenti file duplicati nella cartella di download (con suffisso tipo "(1)" nel nome)
+
+**Come risolvere:**
+
+1. **Genera nuovamente il PDF** cliccando sul bottone **Genera** nella colonna PDF
+2. **Pulisci la cartella di download** del computer per evitare file duplicati che potrebbero avere suffissi come "(1)" aggiunti automaticamente dal browser, i quali inficerebbero la firma
+3. **Scarica nuovamente il file** cliccando sull'icona PDF nella quarta colonna
+4. **Non spostare** il file dalla cartella di download del computer
+5. **Non rinominare** il file PDF
+6. **Firma digitalmente il file** in modalità CAdES direttamente dalla posizione in cui è stato scaricato
+7. Verifica che il file firmato abbia l'estensione `.pdf.p7m`
+8. **Carica il file firmato** nella colonna P7M
+
+Il sistema riconosce automaticamente la corrispondenza tra il PDF generato e quello firmato solo se il file originale non è stato né spostato né rinominato prima della firma digitale.
