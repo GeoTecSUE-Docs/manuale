@@ -1,7 +1,7 @@
 ---
 title: Errori Inizio Lavori - Regione Piemonte
 parent: Errori di validazione
-nav_order: 9
+nav_order: 10
 description: Errori di validazione specifici per la Comunicazione di Inizio Lavori (Regione Piemonte) - Guida dettagliata campo per campo
 keywords: [Inizio Lavori, comunicazione inizio lavori, errori validazione, Regione Piemonte, amianto, interventi strutturali, zona sismica, sicurezza cantiere, D.lgs 81/2008]
 IDRegione: 2         # Piemonte
