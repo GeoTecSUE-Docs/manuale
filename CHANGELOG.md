@@ -11,7 +11,7 @@ permalink: /changelog/
 
 ### Aggiunte
 - "Inviare un'istanza" nella sezione "Le mie istanze"
-- 2 nuove pagine sugli errori di validazione per pratiche
+- 4 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Autorizzazione Paesaggistica Semplificata - Regione Piemonte
   - Errori Validazione CILA Superbonus - Tutte le Regioni
   - Errori Validazione SCIA Alternativa al Permesso di Costruire - Regione Piemonte
