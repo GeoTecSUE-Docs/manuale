@@ -4,6 +4,9 @@ parent: Errori di validazione
 nav_order: 11
 description: Errori di validazione specifici per la Fine Lavori Denuncia Sismica (FLDS) Regione Piemonte - Guida dettagliata campo per campo
 keywords: [fine lavori denuncia sismica, FLDS, errori fine lavori sismica, validazione fine lavori strutturale, modello 5, zona PRG]
+IDRegione: 2
+IDTipoPratica: 57
+Fonte: Manuale
 ---
 
 # Errori di validazione - Fine Lavori Denuncia Sismica
