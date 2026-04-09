@@ -19,7 +19,7 @@ Guida completa agli errori specifici per la **Fine Lavori Denuncia Sismica** ai 
 
 ---
 
-## Indice sezioni Fine Lavori DS
+## Indice sezioni Fine Lavori Denuncia Sismica
 
 1. [Riferimento alla Denuncia Sismica](#1-riferimento-alla-denuncia-sismica)
 2. [Localizzazione dell'intervento](#2-localizzazione-dellintervento)
@@ -196,7 +196,7 @@ Questa sezione contiene i due campi data più importanti della Fine Lavori DS: l
 
 ---
 
-## Consigli pratici Fine Lavori DS
+## Consigli pratici Fine Lavori Denuncia Sismica
 
 ### Prima di validare ✅
 
@@ -212,14 +212,14 @@ Questa sezione contiene i due campi data più importanti della Fine Lavori DS: l
 - [ ] Inserisci la **data della dichiarazione** nel formato GG/MM/AAAA
 - [ ] **Salva** frequentemente
 
-### Errori frequenti Fine Lavori DS 🔍
+### Errori frequenti Fine Lavori Denuncia Sismica 🔍
 
 1. **Data Fine Lavori mancante** → il campo è nella sezione "CERTIFICA", non nella localizzazione
 2. **Data dichiarazione mancante** → campo separato dalla data ultimazione lavori, spesso confusi
 3. **Formato data errato** → tutti e tre i campi data (pratica DS, ultimazione lavori, dichiarazione) richiedono il formato GG/MM/AAAA
 4. **Campi n. pratica e data DS disabilitati** → se appaiono grigi il collegamento è automatico, non serve compilarli
 
-### Campi esclusivi della Fine Lavori DS ⚠️
+### Campi esclusivi della Fine Lavori Denuncia Sismica ⚠️
 
 Rispetto alla Fine Lavori ordinaria, questa pratica ha:
 - Il **riferimento esplicito alla Denuncia Sismica originaria** (numero e data pratica)
