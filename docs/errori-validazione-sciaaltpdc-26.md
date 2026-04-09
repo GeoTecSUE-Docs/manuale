@@ -4,6 +4,9 @@ parent: Errori di validazione
 nav_order: 9
 description: Errori di validazione specifici per la SCIA Alternativa al Permesso di Costruire (SCIA alt. PdC) Regione Piemonte - Guida dettagliata campo per campo
 keywords: [SCIA alternativa PdC, SCIA unica, SCIA condizionata, errori SCIA alt PdC, validazione SCIA alternativa, stato legittimo, contributo costruzione, cadute dall'alto]
+IDRegione: 2
+IDTipoPratica: 23
+Fonte: Manuale
 ---
 
 # Errori di validazione - SCIA Alternativa al Permesso di Costruire
