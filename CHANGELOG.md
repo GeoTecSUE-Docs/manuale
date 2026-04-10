@@ -6,6 +6,25 @@ permalink: /changelog/
 
 # Changelog - Manuale utente GeoTecSUE
 
+## [1.3] - 10/04/2026
+- Rilasciata la versione 1.3 del manuale
+
+### Aggiunte
+- "Inviare un'istanza" nella sezione "Le mie istanze"
+- 5 nuove pagine sugli errori di validazione per pratiche
+  - Errori Validazione Autorizzazione Paesaggistica Semplificata - Regione Piemonte
+  - Errori Validazione CILA Superbonus - Tutte le Regioni
+  - Errori Validazione SCIA Alternativa al Permesso di Costruire - Regione Piemonte
+  - Errori Validazione Inizio Lavori - Regione Piemonte
+  - Errori Validazione Fine Lavori Denuncia Sismica - Regione Piemonte
+ 
+### Modifiche
+- Migliorata la sezione delle **varianti** nel *troubleshooting*
+ 
+### Note
+- Aggiornamento focalizzato sull'ampliamento della documentazione di troubleshooting e validazione
+- Inserita la pagina su come inviare l'istanza (pratica, comunicazione, integrazione)
+
 ## [1.2] - 03/04/2026
 - Rilasciata la versione 1.2 del manuale
 

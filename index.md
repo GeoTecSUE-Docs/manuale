@@ -40,6 +40,7 @@ Puoi:
 ### Le mie istanze
 - [Creazione di una nuova istanza](/manuale/docs/nuova-istanza)
 - [Compilare un'istanza](/manuale/docs/compilare-istanza)
+- [Inviare un'istanza](/manuale/docs/inviare-istanza)
 - [Errori di validazione](/manuale/docs/errori-validazione)
 - [Importazione pratiche pregresse](/manuale/docs/non-presenti-geotecsue)
 - [Consultare l'elenco delle pratiche](/manuale/docs/elenco-istanze)
