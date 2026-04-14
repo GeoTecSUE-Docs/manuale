@@ -5,7 +5,16 @@ permalink: /changelog/
 ---
 
 # Changelog - Manuale utente GeoTecSUE
+## [1.4] - 17/04/2026
+- Rilasciata la versione 1.4 del manuale
 
+## Aggiunte
+- 1 nuove pagine sugli errori di validazione per pratiche
+  - Errori Validazione Comunicazione Collaudo o Dichiarazione di Regolare Esecuzione Denuncia Sismica - Regione Piemonte
+
+### Note
+- Aggiornamento focalizzato sull'ampliamento della documentazione di troubleshooting e validazione
+  
 ## [1.3] - 10/04/2026
 - Rilasciata la versione 1.3 del manuale
 
