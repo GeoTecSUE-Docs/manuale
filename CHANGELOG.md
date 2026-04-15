@@ -9,8 +9,9 @@ permalink: /changelog/
 - Rilasciata la versione 1.4 del manuale
 
 ## Aggiunte
-- 1 nuove pagine sugli errori di validazione per pratiche
+- 2 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Comunicazione Collaudo o Dichiarazione di Regolare Esecuzione Denuncia Sismica - Regione Piemonte
+  - Errori Validazione Relazione Struttura Ultimata Denuncia Sismica - Regione Piemonte
 
 ### Note
 - Aggiornamento focalizzato sull'ampliamento della documentazione di troubleshooting e validazione
