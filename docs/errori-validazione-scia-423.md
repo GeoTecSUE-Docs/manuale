@@ -1234,7 +1234,7 @@ La SCIA Lombardia si distingue dalla SCIA Piemonte su questi punti chiave:
 
 1. **Cerca in questa guida** con Ctrl+F (copia/incolla il messaggio esatto)
 2. Verifica [Errori Comuni](errori-validazione.html#errori-comuni)
-3. Contatta [Assistenza](assistenza-tecnica.html) con screenshot
+3. Contatta [Assistenza](assistenza-tecnica.html)
 
 ---
 
