@@ -5,6 +5,16 @@ permalink: /changelog/
 ---
 
 # Changelog - Manuale utente GeoTecSUE
+
+## [1.5] - 23/04/2026
+- Rilasciata la versione 1.5 del manuale
+## Aggiunte
+- 1 nuove pagine sugli errori di validazione per pratiche
+  - Errori Validazione Archiviazione - Tutte le Regioni
+ 
+### Note
+- Aggiornamento focalizzato sull'ampliamento della documentazione di troubleshooting e validazione
+
 ## [1.4] - 17/04/2026
 - Rilasciata la versione 1.4 del manuale
 
