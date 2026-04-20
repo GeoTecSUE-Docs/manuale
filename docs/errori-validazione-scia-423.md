@@ -5,7 +5,7 @@ nav_order: 14
 description: Errori di validazione specifici per la SCIA (Segnalazione Certificata di Inizio Attività) Regione Lombardia - Guida dettagliata campo per campo
 keywords: [SCIA Lombardia, segnalazione certificata, errori SCIA Lombardia, validazione SCIA, coordinate UTM, regolarità urbanistica, sanatoria SCIA Lombardia, Ge.CA]
 IDRegione: 4
-IDTipoPratica: 23
+IDTipoPratica: 423
 Fonte: Manuale
 ---
 
