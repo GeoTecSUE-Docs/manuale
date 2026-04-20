@@ -13,6 +13,7 @@ permalink: /changelog/
   - Errori Validazione Archiviazione - Tutte le Regioni
   - Errori Validazione Autorizzazione Paesaggistica - Regione Piemonte
   - Errori Validazione CILA - Regione Lombardia
+  - Errori Validazione Certificato di Collaudo Finale - Regione Piemonte
  
 ### Note
 - Aggiornamento focalizzato sull'ampliamento della documentazione di troubleshooting e validazione
