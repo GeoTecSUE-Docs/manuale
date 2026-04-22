@@ -9,13 +9,14 @@ permalink: /changelog/
 ## [1.5] - 23/04/2026
 - Rilasciata la versione 1.5 del manuale
 ## Aggiunte
-- 6 nuove pagine sugli errori di validazione per pratiche
+- 7 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Archiviazione - Tutte le Regioni
   - Errori Validazione Autorizzazione Paesaggistica - Regione Piemonte
   - Errori Validazione CILA - Regione Lombardia
   - Errori Validazione Certificato di Collaudo Finale - Regione Piemonte
   - Errori Validazione CIL - Regione Piemonte
   - Errori Validazione Voltura Professionisti / Imprese - Regione Piemonte
+  - Errori Validazione Zona UNESCO - Regione Piemonte
  
 ### Note
 - Aggiornamento focalizzato sull'ampliamento della documentazione di troubleshooting e validazione
