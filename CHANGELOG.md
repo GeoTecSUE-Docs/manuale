@@ -8,6 +8,7 @@ permalink: /changelog/
 
 ## [1.5] - 23/04/2026
 - Rilasciata la versione 1.5 del manuale
+  
 ## Aggiunte
 - 9 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Archiviazione - Tutte le Regioni
