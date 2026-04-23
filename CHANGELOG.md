@@ -6,8 +6,19 @@ permalink: /changelog/
 
 # Changelog - Manuale utente GeoTecSUE
 
+## [1.6] - 29/04/2026
+- Rilasciata la versione 1.6 del manuale
+
+## Aggiunte
+- 1 nuove pagine sugli errori di validazione per pratiche
+  - Errori Validazione Autorizzazione Vincolo Idrogeologico - Regione Piemonte
+
+### Note
+- Aggiornamento focalizzato sull'ampliamento della documentazione di troubleshooting e validazione
+
 ## [1.5] - 23/04/2026
 - Rilasciata la versione 1.5 del manuale
+  
 ## Aggiunte
 - 9 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Archiviazione - Tutte le Regioni
