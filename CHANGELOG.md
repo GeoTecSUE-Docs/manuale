@@ -12,6 +12,7 @@ permalink: /changelog/
 ## Aggiunte
 - 1 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Autorizzazione Vincolo Idrogeologico - Regione Piemonte
+  - Errori Validazione CILA - Regione Liguria
 
 ### Note
 - Aggiornamento focalizzato sull'ampliamento della documentazione di troubleshooting e validazione
