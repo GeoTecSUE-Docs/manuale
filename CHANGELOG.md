@@ -10,9 +10,10 @@ permalink: /changelog/
 - Rilasciata la versione 1.6 del manuale
 
 ## Aggiunte
-- 1 nuove pagine sugli errori di validazione per pratiche
+- 3 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Autorizzazione Vincolo Idrogeologico - Regione Piemonte
   - Errori Validazione CILA - Regione Liguria
+  - Errori Validazione SCIA - Regione Liguria
 
 ### Note
 - Aggiornamento focalizzato sull'ampliamento della documentazione di troubleshooting e validazione
