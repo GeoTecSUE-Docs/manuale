@@ -6,6 +6,16 @@ permalink: /changelog/
 
 # Changelog - Manuale utente GeoTecSUE
 
+## [1.7] - 05/05/2026
+- Rilasciata la versione 1.7 del manuale
+
+## Aggiunte
+- 1 nuove pagine sugli errori di validazione per pratiche
+  - Errori Validazione Fine Lavori - Regione Liguria
+
+### Note
+- Aggiornamento focalizzato sull'ampliamento della documentazione di troubleshooting e validazione
+
 ## [1.6] - 29/04/2026
 - Rilasciata la versione 1.6 del manuale
 
