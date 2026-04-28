@@ -4,7 +4,7 @@ parent: Errori di validazione
 nav_order: 29
 description: Errori di validazione specifici per la Comunicazione di Fine Lavori - Regione Liguria (art. 25 L.R. 16/2008)
 keywords: [fine lavori, comunicazione fine lavori, Liguria, varianti in corso d'opera, art. 25 L.R. 16/2008, tipo ultimazione, titolo edilizio, progettista asseverante]
-IDRegione: 4
+IDRegione: 3
 IDTipoPratica: 203
 Fonte: Manuale
 ---
