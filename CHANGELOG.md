@@ -15,6 +15,7 @@ permalink: /changelog/
   - Errori Validazione CILA - Regione Liguria
   - Errori Validazione SCIA - Regione Liguria
   - Errori Validazione Accertamento di Compatibilità Paesaggistica - Regione Piemonte
+  - Errori Validazione Denuncia Sismica Semplificata - Regione Piemonte
 
 ### Note
 - Aggiornamento focalizzato sull'ampliamento della documentazione di troubleshooting e validazione
