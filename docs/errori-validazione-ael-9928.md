@@ -4,8 +4,22 @@ parent: Errori di validazione
 nav_order: 31
 description: Errori di validazione specifici per la Comunicazione di Inizio Lavori per Attività Edilizia Libera (AEL) - art. 6 c. 1 D.P.R. 380/2001
 keywords: [attività edilizia libera, AEL, CIL, comunicazione inizio lavori libera, art. 6 DPR 380/2001, edilizia libera, data inizio lavori futura, impresa esecutrice]
-IDRegione: Tutte
-IDTipoPratica: 9928
+IDRegione: 99        # Fallback (Nazionale)
+IDTipoPratica: 9999  # Fallback (Generico)
+IDTarget:
+  - { Reg: 2, Prat: 28 }  # Piemonte - Attività Edilizia Libera
+  - { Reg: 1, Prat: 128 }  # Valle d'Aosta - Attività Edilizia Libera
+  - { Reg: 3, Prat: 328 } # Liguria - Attività Edilizia Libera
+  - { Reg: 4, Prat: 428 } # Lombardia - Attività Edilizia Libera
+  - { Reg: 6, Prat: 628 } # Veneto - Attività Edilizia Libera
+  - { Reg: 8, Prat: 828 } # Emilia-Romagna - Attività Edilizia Libera
+  - { Reg: 12, Prat: 1228 } # Lazio - Attività Edilizia Libera
+  - { Reg: 13, Prat: 1328 } # Abruzzo - Attività Edilizia Libera
+  - { Reg: 15, Prat: 1528 } # Campania - Attività Edilizia Libera
+  - { Reg: 16, Prat: 1628 } # Basilicata - Attività Edilizia Libera
+  - { Reg: 17, Prat: 1728 } # Puglia - Attività Edilizia Libera
+  - { Reg: 18, Prat: 1828 } # Calabria - Attività Edilizia Libera
+  - { Reg: 19, Prat: 1928 } # Sicilia - Attività Edilizia Libera
 Fonte: Manuale
 ---
 
