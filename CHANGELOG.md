@@ -10,9 +10,10 @@ permalink: /changelog/
 - Rilasciata la versione 1.7 del manuale
 
 ## Aggiunte
-- 2 nuove pagine sugli errori di validazione per pratiche
+- 3 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Fine Lavori - Regione Liguria
   - Errori Validazione Inizio Lavori Denuncia Sismica - Regione Piemonte
+  - Errori Validazione Attività Edilizia Libera - Tutte le Regioni
 
 ### Note
 - Aggiornamento focalizzato sull'ampliamento della documentazione di troubleshooting e validazione
