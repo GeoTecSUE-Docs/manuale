@@ -10,8 +10,9 @@ permalink: /changelog/
 - Rilasciata la versione 1.8 del manuale
 
 ## Aggiunte
-- 1 nuove pagine sugli errori di validazione per pratiche
-  - Errori Validazione SCIA - Tutte le Regioni    
+- 2 nuove pagine sugli errori di validazione per pratiche
+  - Errori Validazione SCIA - Tutte le Regioni
+  - Errori Validazione Permesso di Costruire - Regione Lombardia
 
 ### Note
 - Aggiornamento focalizzato sull'ampliamento della documentazione di troubleshooting e validazione
