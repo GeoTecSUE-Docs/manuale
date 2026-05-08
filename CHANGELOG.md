@@ -15,6 +15,7 @@ permalink: /changelog/
   - Errori Validazione Permesso di Costruire - Regione Lombardia
   - Errori Validazione Permesso di Costruire - Regione Liguria
   - Errori Validazione Regolarizzazione Opere Interne - Regione Liguria
+  - Errori Validazione Autorizzazione Paesaggistica Semplificata - Regione Liguria
 
 ### Modifiche
 - Migliorata la sezione della **Documentazione allegata alla pratica** nella sezione *Visualizzare il dettaglio di una pratica* con preciso riferimento alla durata di 6 mesi
