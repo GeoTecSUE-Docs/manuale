@@ -524,7 +524,7 @@ Per ogni allegato:
 | **Visualizza** | Pulsante verde per scaricare (se non scaduto) |
 
 {: .warning }
-> Gli allegati scadono dopo **6 mesi dalla registrazione**. Scarica e conserva localmente tutti i documenti importanti prima della scadenza.
+> Gli allegati scadono dopo **6 mesi dalla registrazione**. Scarica e conserva localmente tutti i documenti importanti prima della scadenza. Superata questa data, gli allegati non sono più disponibili e non c'è modo di recuperarli attraverso il portale: l'unico modo per poterli recuperare è mediante una **richiesta di accesso agli atti** all'Ente.
 
 {: .note }
 > Questa sezione **non è disponibile** per le pratiche importate. Gli allegati originali restano archiviati dall'Ente secondo il canale di presentazione iniziale (PEC, cartaceo, altro portale).
