@@ -6,10 +6,21 @@ permalink: /changelog/
 
 # Changelog - Manuale utente GeoTecSUE
 
+## [1.9] - 23/05/2026
+- Rilasciata la versione 1.9 del manuale
+
+### Aggiunte
+- X nuove pagine sugli errori di validazione per pratiche
+
+### Modifiche
+- Migliorata la sezione **Domande frequenti (FAQ)** inserendo la FAQ *L'Ente mi ha trasmesso un documento con la richiesta di integrazioni ma lo stato della pratica è "Registrata". Come faccio a trasmetterle?*
+- Migliorata la sezione **Visualizzare il dettaglio di una pratica** con la spiegazione di come gestire il caso di richiesta integrazioni senza variazione di stato
+
+
 ## [1.8] - 08/05/2026
 - Rilasciata la versione 1.8 del manuale
 
-## Aggiunte
+### Aggiunte
 - 4 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione SCIA - Tutte le Regioni
   - Errori Validazione Permesso di Costruire - Regione Lombardia
@@ -26,7 +37,7 @@ permalink: /changelog/
 ## [1.7] - 05/05/2026
 - Rilasciata la versione 1.7 del manuale
 
-## Aggiunte
+### Aggiunte
 - 5 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Fine Lavori - Regione Liguria
   - Errori Validazione Inizio Lavori Denuncia Sismica - Regione Piemonte
@@ -40,7 +51,7 @@ permalink: /changelog/
 ## [1.6] - 29/04/2026
 - Rilasciata la versione 1.6 del manuale
 
-## Aggiunte
+### Aggiunte
 - 5 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Autorizzazione Vincolo Idrogeologico - Regione Piemonte
   - Errori Validazione CILA - Regione Liguria
@@ -54,7 +65,7 @@ permalink: /changelog/
 ## [1.5] - 23/04/2026
 - Rilasciata la versione 1.5 del manuale
   
-## Aggiunte
+### Aggiunte
 - 9 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Archiviazione - Tutte le Regioni
   - Errori Validazione Autorizzazione Paesaggistica - Regione Piemonte
@@ -72,7 +83,7 @@ permalink: /changelog/
 ## [1.4] - 17/04/2026
 - Rilasciata la versione 1.4 del manuale
 
-## Aggiunte
+### Aggiunte
 - 4 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Comunicazione Collaudo o Dichiarazione di Regolare Esecuzione Denuncia Sismica - Regione Piemonte
   - Errori Validazione Relazione Struttura Ultimata Denuncia Sismica - Regione Piemonte
