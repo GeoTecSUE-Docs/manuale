@@ -29,6 +29,8 @@ Devi trasmettere la Notifica Preliminare nel caso in cui il cantiere abbia la pr
 La Notifica Preliminare viene inviata a:
 - **ASL** territorialmente competente (tramite **SPRESAL** - Servizio Prevenzione e Sicurezza Ambienti di Lavoro)
 
+Il committente o il responsabile dei lavori è tenuto a inoltrare via **PEC** copia del file di notifica preliminare all'*Ispettorato Territoriale del Lavoro* e, nei casi previsti, alle prefetture. Maggiori dettagli sono disponibili sulla pagina MUDE di Trasmissione della notifica preliminare: [https://www.mude.piemonte.it/site/notizie/101-rilasci-e-comunicazioni-di-servizio/724-trasmissione-della-notifica-preliminare-di-avvio-lavori-nei-cantieri-edili-di-cui-all-art-99-del-dlgs-81-08-e-smi-tramite-il-sistema-mude-piemonte-alle-aassll-del-piemonte]
+
 ### Verifica disponibilità sul tuo Ente
 
 **Se il tuo Ente ha attivato GeoTecSUE** e richiesto l'attivazione della *Notifica Preliminare* ("sottraendola" alla trasmissione a mezzo *MUDE*), allora
