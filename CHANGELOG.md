@@ -15,7 +15,7 @@ permalink: /changelog/
 ### Modifiche
 - Migliorata la sezione **Domande frequenti (FAQ)** inserendo la FAQ *L'Ente mi ha trasmesso un documento con la richiesta di integrazioni ma lo stato della pratica è "Registrata". Come faccio a trasmetterle?*
 - Migliorata la sezione **Visualizzare il dettaglio di una pratica** con la spiegazione di come gestire il caso di richiesta integrazioni senza variazione di stato
-
+- Migliorata la sezione **Notifica Preliminare (Piemonte)** con maggiori dettagli su inoltri ad altri Enti
 
 ## [1.8] - 08/05/2026
 - Rilasciata la versione 1.8 del manuale
