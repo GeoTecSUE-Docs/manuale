@@ -10,7 +10,8 @@ permalink: /changelog/
 - Rilasciata la versione 1.9 del manuale
 
 ### Aggiunte
-- X nuove pagine sugli errori di validazione per pratiche
+- 1 nuove pagine sugli errori di validazione per pratiche
+  - Errori Validazione Variante Lavori Zona Sismica - Regione Piemonte
 
 ### Modifiche
 - Migliorata la sezione **Domande frequenti (FAQ)** inserendo la FAQ *L'Ente mi ha trasmesso un documento con la richiesta di integrazioni ma lo stato della pratica è "Registrata". Come faccio a trasmetterle?*
