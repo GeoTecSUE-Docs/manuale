@@ -230,6 +230,36 @@ Una volta caricati tutti i documenti obbligatori:
 {: .warning }
 > Dopo l'invio non potrai più modificare i file caricati. Verifica accuratamente prima di trasmettere.
 
+## L'Ente chiede documentazione senza aprire una richiesta formale
+
+Può capitare che l'Ente trasmetta un documento — tipicamente una lettera o una nota istruttoria — con cui ti comunica la necessità di produrre documentazione integrativa, **senza però aprire formalmente una richiesta di integrazione** su GeoTecSUE. In questo caso la pratica rimane nello stato **Registrata** (o Esecutiva), la sezione "Richiesta integrazioni attiva" non appare, e non c'è una procedura guidata per rispondere.
+
+{: .warning }
+> Controlla sempre i documenti trasmessi dall'Ente nella sezione [Comunicazioni dell'Ente](#comunicazioni-dellente): una nota con richiesta di chiarimenti o documentazione aggiuntiva potrebbe essere visibile lì anche se lo stato della pratica non è cambiato.
+
+### Come rispondere in questo caso
+
+Se l'Ente ti ha chiesto documentazione informalmente e la funzione di **invio libero di documentazione** è abilitata, puoi usarla per trasmettere i file richiesti:
+
+1. Scorri la pagina fino alla sezione **"Invio documentazione all'Ente (integrazioni spontanee)"**
+2. Verifica che la sezione sia presente — se non appare, l'Ente non ha abilitato questa funzionalità (vedi sotto)
+3. Clicca su **Nuovo Invio**
+4. Carica i file richiesti, assegnando a ciascuno una **descrizione chiara** che richiami esplicitamente la nota dell'Ente (es. `Risposta a nota prot. 1234/2025 - Relazione integrativa`)
+5. Clicca **Invia documenti**
+
+L'Ente riceverà la documentazione e potrà procedere con l'istruttoria senza che la pratica sia passata formalmente per lo stato "Richiesta Integrazioni".
+
+### Se l'invio libero non è disponibile
+
+Se la sezione "Invio documentazione all'Ente" non è presente, significa che l'Ente ha disabilitato questa funzionalità. In questo caso le opzioni sono:
+
+- **Contatta direttamente l'Ente** per chiedere come procedere: potrebbe aprire una richiesta formale, oppure indicarti un canale alternativo (PEC, sportello fisico) oppure (solo per la pratica in oggetto) potrebbe attivare l'invio libero di documentazione
+- **Verifica se è possibile inviare una Comunicazione** strutturata già prevista dal sistema (es. Voltura Professionisti, Fine Lavori) che nella sua compilazione consenta di allegare documentazione aggiuntiva
+- **Attendi** che l'Ente apra formalmente la richiesta di integrazione su GeoTecSUE, fatto che farà comparire la sezione dedicata e cambierà lo stato della pratica
+
+{: .note }
+> L'invio tramite integrazioni spontanee non sostituisce una risposta formale a una richiesta di integrazione aperta dall'Ente. Se successivamente l'Ente dovesse aprire una richiesta formale, dovrai rispondere anche attraverso la procedura guidata della sezione "Richiesta integrazioni attiva", anche se hai già inviato i documenti in precedenza via invio libero.
+
 ## Pagamenti aperti (PagoPA)
 
 Questa sezione mostra i pagamenti in sospeso legati alla pratica, sia quelli generati dall'Ente che quelli facoltativi disponibili.
