@@ -14,7 +14,6 @@ permalink: /changelog/
   - Errori Validazione Variante Lavori Zona Sismica - Regione Piemonte
   - Errori Validazione CILA - Tutte le Regioni
   - Errori Validazione Denuncia Sismica Postuma - Regione Piemonte
-  - Errori Inizio Lavori - Regione Lombardia
 
 ### Modifiche
 - Migliorata la sezione **Domande frequenti (FAQ)** inserendo la FAQ *L'Ente mi ha trasmesso un documento con la richiesta di integrazioni ma lo stato della pratica è "Registrata". Come faccio a trasmetterle?*
