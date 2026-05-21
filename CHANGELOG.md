@@ -10,7 +10,7 @@ permalink: /changelog/
 - Rilasciata la versione 1.9 del manuale
 
 ### Aggiunte
-- 1 nuove pagine sugli errori di validazione per pratiche
+- 3 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Variante Lavori Zona Sismica - Regione Piemonte
   - Errori Validazione CILA - Tutte le Regioni
   - Errori Validazione Denuncia Sismica Postuma - Regione Piemonte
