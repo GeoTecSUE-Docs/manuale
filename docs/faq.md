@@ -173,6 +173,15 @@ Controlla nel [dettaglio pratica](dettaglio-istanza.html):
 - Sezione "PagoPA" mostra pagamenti obbligatori/facoltativi
 - Campi con sfondo **giallo** = obbligatori
 
+### L'Ente mi ha trasmesso un documento con la richiesta di integrazioni ma lo stato della pratica è "Registrata". Come faccio a trasmetterle?
+
+Se l'Ente ha pubblicato un documento di *richiesta di integrazioni* ma non ha modificato lo stato della pratica ci sono due possibilità
+- L'Ente consente l'invio libero di documentazione, allora è possibile sfruttare questa sezione per poter inviare i documenti richiesti
+- L'Ente **non** consente l'invio libero di documentazione: in questo caso è necessario contattare l'Ente che avrà tre possibili soluzioni:
+  - Modifica lo stato della pratica, trasformandola in **Richiesta Integrazioni**: a questo punto potrà operare trasmettendo i documenti secondo la modalità prevista dalla richiesta di integrazioni
+  - Solo per la pratica in oggetto, l'Ente potrà *aprire* la finestra di trasmissione di documentazione libera
+  - L'Ente richiede la trasmissione delle integrazioni via PEC (modalità **sconsigliata**)
+
 ---
 
 ## Pagamenti PagoPA
