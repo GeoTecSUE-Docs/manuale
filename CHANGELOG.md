@@ -12,6 +12,9 @@ permalink: /changelog/
 ### Aggiunte
 - 1 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Inizio Lavori - Tutte le Regioni
+ 
+### Modifiche
+- Migliorata la sezione **Domande frequenti (FAQ)** migliorando la FAQ *Quanto tempo ho per completare una pratica in compilazione?* ed inserendo la FAQ *Comunicazioni associate a pratiche esistenti*
 
 ## [1.9] - 22/05/2026
 - Rilasciata la versione 1.9 del manuale
