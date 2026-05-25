@@ -36,7 +36,7 @@ Risposte rapide alle domande più comuni su **GeoTecSUE**.
 
 **Non ci sono limiti di tempo**. Puoi salvare e riprendere la compilazione quando vuoi, anche dopo giorni, settimane o mesi.
 
-Ricorda però i **termini amministrativi** della pratica (es. inizio lavori entro X mesi dall'autorizzazione).
+Periodicamente possono essere effettuati aggiornamenti normativi: in questo caso, quando una pratica attualmente *in compilazione* viene aggiornata, il *form di compilazione* viene modificato automaticamente (potresti trovare nuovi campi o non visualizzare più campi precedentemente presenti), ma la lista degli allegati richiesti **rimane invariata**. È quindi consigliabile verificare la modulistica aggiornata per evitare eventuali richieste di integrazione da parte dell'Ente.
 
 ### Posso salvare una pratica in compilazione e riprenderla dopo?
 
@@ -57,6 +57,29 @@ Ricorda però i **termini amministrativi** della pratica (es. inizio lavori entr
 **Soluzione**:
 - Contatta l'**Ufficio Tecnico** dell'Ente
 - Se l'Ente conferma che dovrebbe essere disponibile, verifica il menu a discesa contenente le varie tipologie (ricorda che se sei in Regione Lombardia c'è la pratica "Modulo Unico Titolare" che "contiene" PdC, SCIA, SCIA Alternativa al PdC e CILA)
+
+### Comunicazioni associate a pratiche esistenti
+Alcune tipologie di pratica (come la **SCA - Segnalazione Certificata di Agibilità**) possono essere configurate dall'Ente come **comunicazioni associate** a pratiche già trasmesse.
+
+**Come riconoscerle**: 
+- Non compaiono nel menu "Nuova istanza"
+- Sono accessibili solo dal dettaglio di una pratica precedentemente inviata
+
+**Come procedere**:
+
+**Caso A - La pratica originale è stata trasmessa tramite GeoTecSUE**:
+1. Apri il dettaglio della pratica principale già trasmessa
+2. Individua la sezione dedicata alle comunicazioni associate
+3. Avvia da lì la nuova comunicazione
+
+**Caso B - La pratica originale NON è stata trasmessa tramite GeoTecSUE**:
+- **Se l'Ente consente l'importazione di pratiche pregresse**:
+  1. Importa la pratica originale in GeoTecSUE
+  2. Successivamente invia la comunicazione associata seguendo il Caso A
+  
+- **Se l'Ente NON consente l'importazione di pratiche pregresse**:
+  - Contatta l'**Ufficio Tecnico** dell'Ente per conoscere la procedura alternativa
+  - Possibile soluzione: invio tramite PEC tradizionale
 
 ### Posso modificare i dati di una pratica già inviata?
 
