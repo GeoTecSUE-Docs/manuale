@@ -10,8 +10,9 @@ permalink: /changelog/
 - Rilasciata la versione 1.10 del manuale
 
 ### Aggiunte
-- 1 nuove pagine sugli errori di validazione per pratiche
+- 2 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Inizio Lavori - Tutte le Regioni
+  - Errori Validazione Autorizzazione Paesaggistica - Regione Lombardia
  
 ### Modifiche
 - Migliorata la sezione **Domande frequenti (FAQ)** migliorando la FAQ *Quanto tempo ho per completare una pratica in compilazione?* ed inserendo la FAQ *Comunicazioni associate a pratiche esistenti*
