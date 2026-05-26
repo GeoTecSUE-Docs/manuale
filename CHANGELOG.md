@@ -13,6 +13,7 @@ permalink: /changelog/
 - 2 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Inizio Lavori - Tutte le Regioni
   - Errori Validazione Autorizzazione Paesaggistica - Regione Lombardia
+  - Errori Validazione Notifica Preliminare - Regione Piemonte
  
 ### Modifiche
 - Migliorata la sezione **Domande frequenti (FAQ)** migliorando la FAQ *Quanto tempo ho per completare una pratica in compilazione?* ed inserendo la FAQ *Comunicazioni associate a pratiche esistenti*
