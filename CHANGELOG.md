@@ -15,6 +15,7 @@ permalink: /changelog/
   - Errori Validazione Autorizzazione Paesaggistica - Regione Lombardia
   - Errori Validazione Notifica Preliminare - Regione Piemonte
   - Errori Validazione SCIA Alternativa al Permesso di Costruire - Regione Lombardia
+  - Errori Validazione Accertamento di Compatibilità Paesaggistica - Regione Lombardia
  
 ### Modifiche
 - Migliorata la sezione **Domande frequenti (FAQ)** migliorando la FAQ *Quanto tempo ho per completare una pratica in compilazione?* ed inserendo la FAQ *Comunicazioni associate a pratiche esistenti*
