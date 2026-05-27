@@ -22,7 +22,19 @@ L'accesso a **GeoTecSUE** avviene esclusivamente tramite:
 
 Come previsto dal [Decreto Legge "Semplificazione e innovazione digitale"](https://innovazione.gov.it/dipartimento/focus/linee-guida-decreto-semplificazione/){:target="_blank"}, questi sono gli unici sistemi di identificazione consentiti per i servizi digitali della Pubblica Amministrazione.
 
-Qualora i servizi di accesso con queste modalità non siano disponibili, è necessario contattare l'Ente affinché li attivi.
+### Disponibilità dei pulsanti di accesso (CIE/SPID):
+
+La presenza fisica dei pulsanti o delle mascherine di login ("Entra con SPID" o "Entra con CIE") nella pagina di accesso dipende esclusivamente dalle configurazioni attivate dal singolo Ente. 
+
+Se non si visualizza la mascherina o il pulsante per la CIE (o per lo SPID), significa che l'Ente specifico non ha ancora abilitato quel canale sulla piattaforma. In questo caso è necessario contattare direttamente l'Ufficio Tecnico o l'assistenza dell'Ente affinchè proceda con l'attivazione. Sarà cura dell'Ente rivolgersi poi all'assistenza del **GeoTecSUE** per ricevere tutto il supporto necessario in fase di attivazione del servizio.
+
+### Mancato accesso con un provider SPID specifico (es. InfoCert, Namirial, TIM, Poste, ecc.)
+
+Se durante il tentativo di login tramite SPID il sistema restituisce un errore dopo aver selezionato il proprio gestore dell'identità digitale, il problema potrebbe essere legato a un disservizio temporaneo dell'Identity Provider scelto e non alla piattaforma **GeoTecSUE**.
+
+In questo caso:
+1. Se possiedi un'identità digitale con un secondo provider (es. accede alternativamente con PosteID o CIE se attiva), puoi tentare un accesso alternativo 
+2. Se l'accesso alternativo va a buon fine o se si decide comunque di aprire una segnalazione all'assistenza, **specifica il nome del provider** (es. "Non riesco ad accedere tramite TIM ID") con cui si è verificato l'errore. Questo permette ai nostri tecnici di isolare immediatamente il problema e verificare lo stato dei gateway governativi di quel gestore (ed eventualmente aprire una segnalazione)
 
 ### Non hai SPID o CIE?
 
