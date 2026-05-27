@@ -19,6 +19,7 @@ permalink: /changelog/
  
 ### Modifiche
 - Migliorata la sezione **Domande frequenti (FAQ)** migliorando la FAQ *Quanto tempo ho per completare una pratica in compilazione?* ed inserendo la FAQ *Comunicazioni associate a pratiche esistenti*
+- Migliorata la sezione **Accesso al portale e gestione del profilo** aggiungendo la risoluzione dei problemi relativi alla mancanza di accesso con CIE oppure l'errore con SPID
 
 ## [1.9] - 22/05/2026
 - Rilasciata la versione 1.9 del manuale
