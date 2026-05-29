@@ -6,6 +6,26 @@ permalink: /changelog/
 
 # Changelog - Manuale utente GeoTecSUE
 
+## [1.10] - 29/05/2026
+- Rilasciata la versione 1.10 del manuale
+
+### Aggiunte
+- 10 nuove pagine sugli errori di validazione per pratiche
+  - Errori Validazione Inizio Lavori - Tutte le Regioni
+  - Errori Validazione Autorizzazione Paesaggistica - Regione Lombardia
+  - Errori Validazione Notifica Preliminare - Regione Piemonte
+  - Errori Validazione SCIA Alternativa al Permesso di Costruire - Regione Lombardia
+  - Errori Validazione Accertamento di Compatibilità Paesaggistica - Regione Lombardia
+  - Errori Validazione Segnalazione Certificata di Agibilità - Regione Liguria
+  - Errori Validazione Richiesta di proroga termini Permesso di Costruire - Regione Piemonte
+  - Errori Validazione Autorizzazione Paesaggistica - Regione Liguria
+  - Errori Validazione Inizio Lavori - Regione Liguria
+  - Errori Validazione Fine Lavori - Tutte le Regioni
+ 
+### Modifiche
+- Migliorata la sezione **Domande frequenti (FAQ)** migliorando la FAQ *Quanto tempo ho per completare una pratica in compilazione?* ed inserendo la FAQ *Comunicazioni associate a pratiche esistenti*
+- Migliorata la sezione **Accesso al portale e gestione del profilo** aggiungendo la risoluzione dei problemi relativi alla mancanza di accesso con CIE oppure l'errore con SPID
+
 ## [1.9] - 22/05/2026
 - Rilasciata la versione 1.9 del manuale
 
