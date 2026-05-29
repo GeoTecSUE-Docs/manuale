@@ -20,6 +20,7 @@ permalink: /changelog/
   - Errori Validazione Richiesta di proroga termini Permesso di Costruire - Regione Piemonte
   - Errori Validazione Autorizzazione Paesaggistica - Regione Liguria
   - Errori Validazione Inizio Lavori - Regione Liguria
+  - Errori Validazione Fine Lavori - Tutte le Regioni
  
 ### Modifiche
 - Migliorata la sezione **Domande frequenti (FAQ)** migliorando la FAQ *Quanto tempo ho per completare una pratica in compilazione?* ed inserendo la FAQ *Comunicazioni associate a pratiche esistenti*
