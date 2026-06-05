@@ -7,16 +7,16 @@ keywords: [fine lavori, comunicazione fine lavori, ultimazione lavori, nazionale
 IDRegione: 99        # Fallback (Nazionale)
 IDTipoPratica: 9999  # Fallback (Generico)
 IDTarget:
-  - { Reg: 1, Prat: 1102 }  # Valle d'Aosta - CILA
-  - { Reg: 6, Prat: 6102 } # Veneto - CILA
-  - { Reg: 8, Prat: 8102 } # Emilia-Romagna - CILA
-  - { Reg: 12, Prat: 12102 } # Lazio - CILA
-  - { Reg: 13, Prat: 13102 } # Abruzzo - CILA
-  - { Reg: 15, Prat: 15102 } # Campania - CILA
-  - { Reg: 16, Prat: 16102 } # Basilicata - CILA
-  - { Reg: 17, Prat: 17102 } # Puglia - CILA
-  - { Reg: 18, Prat: 18102 } # Calabria - CILA
-  - { Reg: 19, Prat: 19102 } # Sicilia - CILA
+  - { Reg: 1, Prat: 1102 }  # Valle d'Aosta - Fine Lavori
+  - { Reg: 6, Prat: 6102 } # Veneto - Fine Lavori
+  - { Reg: 8, Prat: 8102 } # Emilia-Romagna - Fine Lavori
+  - { Reg: 12, Prat: 12102 } # Lazio - Fine Lavori
+  - { Reg: 13, Prat: 13102 } # Abruzzo - Fine Lavori
+  - { Reg: 15, Prat: 15102 } # Campania - Fine Lavori
+  - { Reg: 16, Prat: 16102 } # Basilicata - Fine Lavori
+  - { Reg: 17, Prat: 17102 } # Puglia - Fine Lavori
+  - { Reg: 18, Prat: 18102 } # Calabria - Fine Lavori
+  - { Reg: 19, Prat: 19102 } # Sicilia - Fine Lavori
 Fonte: Manuale
 ---
 

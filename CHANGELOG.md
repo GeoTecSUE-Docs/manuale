@@ -6,6 +6,20 @@ permalink: /changelog/
 
 # Changelog - Manuale utente GeoTecSUE
 
+## [1.11] - 05/06/2026
+- Rilasciata la versione 1.11 del manuale
+
+ ### Aggiunte
+ - 8 nuove pagine sugli errori di validazione per pratiche
+   - Errori Validazione Segnalazione Certificata di Agibilità - Tutte le Regioni
+   - Errori Validazione Denuncia Sismica - Regione Liguria
+   - Errori Validazione Accertamento Compatibilità Paesaggistica - Regione Liguria
+   - Errori Validazione Regolarizzazione Opere in Parziale Difformità - Regione Liguria
+   - Errori Validazione Permesso di Costruire - Tutte le Regioni
+   - Errori Validazione S.C.I.A. Alternativa al P.d.C. - Regione Liguria
+   - Errori Validazione Pareri preliminari per attività edilizia libera, CILA e SCIA - Regione Piemonte
+   - Errori Validazione C.I.L. - Regione Liguria
+
 ## [1.10] - 29/05/2026
 - Rilasciata la versione 1.10 del manuale
 
