@@ -9,7 +9,7 @@ permalink: /changelog/
 ## [1.11] - 05/06/2026
 - Rilasciata la versione 1.11 del manuale
 
- ### Aggiunte
+### Aggiunte
  - 8 nuove pagine sugli errori di validazione per pratiche
    - Errori Validazione Segnalazione Certificata di Agibilità - Tutte le Regioni
    - Errori Validazione Denuncia Sismica - Regione Liguria
