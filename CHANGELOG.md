@@ -17,6 +17,7 @@ permalink: /changelog/
    - Errori Validazione Regolarizzazione Opere in Parziale Difformità - Regione Liguria
    - Errori Validazione Permesso di Costruire - Tutte le Regioni
    - Errori Validazione S.C.I.A. Alternativa al P.d.C. - Regione Liguria
+   - Errori Validazione Pareri preliminari per attività edilizia libera, CILA e SCIA - Regione Piemonte
 
 ## [1.10] - 29/05/2026
 - Rilasciata la versione 1.10 del manuale
