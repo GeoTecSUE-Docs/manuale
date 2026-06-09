@@ -14,6 +14,9 @@ permalink: /changelog/
   - Errori Validazione Acquisizione atti di assenso o pareri - Regione Piemonte
   - Errori Validazione S.C.I.A. Alternativa al P.d.C. - Tuttel le Regioni
 
+### Modifiche
+- Aggiunta la sezione *Accesso come Azienda / Persona Giuridica* in **Accesso al portale e gestione del profilo** per spiegare la gestione dell'accesso con sistemi alternativi a **SPID** e **CIE**
+
 ## [1.11] - 05/06/2026
 - Rilasciata la versione 1.11 del manuale
 
