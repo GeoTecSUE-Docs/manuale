@@ -10,8 +10,9 @@ permalink: /changelog/
 - Rilasciata la versione 1.12 del manuale
 
 ### Aggiunte
-- 1 nuove pagine sugli errori di validazione per pratiche
+- 2 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Acquisizione atti di assenso o pareri - Regione Piemonte
+  - Errori Validazione S.C.I.A. Alternativa al P.d.C. - Tuttel le Regioni
 
 ## [1.11] - 05/06/2026
 - Rilasciata la versione 1.11 del manuale
