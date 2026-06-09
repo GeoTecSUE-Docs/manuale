@@ -92,8 +92,8 @@ I sistemi nazionali di autenticazione attualmente disponibili (**SPID** e **CIE*
 Per agevolare l'operatività delle persone giuridiche, **GeoTecSUE** mette quindi a disposizione una modalità di registrazione dedicata che consente di creare un account associato a una Partita IVA. Questa funzionalità rappresenta una facilitazione fornita dalla piattaforma e non sostituisce i sistemi di autenticazione nazionali previsti per l'accesso ai servizi digitali della Pubblica Amministrazione. 
 
 > **Importante**
-> > Sebbene questa modalità di accesso possa essere resa disponibile dall'Ente, il suo utilizzo è fortemente sconsigliato. Il quadro normativo vigente in materia di digitalizzazione della Pubblica Amministrazione, e in particolare il Decreto Legge "Semplificazione e innovazione digitale", individua in **SPID** e **CIE** gli strumenti di autenticazione di riferimento per l'accesso ai servizi online della Pubblica Amministrazione.
-> > Si raccomanda pertanto di associare quanto prima uno o più utenti autenticati tramite SPID o CIE all'account aziendale e di utilizzare tali modalità per gli accessi successivi.
+> Sebbene questa modalità di accesso possa essere resa disponibile dall'Ente, il suo utilizzo è fortemente sconsigliato. Il quadro normativo vigente in materia di digitalizzazione della Pubblica Amministrazione, e in particolare il Decreto Legge "Semplificazione e innovazione digitale", individua in **SPID** e **CIE** gli strumenti di autenticazione di riferimento per l'accesso ai servizi online della Pubblica Amministrazione.
+> Si raccomanda pertanto di associare quanto prima uno o più utenti autenticati tramite SPID o CIE all'account aziendale e di utilizzare tali modalità per gli accessi successivi.
 
 ## Primo accesso e completamento profilo
 
