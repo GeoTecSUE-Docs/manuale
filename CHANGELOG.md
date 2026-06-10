@@ -10,11 +10,12 @@ permalink: /changelog/
 - Rilasciata la versione 1.12 del manuale
 
 ### Aggiunte
-- 4 nuove pagine sugli errori di validazione per pratiche
+- 5 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Acquisizione atti di assenso o pareri - Regione Piemonte
   - Errori Validazione S.C.I.A. Alternativa al P.d.C. - Tutte le Regioni
   - Errori Validazione Autorizzazione allo scarico - Tutte le Regioni
   - Errori Validazione Denuncia Sismica - Regione Lombardia
+  - Errori Validazione C.I.L. - Regione Lombardia
 
 ### Modifiche
 - Aggiunta la sezione *Accesso come Azienda / Persona Giuridica* in **Accesso al portale e gestione del profilo** per spiegare la gestione dell'accesso con sistemi alternativi a **SPID** e **CIE**
