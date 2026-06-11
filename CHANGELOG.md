@@ -16,6 +16,7 @@ permalink: /changelog/
   - Errori Validazione Autorizzazione allo scarico - Tutte le Regioni
   - Errori Validazione Denuncia Sismica - Regione Lombardia
   - Errori Validazione C.I.L. - Regione Lombardia
+  - Errori Validazione Comunicazione di Agibilità - Regione Piemonte
 
 ### Modifiche
 - Aggiunta la sezione *Accesso come Azienda / Persona Giuridica* in **Accesso al portale e gestione del profilo** per spiegare la gestione dell'accesso con sistemi alternativi a **SPID** e **CIE**
