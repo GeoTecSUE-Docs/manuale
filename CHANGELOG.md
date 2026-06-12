@@ -10,7 +10,7 @@ permalink: /changelog/
 - Rilasciata la versione 1.12 del manuale
 
 ### Aggiunte
-- 9 nuove pagine sugli errori di validazione per pratiche
+- 10 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Acquisizione atti di assenso o pareri - Regione Piemonte
   - Errori Validazione S.C.I.A. Alternativa al P.d.C. - Tutte le Regioni
   - Errori Validazione Autorizzazione allo scarico - Tutte le Regioni
@@ -20,6 +20,7 @@ permalink: /changelog/
   - Errori Validazione Richiesta approvazione Strumento Urbanistico Esecutivo - Regione Piemonte
   - Errori Validazione Denuncia dei lavori in zona sismica - interventi di minore rilevanza e privi di rilevanza - Regione Veneto
   - Errori Validazione Autorizzazione Paesaggistica Semplificata - Tutte le Regioni
+  - Errori Validazione Autorizzazione Paesaggistica - Tutte le Regioni
 
 ### Modifiche
 - Aggiunta la sezione *Accesso come Azienda / Persona Giuridica* in **Accesso al portale e gestione del profilo** per spiegare la gestione dell'accesso con sistemi alternativi a **SPID** e **CIE**
