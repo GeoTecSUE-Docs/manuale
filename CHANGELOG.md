@@ -6,6 +6,26 @@ permalink: /changelog/
 
 # Changelog - Manuale utente GeoTecSUE
 
+## [1.12] - 12/06/2026
+- Rilasciata la versione 1.12 del manuale
+
+### Aggiunte
+- 10 nuove pagine sugli errori di validazione per pratiche
+  - Errori Validazione Acquisizione atti di assenso o pareri - Regione Piemonte
+  - Errori Validazione S.C.I.A. Alternativa al P.d.C. - Tutte le Regioni
+  - Errori Validazione Autorizzazione allo scarico - Tutte le Regioni
+  - Errori Validazione Denuncia Sismica - Regione Lombardia
+  - Errori Validazione C.I.L. - Regione Lombardia
+  - Errori Validazione Comunicazione di Agibilità - Regione Piemonte
+  - Errori Validazione Richiesta approvazione Strumento Urbanistico Esecutivo - Regione Piemonte
+  - Errori Validazione Denuncia dei lavori in zona sismica - interventi di minore rilevanza e privi di rilevanza - Regione Veneto
+  - Errori Validazione Autorizzazione Paesaggistica Semplificata - Tutte le Regioni
+  - Errori Validazione Autorizzazione Paesaggistica - Tutte le Regioni
+
+### Modifiche
+- Aggiunta la sezione *Accesso come Azienda / Persona Giuridica* in **Accesso al portale e gestione del profilo** per spiegare la gestione dell'accesso con sistemi alternativi a **SPID** e **CIE**
+- Migliorata la sezione **Domande frequenti (FAQ)** aggiungendo **Accesso e autenticazione** (gestione di accesso alternativo a SPID/CIE e recupero pratiche con Partita IVA)
+
 ## [1.11] - 05/06/2026
 - Rilasciata la versione 1.11 del manuale
 
@@ -19,6 +39,7 @@ permalink: /changelog/
    - Errori Validazione S.C.I.A. Alternativa al P.d.C. - Regione Liguria
    - Errori Validazione Pareri preliminari per attività edilizia libera, CILA e SCIA - Regione Piemonte
    - Errori Validazione C.I.L. - Regione Liguria
+   - Errori Validazione Denuncia dei lavori in zona sismica - interventi di minore rilevanza e privi di rilevanza - Regione Veneto
 
 ## [1.10] - 29/05/2026
 - Rilasciata la versione 1.10 del manuale

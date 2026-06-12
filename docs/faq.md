@@ -18,6 +18,7 @@ Risposte rapide alle domande più comuni su **GeoTecSUE**.
 
 ## Indice per categoria
 
+- [Accesso e autenticazione](#accesso-e-autenticazione)
 - [Creazione e compilazione pratiche](#creazione-e-compilazione-pratiche)
 - [Invio e gestione pratiche](#invio-e-gestione-pratiche)
 - [Comunicazioni e integrazioni](#comunicazioni-e-integrazioni)
@@ -29,6 +30,83 @@ Risposte rapide alle domande più comuni su **GeoTecSUE**.
 - [Sistema e funzionalità](#sistema-e-funzionalità)
 
 ---
+
+## Accesso e autenticazione
+
+### Posso registrarmi o accedere come Azienda con Partita IVA?
+
+Sì, il portale prevede una modalità di registrazione dedicata per **Aziende, Società tra Professionisti (STP), Studi Associati e altre Persone Giuridiche**.
+
+Questa funzionalità è disponibile in quanto, allo stato attuale, i sistemi nazionali di autenticazione (**SPID** e **CIE**) consentono l'identificazione esclusivamente di una **persona fisica** tramite Codice Fiscale e non prevedono un sistema di autenticazione basato su **Partita IVA**.
+
+Per questo motivo, la registrazione con Partita IVA viene fornita come **soluzione di facilitazione operativa** per le persone giuridiche.
+
+### È la modalità consigliata?
+
+**No.**
+
+In linea con il quadro normativo vigente in materia di digitalizzazione della Pubblica Amministrazione (Decreto Legge “Semplificazione e innovazione digitale”), le modalità di accesso **raccomandate e preferenziali** restano **SPID e CIE**.
+
+La registrazione con Partita IVA è quindi da considerarsi una modalità **accessoria e di supporto**, utilizzabile solo in casi eccezionali.
+
+È inoltre opportuno, una volta registrata la Società tra Professionisti, associare lo **SPID** o la **CIE** alla **Partita IVA** in modo da preservare il corretto accesso cone le modalità consentite dal decreto.
+
+### Posso collegare SPID o CIE a un account aziendale?
+
+Sì.
+
+Dopo la registrazione con Partita IVA è possibile associare uno o più utenti autenticati tramite **SPID o CIE** all’account aziendale.
+
+In questo modo:
+- l'accesso avviene tramite identità digitale personale (SPID/CIE)
+- l'utenza rimane collegata alla posizione aziendale associata alla Partita IVA
+
+### Posso modificare la Partita IVA?
+
+**No.**
+
+La **Partita IVA non è modificabile** dopo la registrazione, in quanto rappresenta l’identificativo univoco dell'utenza aziendale.
+
+In caso di necessità di operare con una Partita IVA diversa, è necessario creare un nuovo account.
+
+### Ho creato pratiche con account P.IVA ma ora accedo con SPID/CIE e non le vedo più. Cosa succede?
+
+Questo comportamento è previsto dal sistema ed è legato alla differenza tra le due modalità di accesso:
+
+- l'account registrato con **Partita IVA** è un’identità separata
+- l'account autenticato tramite **SPID o CIE** è associato al **Codice Fiscale della persona fisica**
+
+Per questo motivo, le pratiche create con l'utenza aziendale (P.IVA) non risultano visibili accedendo con SPID/CIE (C.F.), in quanto si tratta di due profili distinti.
+
+### È possibile recuperare le pratiche?
+
+Sì.
+
+È possibile richiedere lo **spostamento di una o più pratiche** dall'account associato alla Partita IVA all'account associato al Codice Fiscale (SPID/CIE).
+
+### Come richiedere lo spostamento?
+
+La richiesta deve essere effettuata tramite **Assistenza Tecnica**:
+
+1. Aprire un ticket di assistenza
+2. Indicare chiaramente:
+   - Partita IVA dell'account di origine
+   - Codice Fiscale dell'account di destinazione
+   - Identificativi delle pratiche da spostare (chiave, tipo, titolare)
+3. Specificare esplicitamente la richiesta di “migrazione pratiche tra utenze”
+
+### Cosa succede dopo la richiesta?
+
+- Il ticket viene preso in carico dall'assistenza tecnica
+- Il team di supporto verifica la correttezza dei dati
+- L'utente viene successivamente contattato per la conferma operativa
+- Una volta confermata, viene effettuato lo **spostamento delle pratiche selezionate**
+
+### Note importanti
+
+- Lo spostamento è possibile solo tra account riconducibili allo stesso soggetto
+- L'operazione può richiedere tempi variabili in base alla verifica dei dati
+- Durante la procedura le pratiche restano visibili solo nell'account di origine fino al completamento della migrazione
 
 ## Creazione e compilazione pratiche
 
