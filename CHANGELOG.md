@@ -6,6 +6,13 @@ permalink: /changelog/
 
 # Changelog - Manuale utente GeoTecSUE
 
+## [1.13] - 23/06/20226
+- Rilasciata la versione 1.13 del manuale
+
+### Aggiunte
+- 1 nuove pagine sugli errori di validazione per pratiche
+  - Errori Validazione 
+
 ## [1.12] - 12/06/2026
 - Rilasciata la versione 1.12 del manuale
 
