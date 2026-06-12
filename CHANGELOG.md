@@ -18,6 +18,7 @@ permalink: /changelog/
   - Errori Validazione C.I.L. - Regione Lombardia
   - Errori Validazione Comunicazione di Agibilità - Regione Piemonte
   - Errori Validazione Richiesta approvazione Strumento Urbanistico Esecutivo - Regione Piemonte
+  - Errori 
 
 ### Modifiche
 - Aggiunta la sezione *Accesso come Azienda / Persona Giuridica* in **Accesso al portale e gestione del profilo** per spiegare la gestione dell'accesso con sistemi alternativi a **SPID** e **CIE**
@@ -36,6 +37,7 @@ permalink: /changelog/
    - Errori Validazione S.C.I.A. Alternativa al P.d.C. - Regione Liguria
    - Errori Validazione Pareri preliminari per attività edilizia libera, CILA e SCIA - Regione Piemonte
    - Errori Validazione C.I.L. - Regione Liguria
+   - Errori Validazione Denuncia dei lavori in zona sismica - interventi di minore rilevanza e privi di rilevanza - Regione Veneto
 
 ## [1.10] - 29/05/2026
 - Rilasciata la versione 1.10 del manuale
