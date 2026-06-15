@@ -1,3 +1,4 @@
+---
 title: Errori Lavori in Abitati da Consolidare - Piemonte
 parent: Errori di validazione
 nav_order: 43
