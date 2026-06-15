@@ -17,7 +17,7 @@ IDTarget:
   - { Reg: 17, Prat: 1724 }  # Puglia - CIL
   - { Reg: 18, Prat: 1824 }  # Calabria - CIL
   - { Reg: 19, Prat: 1924 }  # Sicilia - CIL
-Fonte: Analisi codice
+Fonte: Manuale
 ---
 
 # Errori di validazione - C.I.L.
