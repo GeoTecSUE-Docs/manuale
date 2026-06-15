@@ -10,11 +10,12 @@ permalink: /changelog/
 - Rilasciata la versione 1.13 del manuale
 
 ### Aggiunte
-- 4 nuove pagine sugli errori di validazione per pratiche
+- 5 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione P.A.S. - Tutte le Regioni
   - Errori Validazione Richiesta di Agibilità - Regione Piemonte
   - Errori Validazione C.I.L. - Tutte le Regioni
   - Errori Validazione Certificato di collaudo statico o dichiarazione di regolare esecuzione (DRE) - Regione Lombardia
+  - Errori Validazione Lavori di costruzione in abitati da consolidare - Regione Piemonte
 
 ## [1.12] - 12/06/2026
 - Rilasciata la versione 1.12 del manuale
