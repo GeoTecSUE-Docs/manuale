@@ -18,6 +18,7 @@ permalink: /changelog/
   - Errori Validazione Lavori di costruzione in abitati da consolidare - Regione Piemonte
   - Errori Validazione C.I.L.A. Tolleranze Esecutive - Regione Piemonte
   - Errori Validazione Trasmissione di relazione a strutture ultimate - Regione Lombardia
+  - Errori Validazione Comunicazione di proroga dei termini - Tutte le Regioni
 
 ## [1.12] - 12/06/2026
 - Rilasciata la versione 1.12 del manuale
