@@ -17,6 +17,7 @@ permalink: /changelog/
   - Errori Validazione Certificato di collaudo statico o dichiarazione di regolare esecuzione (DRE) - Regione Lombardia
   - Errori Validazione Lavori di costruzione in abitati da consolidare - Regione Piemonte
   - Errori Validazione C.I.L.A. Tolleranze Esecutive - Regione Piemonte
+  - Errori Validazione Trasmissione di relazione a strutture ultimate - Regione Lombardia
 
 ## [1.12] - 12/06/2026
 - Rilasciata la versione 1.12 del manuale
