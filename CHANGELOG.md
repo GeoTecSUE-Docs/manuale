@@ -10,7 +10,7 @@ permalink: /changelog/
 - Rilasciata la versione 1.13 del manuale
 
 ### Aggiunte
-- 5 nuove pagine sugli errori di validazione per pratiche
+- 7 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione P.A.S. - Tutte le Regioni
   - Errori Validazione Richiesta di Agibilità - Regione Piemonte
   - Errori Validazione C.I.L. - Tutte le Regioni
