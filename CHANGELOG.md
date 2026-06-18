@@ -10,7 +10,7 @@ permalink: /changelog/
 - Rilasciata la versione 1.13 del manuale
 
 ### Aggiunte
-- 8 nuove pagine sugli errori di validazione per pratiche
+- 9 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione P.A.S. - Tutte le Regioni
   - Errori Validazione Richiesta di Agibilità - Regione Piemonte
   - Errori Validazione C.I.L. - Tutte le Regioni
@@ -19,6 +19,7 @@ permalink: /changelog/
   - Errori Validazione C.I.L.A. Tolleranze Esecutive - Regione Piemonte
   - Errori Validazione Trasmissione di relazione a strutture ultimate - Regione Lombardia
   - Errori Validazione Comunicazione di proroga dei termini - Tutte le Regioni
+  - Errori Validazione Accertamento Compatibilità Paesaggistica - Tutte le Regioni
 
 ## [1.12] - 12/06/2026
 - Rilasciata la versione 1.12 del manuale
