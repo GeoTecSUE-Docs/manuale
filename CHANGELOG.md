@@ -6,6 +6,21 @@ permalink: /changelog/
 
 # Changelog - Manuale utente GeoTecSUE
 
+## [1.13] - 18/06/20226
+- Rilasciata la versione 1.13 del manuale
+
+### Aggiunte
+- 9 nuove pagine sugli errori di validazione per pratiche
+  - Errori Validazione P.A.S. - Tutte le Regioni
+  - Errori Validazione Richiesta di Agibilità - Regione Piemonte
+  - Errori Validazione C.I.L. - Tutte le Regioni
+  - Errori Validazione Certificato di collaudo statico o dichiarazione di regolare esecuzione (DRE) - Regione Lombardia
+  - Errori Validazione Lavori di costruzione in abitati da consolidare - Regione Piemonte
+  - Errori Validazione C.I.L.A. Tolleranze Esecutive - Regione Piemonte
+  - Errori Validazione Trasmissione di relazione a strutture ultimate - Regione Lombardia
+  - Errori Validazione Comunicazione di proroga dei termini - Tutte le Regioni
+  - Errori Validazione Accertamento Compatibilità Paesaggistica - Tutte le Regioni
+
 ## [1.12] - 12/06/2026
 - Rilasciata la versione 1.12 del manuale
 
