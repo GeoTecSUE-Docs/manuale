@@ -6,7 +6,7 @@ description: Errori di validazione specifici per l'Autorizzazione Paesaggistica 
 keywords: [autorizzazione paesaggistica semplificata, APS, Liguria, DM 31/2017, art. 146 D.Lgs. 42/2004, art. 136, art. 142, art. 134, Allegato B, vincolo paesaggistico, variante]
 IDRegione: 4
 IDTipoPratica: 541
-Fonte: Analisi codice
+Fonte: Manuale
 ---
 
 # Errori di validazione - Autorizzazione Paesaggistica Semplificata (APS)
