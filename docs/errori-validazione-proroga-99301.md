@@ -20,7 +20,7 @@ IDTarget:
   - { Reg: 17, Prat: 17301 }  # Puglia - Proroga
   - { Reg: 18, Prat: 18301 }  # Calabria - Proroga
   - { Reg: 19, Prat: 19301 }  # Sicilia - Proroga
-Fonte: Analisi codice
+Fonte: Manuale
 ---
 
 # Errori di validazione - Proroga dei Termini
