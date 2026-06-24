@@ -6,7 +6,7 @@ description: Errori di validazione specifici per la Regolarizzazione Opere Inter
 keywords: [regolarizzazione opere interne, ROI, Liguria, LR 16/2008, art. 22, opere abusive interne, ante 1985, ante 2005, versamento 172.15, titolari aggiuntivi]
 IDRegione: 3
 IDTipoPratica: 61
-Fonte: Analisi codice
+Fonte: Manuale
 ---
 
 # Errori di validazione - Regolarizzazione Opere Interne (ROI)
