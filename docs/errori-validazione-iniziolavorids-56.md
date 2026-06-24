@@ -6,7 +6,7 @@ description: Errori di validazione specifici per la Comunicazione di Inizio Lavo
 keywords: [inizio lavori denuncia sismica, ILDS, modello 4, art. 93 DPR 380/2001, data inizio lavori, Piemonte, denuncia strutturale, zona PRG, sismica]
 IDRegione: 2
 IDTipoPratica: 56
-Fonte: Analisi codice
+Fonte: Manuale
 ---
 
 # Errori di validazione - Inizio Lavori Denuncia Sismica (Modello 4)
