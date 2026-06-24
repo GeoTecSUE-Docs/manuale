@@ -10,9 +10,10 @@ permalink: /changelog/
 - Rilasciata la versione 1.14 del manuale
 
 ### Aggiunte
-- 1 nuove pagine sugli errori di validazione per pratiche
+- 3 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Autorizzazione Vincolo Idrogeologico - Regione Liguria
   - Errori Validazione Attività Libera per la Produzione di Energia da Fonti Rinnovabili - Tutte le Regioni
+  - Errori Validazione Richiesta Certificazione - Regione Piemonte
 
 ## [1.13] - 18/06/20226
 - Rilasciata la versione 1.13 del manuale
