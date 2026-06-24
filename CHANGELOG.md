@@ -6,6 +6,13 @@ permalink: /changelog/
 
 # Changelog - Manuale utente GeoTecSUE
 
+## [1.14] - 01/07/2026
+- Rilasciata la versione 1.14 del manuale
+
+### Aggiunte
+- 1 nuove pagine sugli errori di validazione per pratiche
+  - Errori Validazione Autorizzazione Vincolo Idrogeologico - Regione Liguria
+
 ## [1.13] - 18/06/20226
 - Rilasciata la versione 1.13 del manuale
 
