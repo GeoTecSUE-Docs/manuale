@@ -10,6 +10,7 @@ permalink: /changelog/
 - Rilasciata la versione 1.14 del manuale
 
 ### Aggiunte
+- "Gestione Voltura" nella sezione "Le mie istanze"
 - 3 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Autorizzazione Vincolo Idrogeologico - Regione Liguria
   - Errori Validazione Attività Libera per la Produzione di Energia da Fonti Rinnovabili - Tutte le Regioni
