@@ -250,20 +250,6 @@ Guida completa agli errori specifici per la domanda di **Autorizzazione ai fini 
 - [ ] Seleziona la dichiarazione sulle **aree a rischio PAI** (una delle 2 opzioni)
 - [ ] **Salva** frequentemente
 
-### Confronto AVI Nazionale vs AVI/SCIAVI Liguria ⚠️
-
-| Sezione | AVI Liguria (Prat. 4) | SCIAVI Liguria (Prat. 21) | AVI Nazionale (Prat. 994) |
-|---|---|---|---|
-| Numero Piano di Bacino | ✗ No | ☑ Sì | ✗ No |
-| Tipo intervento (radio) | ✗ No | ✗ No | ☑ Sì ("esegue"/"conserva") |
-| Superficie complessiva | ✗ No | ✗ No | ☑ Sì (campo mq) |
-| Movimenti di terra | ✗ No | ✗ No | ☑ Sì (radio button) |
-| Vincoli sito (3 checkbox) | ✗ No | ✗ No | ☑ Sì (con descrizione) |
-| Aree rischio PAI | ✗ No | ✗ No | ☑ Sì (radio button) |
-| Variante a pratica prec. | ☑ Sì | ☑ Sì | ✗ No |
-| Progettista (`PR`) obbl. | ☑ Sì | ☑ Sì | ✗ No |
-| Geologo (`GE`) obbl. | ☑ Sì | ☑ Sì | ✗ No |
-
 ### Errori frequenti AVI Nazionale 🔍
 
 1. **Bug Titolarità/Tipo Intervento** → in caso di errore su questi due campi il focus può fallire o generare eccezione; compilarli sempre prima di validare per evitare comportamenti anomali
@@ -271,22 +257,6 @@ Guida completa agli errori specifici per la domanda di **Autorizzazione ai fini 
 3. **Vincolo spuntato senza descrizione** → ogni checkbox spuntato attiva il campo di testo corrispondente che diventa obbligatorio
 4. **Superficie mancante** → campo di testo inline nella dichiarazione 1), visivamente integrato nel testo; facile da non notare
 5. **PAI dimenticato** → l'ultimo radio button della sezione Caratteristiche; posizionato in fondo dopo i vincoli, spesso saltato
-
-### Bug critici documentati
-
-**Bug 1 e 2 — Focus puntato a oggetto inesistente `DatiAP1`**:
-
-```vb
-' Codice attuale (errato) — per ENTRAMBI gli errori Titolarità e TipoIntervento:
-CType(DatiAP1.FindControl("rdbTitolaritaa_1"), RadioButton).Focus()
-
-' Codice corretto atteso:
-CType(DatiAVINaz1.FindControl("rdbTitolaritaa_1"), RadioButton).Focus()
-' e per TipoIntervento:
-CType(DatiAVINaz1.FindControl("rdbTipoInterventot_1"), RadioButton).Focus()
-```
-
-L'oggetto `DatiAP1` appartiene a un altro user control (probabilmente `DatiAP`). In questa funzione non è mai istanziato. Il risultato a runtime può essere: NullReferenceException (se `DatiAP1` è Nothing) oppure focus silenziosamente ignorato (se il controllo è in un'altra view). In entrambi i casi il messaggio di errore non viene mostrato correttamente all'utente. **Priorità di correzione: alta.**
 
 ---
 
