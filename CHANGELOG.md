@@ -11,11 +11,12 @@ permalink: /changelog/
 
 ### Aggiunte
 - "Gestione Voltura" nella sezione "Le mie istanze"
-- 4 nuove pagine sugli errori di validazione per pratiche
+- 5 nuove pagine sugli errori di validazione per pratiche
   - Errori Validazione Autorizzazione Vincolo Idrogeologico - Regione Liguria
   - Errori Validazione Attività Libera per la Produzione di Energia da Fonti Rinnovabili - Tutte le Regioni
   - Errori Validazione Richiesta Certificazione - Regione Piemonte
   - Errori Validazione S.C.I.A. per Vincolo Idrogeologico - Regione Liguria
+  - Errori Validazione Autorizzazione Vincolo Idrogeologico - Tutte le regioni
 
 ## [1.13] - 18/06/20226
 - Rilasciata la versione 1.13 del manuale
