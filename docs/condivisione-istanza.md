@@ -10,17 +10,8 @@ Fonte: Manuale
 ---
 
 # Condivisione di un'istanza
-{: .no_toc }
 
 GeoTecSUE consente di condividere un'istanza con altri soggetti, con due modalità distinte a seconda del ruolo che si vuole assegnare al destinatario: **sola visualizzazione** (per soggetti esterni come il committente) oppure **modifica** (per professionisti collaboratori).
-
----
-
-## Indice
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
 
 ---
 
