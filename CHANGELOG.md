@@ -6,7 +6,13 @@ permalink: /changelog/
 
 # Changelog - Manuale utente GeoTecSUE
 
-## [1.14] - 01/07/2026
+## [1.15] - 03/07/2026
+- Rilasciata la versione 1.15 del manuale
+
+### Aggiunte
+- "Condivisione di un'istanza" nella sezione "Le mie istanze"
+
+## [1.14] - 26/06/2026
 - Rilasciata la versione 1.14 del manuale
 
 ### Aggiunte
