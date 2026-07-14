@@ -21,6 +21,7 @@ Risposte rapide alle domande più comuni su **GeoTecSUE**.
 - [Accesso e autenticazione](#accesso-e-autenticazione)
 - [Creazione e compilazione pratiche](#creazione-e-compilazione-pratiche)
 - [Invio e gestione pratiche](#invio-e-gestione-pratiche)
+- [Volture e subentri](#volture-e-subentri)
 - [Comunicazioni e integrazioni](#comunicazioni-e-integrazioni)
 - [Pagamenti PagoPA](#pagamenti-pagopa)
 - [Anagrafica e autocompilazione](#anagrafica-e-autocompilazione)
@@ -108,6 +109,26 @@ La richiesta deve essere effettuata tramite **Assistenza Tecnica**:
 - L'operazione può richiedere tempi variabili in base alla verifica dei dati
 - Durante la procedura le pratiche restano visibili solo nell'account di origine fino al completamento della migrazione
 
+### Ho due profili, uno con Partita IVA e uno con Codice Fiscale (SPID/CIE). Quale devo usare?
+
+Ti consigliamo di **ignorare la registrazione con Partita IVA** e di operare esclusivamente con l'account **SPID/CIE** (Codice Fiscale), in linea con il Decreto "Semplificazione e innovazione digitale".
+
+Non è possibile cancellare una registrazione esistente: puoi semplicemente non utilizzarla più.
+
+Se una pratica ti era stata condivisa prima che ti registrassi con SPID/CIE, fatti condividere nuovamente l'istanza dal collega usando il tuo nuovo Codice Fiscale.
+
+### Il mio Comune non prevede l'accesso con CIE, solo con SPID. Posso richiederlo?
+
+Sì. L'attivazione dell'accesso con CIE è **a carico dell'Ente**, non del portale.
+
+Segnala la mancanza all'Ente (puoi far riferimento all'assistenza tecnica di GeoTecSUE): l'Ente riceverà le istruzioni operative per l'attivazione.
+
+### Perché non riesco a modificare Nome, Cognome o Codice Fiscale nel mio profilo?
+
+Questi tre dati **non sono mai modificabili** dopo la registrazione, indipendentemente dalla modalità di accesso.
+
+Se hai cambiato Partita IVA, oppure ti sei accorto di un errore nella registrazione originaria, devi effettuare una **nuova registrazione** (idealmente con SPID/CIE, che dal 2021 è l'unica modalità su cui l'assistenza può intervenire).
+
 ## Creazione e compilazione pratiche
 
 ### Quanto tempo ho per completare una pratica in compilazione?
@@ -178,6 +199,40 @@ Dopo aver cliccato "Conferma" nella creazione:
 
 Dettagli: [Compilare un'istanza](compilare-istanza.html)
 
+### L'indirizzo (via) del mio immobile non è presente nell'elenco. Come lo aggiungo?
+
+Nella sezione di localizzazione dell'intervento, spunta la voce **"Toponimo mancante"**: se l'Ente lo consente, si abiliterà un campo libero in cui potrai inserire la via.
+
+Se il Comune **non** consente l'inserimento libero dei toponimi, devi segnalare all'Ente l'assenza della via: solo l'Ente può aggiungerla allo stradario comunale (puoi far riferimento all'assistenza tecnica se l'Ente ha bisogno di supporto).
+
+### Non trovo la tipologia di intervento che mi serve (es. Ristrutturazione Edilizia, Restauro)
+
+Le tipologie di intervento attivabili per ciascun tipo di pratica sono **decise e attivate dall'Ente**, non dal fornitore del software.
+
+Le tipologie previste dal DPR 380/2001 sono: Manutenzione ordinaria, Manutenzione straordinaria, Restauro e risanamento conservativo, Ristrutturazione edilizia, Nuova costruzione, Ristrutturazione urbanistica. È inoltre disponibile una voce "Altro" per i casi non ricompresi (il cui uso è comunque sconsigliato).
+
+Se una tipologia coerente con il tuo intervento non è disponibile, contatta l'**Ufficio Tecnico** dell'Ente chiedendo l'attivazione (puoi far riferimento all'assistenza tecnica se l'Ente non sa come procedere).
+
+{: .note }
+> Il tipo di intervento indicato non è modificabile dopo l'invio della pratica: verificalo con attenzione prima di trasmettere.
+
+### Come genero il modello di delega/procura da allegare alla pratica?
+
+Usa la funzione **"Autocompilazione modelli"** in "Le mie istanze", selezionando il modello "Modello di delega alla presentazione della pratica".
+
+Selezionando un soggetto o una pratica, il sistema compila automaticamente il modello, che potrai poi scaricare, firmare digitalmente e allegare.
+
+{: .note }
+> La procura generata da GeoTecSUE riporta solo i richiedenti, non gli altri professionisti coinvolti. Se ti serve indicare anche altri tecnici, integra con un documento libero.
+
+### Sto compilando una SCIA/Permesso in sanatoria e il sistema mi chiede una data di inizio lavori, ma le opere sono già state eseguite
+
+È un comportamento previsto dal modello nazionale/regionale: anche in sanatoria il campo data di inizio lavori resta obbligatorio.
+
+**Soluzione**: inserisci la data in cui i lavori sono stati effettivamente eseguiti.
+
+Allo stesso modo, anche la qualificazione dell'intervento resta un campo obbligatorio indipendentemente dal fatto che si tratti di una sanatoria: questi vincoli dipendono dalla modulistica regionale/nazionale e non sono modificabili dal fornitore del software.
+
 ---
 
 ## Invio e gestione pratiche
@@ -234,6 +289,75 @@ Devi operare su ogni pratica singolarmente.
 ### Devo trasmettere una variante ad una pratica già presentata. Come fare?
 
 La **variante** è, a tutti gli effetti, una nuova pratica: pertanto dovrai creare una pratica da zero e all'interno della stessa (in base alla tipologia della pratica) potrai indicare la pratica che stai variando. Puoi sempre utilizzare anche la **descrizione dell'intervento** per indicare che quanto stai trasmettendo è *variante rispetto a...*
+
+### Ho generato il PDF ma non riesco a trovarlo o a scaricarlo
+
+Se il sistema conferma "PDF generato con successo", il file è pronto: nell'elenco delle pratiche (colonna **PDF**), clicca sull'icona per scaricarlo. Normalmente viene salvato nella cartella **Download** del tuo dispositivo.
+
+Se la rotellina di caricamento continua a girare senza fermarsi, prova a chiudere e riaprire la pagina: nella maggior parte dei casi il file risulta comunque generato correttamente.
+
+### "Il file firmato digitalmente non corrisponde all'originale": come risolvo?
+
+Questo errore è quasi sempre causato da una manipolazione del file PDF prima della firma. Segui questi passaggi con attenzione:
+
+1. **Svuota la cartella Download** per eliminare eventuali copie duplicate (es. con suffissi "(1)", "(2)")
+2. Dalla pratica, clicca su **"Genera"** e scarica il PDF (senza aprirlo)
+3. **Non spostare né rinominare** il file
+4. Firma digitalmente in modalità **CAdES** direttamente nella cartella Download
+5. Verifica che il file abbia doppia estensione **.pdf.p7m** (se il software di firma produce solo .p7m, rinominalo aggiungendo .pdf prima dell'estensione)
+6. Carica il file ottenuto nella colonna **P7M**
+
+{: .warning }
+> Aprire il PDF prima di firmarlo (anche solo per un controllo) o salvarlo con un altro nome invalida la corrispondenza con l'originale.
+
+### Il sistema segnala "Campo obbligatorio non inserito" ma non trovo l'errore
+
+Cliccando su **"Valida e Salva"**, il sistema ti posiziona **esattamente** nel punto in cui rileva il problema: non serve cercare manualmente in tutta la pratica.
+
+Un caso frequente riguarda la sezione **"Dati della Ditta/Società/Ente/Altro"**: se il campo a tendina **"In qualità di"** contiene una selezione (es. "Titolare", "Legale rappresentante", "Altro"), il sistema richiede obbligatoriamente tutti i campi collegati. Se il soggetto non è una ditta/società/ente, riporta la tendina alla **voce vuota**: l'obbligatorietà dei campi verrà rimossa automaticamente.
+
+Consulta anche il [manuale online](https://geotecsue-docs.github.io/manuale/docs/errori-validazione.html) per la lista degli errori di validazione più comuni.
+
+---
+
+## Volture e subentri
+
+### Devo subentrare in una pratica presentata da un altro professionista (es. per pensionamento, decesso o rinuncia all'incarico). Come procedo?
+
+È necessaria una **richiesta di Voltura** all'Ente.
+
+**Procedura generale**:
+1. Prepara un documento di richiesta voltura, firmato dal professionista entrante e, se possibile, dal professionista uscente e dalla proprietà
+2. In caso di decesso del professionista uscente, allega anche il certificato di morte
+3. Trasmetti la richiesta all'Ente (via PEC o altra modalità da questo indicata)
+4. L'Ente verifica la documentazione e **sposta la pratica** dal precedente professionista al tuo profilo
+
+Solo dopo che l'Ente ha completato la voltura potrai vedere e operare sulla pratica (puoi far riferimento all'assistenza tecnica se l'Ente ha difficoltà nell'operazione).
+
+### Come volturo il titolare (proprietà) di una pratica già inviata, ad esempio dopo una compravendita o un decesso?
+
+Il portale non prevede un modello strutturato per la voltura del titolare: devi trasmettere la richiesta come **documentazione libera/integrazione volontaria**.
+
+1. Nel dettaglio della pratica, vai su **"Invio documentazione all'Ente (integrazioni spontanee)"** → **"Nuovo invio"**
+2. Allega il modello di voltura/subentro firmato dal nuovo avente diritto, l'atto che comprova il titolo (es. rogito, visura camerale) e un'accettazione degli obblighi derivanti dai titoli già presentati
+3. Invia la richiesta
+
+L'Ente, dopo la verifica, aggiornerà l'intestatario sul proprio gestionale e (dove previsto) su GeoTecSUE.
+
+{: .note }
+> I documenti già prodotti e firmati digitalmente mantengono sempre l'intestatario originale: solo quelli prodotti dopo la voltura riporteranno il nuovo nominativo.
+
+### Come volturo l'impresa esecutrice dei lavori?
+
+Anche in questo caso non esiste una comunicazione strutturata dedicata: usa l'**invio libero di documentazione** (se il tuo Ente lo consente), allegando una comunicazione che indichi la variazione e la documentazione a supporto (es. contratto d'appalto, dichiarazione di subentro).
+
+Se l'Ente non consente le integrazioni spontanee, contattalo direttamente per sapere come procedere.
+
+### Ho fatto richiesta di voltura, l'Ente conferma di averla effettuata, ma non vedo ancora la pratica (o risulta ancora intestata al vecchio professionista)
+
+La voltura deve essere completata dall'Ente **anche sul gestionale GeoTecSUE**, non solo sul proprio sistema interno: a volte questo secondo passaggio viene dimenticato.
+
+Segnala il problema all'assistenza tecnica indicando il numero di pratica: potremo verificare con l'Ente e, se necessario, completare noi la volturazione.
 
 ---
 
@@ -319,6 +443,38 @@ Dettagli: [Troubleshooting Pagamenti](troubleshooting.html#3-pagamenti-pagopa-e-
 **No**, se il sistema richiede PagoPA devi pagare tramite PagoPA.
 
 **NON usare** bonifici ordinari: il sistema non li riconosce automaticamente e la pratica rimarrà bloccata.
+
+### Ho un problema con un pagamento PagoPA (IUV non riconosciuto, scaduto, pagato con un servizio diverso...): chi devo contattare?
+
+**Sempre l'Ente**, non l'assistenza tecnica di GeoTecSUE: per qualsiasi problema sui pagamenti PagoPA (inclusi quelli obbligatori che bloccano l'invio) l'assistenza SISCOM **non può sbloccare autonomamente** la pratica.
+
+L'Ente può:
+- Sbloccare direttamente la pratica
+- Richiedere il nostro supporto per associare un pagamento effettuato con modalità diverse da quelle previste dal portale
+- Rendere facoltativo il pagamento
+
+Puoi far riferimento a questa pagina di assistenza quando contatti l'Ente, così potrà eventualmente chiederci supporto diretto.
+
+### Ho generato uno IUV e non l'ho pagato in tempo: ora è scaduto, come procedo?
+
+Puoi operare in autonomia: clicca sull'icona del **cestino rosso** accanto al PagoPA scaduto per **cancellarlo**, quindi genera un nuovo IUV.
+
+Per i diritti di segreteria la scadenza standard è fissata a **30 giorni**.
+
+### Ho pagato i diritti di segreteria fuori dal portale (bonifico, sito del Comune, ecc.) e il sistema non riconosce il pagamento. Cosa faccio?
+
+Se lo IUV non è stato generato direttamente da GeoTecSUE, il sistema **potrebbe non associarlo automaticamente**, anche se il pagamento è stato effettivamente eseguito: il motivo è legato al fatto che il servizio utilizzato nel pagamento spontaneo non sia quello effettivamente utilizzato dal portale GeoTecSUE (ad esempio: "Diritti di segreteria" vs. "Diritti di segreteria pratiche edilizie").
+
+Contatta l'Ente: potrà sbloccarti la pratica direttamente oppure richiedere il nostro supporto per associare il pagamento.
+
+{: .note }
+> Per evitare il problema, genera sempre lo IUV **dall'interno della pratica** (bottone "Creazione IUV") invece di usare altri canali di pagamento.
+
+### La generazione dello IUV si blocca o dà errore
+
+Una causa frequente è un **CAP non valido**: il campo richiede sempre 5 cifre numeriche. Se il titolare risiede all'estero e non ha un CAP italiano, inserisci **00000**.
+
+Se il problema persiste dopo aver verificato il CAP, contatta l'assistenza tecnica indicando il numero di pratica.
 
 ---
 
@@ -609,6 +765,22 @@ Usa i **filtri** nell'[elenco istanze](elenco-istanze.html):
 - **Ordina per**: "Data ultima modifica" per vedere le più recenti
 - **Ricerca**: Cerca per titolare/indirizzo/numero
 
+### Le ricevute di protocollo/invio arrivano a un indirizzo email diverso da quello che mi aspetto
+
+Il sistema invia le ricevute automaticamente all'indirizzo email configurato nel **profilo dell'utente che trasmette la pratica** in quel momento (menu in alto a destra → "Il mio profilo").
+
+Se gestisci più anagrafiche o più indirizzi PEC, verifica **prima di ogni invio** quale email è impostata sul profilo che stai utilizzando.
+
+### Ho scoperto un errore in una pratica già inviata (es. tipo di intervento, indirizzo, nome errato). Posso correggerlo?
+
+**No**, una volta inviata la pratica è firmata digitalmente e i suoi dati non sono più modificabili.
+
+A seconda della gravità dell'errore e di cosa richiede l'Ente:
+- Un **refuso** può normalmente essere sistemato con un'integrazione (dalla pratica registrata in poi)
+- Un **dato sostanziale errato** (es. nominativo diverso, tipo di intervento) potrebbe richiedere una nuova pratica o, nel caso dei titolari, una voltura
+
+Contatta sempre l'Ente per sapere quale strada seguire nel tuo caso specifico.
+
 ---
 
 ## Problemi tecnici comuni
@@ -651,6 +823,14 @@ Dettagli: [Troubleshooting - Pagamenti](troubleshooting.html#3-pagamenti-pagopa-
 
 Dettagli: [Troubleshooting - Caricamento](troubleshooting.html#2-caricamento-file-e-allegati)
 
+### Il portale è lento o si blocca durante la compilazione (la pagina non risponde o mi disconnette)
+
+Nella maggior parte dei casi si tratta di rallentamenti temporanei dei sistemi (es. picchi di traffico). Prova a:
+- Chiudere e riaprire il browser
+- Riprovare dopo qualche minuto
+
+Se il problema persiste ed è urgente, contatta l'assistenza tecnica segnalando l'orario esatto: potremo verificare se ci sono anomalie sui sistemi.
+
 ---
 
 ## Prossimi passi
@@ -668,7 +848,7 @@ Dettagli: [Troubleshooting - Caricamento](troubleshooting.html#2-caricamento-fil
 
 ---
 
-**Ultima revisione**: Febbraio 2026  
-**FAQ totali**: 70+  
-**Estratte da**: 12 sezioni del manuale
+**Ultima revisione**: Luglio 2026  
+**FAQ totali**: 90+  
+**Estratte da**: 13 sezioni del manuale
 
