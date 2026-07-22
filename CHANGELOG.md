@@ -6,6 +6,12 @@ permalink: /changelog/
 
 # Changelog - Manuale utente GeoTecSUE
 
+## [1.17] - 23/07/2026
+- Rilasciata la versione 1.17 del manuale
+
+### Aggiunte
+- "Notifiche al professionista" nella sezione "Le mie istanze"
+
 ## [1.16] - 14/07/2026
 - Rilasciata la versione 1.16 del manuale
 
