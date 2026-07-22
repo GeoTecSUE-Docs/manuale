@@ -36,7 +36,7 @@ In linea di massima, il sistema invia una notifica in corrispondenza dei seguent
 {: .note }
 > L'elenco copre gli eventi principali legati al ciclo di vita della pratica. Non tutte le tipologie di pratica generano tutte le notifiche elencate: dipende dall'iter previsto per quel tipo di pratica e dalla configurazione dell'Ente.
 
-Per il dettaglio completo delle fasi e degli stati che una pratica può attraversare, consulta [Il ciclo di vita della pratica](https://geotecsue-docs.github.io/manuale/docs/appendici/ciclo-vita-dettagliato.html).
+Per il dettaglio completo delle fasi e degli stati che una pratica può attraversare, consulta [Il ciclo di vita della pratica](appendici/ciclo-vita-dettagliato.html).
 
 ## Dove trovare le notifiche
 
