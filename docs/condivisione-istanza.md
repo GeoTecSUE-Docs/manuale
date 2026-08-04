@@ -40,23 +40,29 @@ In qualsiasi momento il condivisore può **revocare l'accesso** tornando alla se
 
 ---
 
-## Condivisione con facoltà di modifica
+## Condivisione con facoltà di modifica (Gestione Soggetti Compilatori)
 
-Questa modalità consente di aggiungere alla pratica un **soggetto collaboratore** con un ruolo operativo. Esistono due livelli di accesso: **Amministratore** e **Utente Modifica**.
+Questa modalità consente di aggiungere alla pratica un **soggetto collaboratore** con un ruolo operativo, e corrisponde alla funzione di **Gestione Soggetti Compilatori**. Esistono due livelli di accesso: **Amministratore** e **Utente Modifica**.
 
 ### Dove si trova la funzione
 
-La condivisione con modifica si avvia in due modi, a seconda dello stato dell'istanza:
+La condivisione con modifica si avvia in due modi, a seconda dello stato dell'istanza, ed entrambi portano alla sezione **Gestione Soggetti Compilatori**:
 
 - **Istanza già trasmessa all'Ente:** apri il dettaglio della pratica e utilizza il pulsante **Gestione soggetti**.
 - **Istanza in bozza (dall'Elenco istanze):** nell'elenco delle pratiche, utilizza l'icona soggetto (icona utente) presente sulla riga dell'istanza.
 
 ### Come aggiungere un soggetto
 
-1. Accedi alla funzione **Gestione soggetti** con uno dei metodi descritti sopra.
-2. Inserisci i dati del soggetto da aggiungere.
+1. Accedi alla sezione **Gestione Soggetti Compilatori** con uno dei metodi descritti sopra.
+2. Inserisci **manualmente** il **Codice Fiscale** oppure la **Partita IVA** del soggetto da aggiungere.
 3. Seleziona il livello di accesso da assegnare: **Amministratore** oppure **Utente Modifica**.
-4. Conferma l'operazione.
+4. Clicca su **"Verifica Soggetto"**.
+5. Conferma l'operazione.
+
+{: .warning }
+> Il pulsante **"Verifica Soggetto"** controlla che il professionista indicato abbia effettuato **almeno un accesso a GeoTecSUE** con quelle credenziali (SPID o CIE). Non è sufficiente che il soggetto sia presente nella tua anagrafica o che sia stato indicato all'interno della pratica: **deve necessariamente aver fatto login** al portale almeno una volta, altrimenti la verifica non va a buon fine e non sarà possibile aggiungerlo.
+>
+> Se la verifica fallisce, chiedi al collega di effettuare un primo accesso a GeoTecSUE con SPID o CIE, quindi ripeti l'operazione.
 
 ### Livelli di accesso
 
@@ -79,7 +85,7 @@ Né l'Amministratore né l'Utente Modifica possono gestire i soggetti associati 
 
 ### Revoca della condivisione
 
-In qualsiasi momento il professionista principale può **rimuovere un soggetto** dalla pratica tornando nella sezione **Gestione soggetti** ed eliminando il soggetto dall'elenco. Dal momento della rimozione il soggetto non potrà più accedere né operare sull'istanza.
+In qualsiasi momento il professionista principale può **rimuovere un soggetto** dalla pratica tornando nella sezione **Gestione Soggetti Compilatori** ed eliminando il soggetto dall'elenco. Dal momento della rimozione il soggetto non potrà più accedere né operare sull'istanza.
 
 ## Prossimi passi
 
