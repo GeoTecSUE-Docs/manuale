@@ -6,6 +6,12 @@ permalink: /changelog/
 
 # Changelog - Manuale utente GeoTecSUE
 
+## [1.18] - 05/08/2026
+- Rilasciata la versione 1.18 del manuale
+
+### Modifiche
+- Migliorata la sezione **Condivisione di un'istanza** con maggiori dettagli sulla modalità di aggiunta del soggetto
+
 ## [1.17] - 23/07/2026
 - Rilasciata la versione 1.17 del manuale
 
