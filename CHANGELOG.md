@@ -6,6 +6,13 @@ permalink: /changelog/
 
 # Changelog - Manuale utente GeoTecSUE
 
+## [1.19] - 25/08/2026
+- Rilasciata la versione 1.19 del manuale
+
+### Modifiche
+- Errori Validazione P.A.S. - Tutte le Regioni: aggiornata con le nuove modifiche
+- Errori Validazione Attività Libera per la Produzione di Energia da Fonti Rinnovabili - Tutte le Regioni: aggiornata con le nuove modifiche
+
 ## [1.18] - 05/08/2026
 - Rilasciata la versione 1.18 del manuale
 
