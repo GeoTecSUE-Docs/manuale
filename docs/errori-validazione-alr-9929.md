@@ -23,180 +23,117 @@ IDTarget:
 Fonte: Manuale
 ---
 
-# Errori di validazione - Attività Libera per la Produzione di Energia da Fonti Rinnovabili (ALR)
+# Errori di validazione - Attività Libera per la Produzione di Energia da Fonti Rinnovabili (A.L.R.)
 ## Tutte le regioni
 
-Guida completa agli errori specifici per la **Comunicazione di Inizio Lavori per Attività Libera per la Produzione di Energia da Fonti Rinnovabili** ai sensi del D.Lgs. 190/2024 (Allegato A, Sezioni I e II).
+Guida completa agli errori specifici per la **Comunicazione di Attività Libera per la Produzione di Energia da Fonti Rinnovabili** ai sensi dell'art. 7 del D.Lgs. 25 novembre 2024, n. 190 (Allegato A).
 
 {: .note }
-> L'ALR condivide con l'AEL la struttura "checkbox + data futura obbligatoria" per l'inizio lavori, con lo stesso messaggio e la stessa logica VB (`DateDiff("d", DataI, CDate(Now)) > 0`). Rispetto all'AEL presenta alcune sezioni aggiuntive specifiche: la **tipologia di intervento** ai sensi del D.Lgs. 190/2024 (tre radio button, due con campo comma/lettera obbligatorio e uno — variante — con numero e data della comunicazione precedente), e la sezione **"Altri atti di assenso"** con la stessa logica della sezione "Altre comunicazioni" della C.I.L. ma con prefisso corretto (`chkPres4_` = `txtPres4_` = `txtAutComp4_`). La **sezione Impresa** ha un unico radio button senza alternativa "lavori in proprio": l'impresa è quindi sempre obbligatoria. La **sezione Tecnici** è commentata nel codice e non viene validata. La privacy è solo informativa. Per errori comuni a tutte le pratiche, vedi [Errori Comuni](errori-validazione.html#errori-comuni).
+> L'ALR è stata **completamente rivista** con il recepimento del decreto 15 Luglio 2016 n. 223 del Ministero dell'Ambiente e della Sicurezza Energetica. 
 
 ---
 
 ## Indice sezioni
 
-1. [Titolarità dell'intervento](#1-titolarità-dellintervento)
-2. [Opere su parti comuni o modifiche esterne](#2-opere-su-parti-comuni-o-modifiche-esterne)
-3. [Comunicazione di inizio lavori — checkbox e data](#3-comunicazione-di-inizio-lavori--checkbox-e-data)
-4. [Descrizione delle opere](#4-descrizione-delle-opere)
-5. [Tipo di intervento D.Lgs. 190/2024](#5-tipo-di-intervento-dlgs-1902024)
-6. [Localizzazione dell'intervento](#6-localizzazione-dellintervento)
-7. [Impresa esecutrice dei lavori](#7-impresa-esecutrice-dei-lavori)
-8. [Altri atti di assenso](#8-altri-atti-di-assenso)
+1. [Classificazione dell'intervento — impianto ibrido o singolo](#1-classificazione-dellintervento--impianto-ibrido-o-singolo)
+2. [Localizzazione dell'intervento](#2-localizzazione-dellintervento)
+3. [Area agricola e SAU](#3-area-agricola-e-sau)
+4. [Area idonea — art. 11-bis D.Lgs. 190/2024](#4-area-idonea--art-11-bis-dlgs-1902024)
+5. [Zone di accelerazione — art. 12 D.Lgs. 190/2024](#5-zone-di-accelerazione--art-12-dlgs-1902024)
+6. [Titolo edilizio](#6-titolo-edilizio)
+7. [Data e luogo](#7-data-e-luogo)
 
 ---
 
-## 1. Titolarità dell'intervento
+## 1. Classificazione dell'intervento — impianto ibrido o singolo
 
-### ATTENZIONE ! Non è stata selezionata nessuna voce per 'Titolarità Intervento'.
+### ATTENZIONE ! Non è stata selezionata nessuna voce per la classificazione dell'intervento.
 
-**Causa**: Non hai compilato il menu a discesa iniziale né selezionato il radio button sulla titolarità.
+**Dove si trova**: Sezione **"COMUNICA"** → i due radio button principali in cima al modulo
 
-**Soluzione**: Compila il menu **"di avere titolo alla presentazione di questa pratica edilizia in quanto"** e seleziona una delle due opzioni:
-- ⚪ **"avere titolarità esclusiva all'esecuzione dell'intervento"**
-- ⚪ **"non avere titolarità esclusiva... ma di disporre comunque della dichiarazione di assenso dei terzi titolari di altri diritti reali o obbligatori"**
+**Causa**: Non hai selezionato se l'intervento è un impianto ibrido oppure un intervento singolo.
 
----
-
-## 2. Opere su parti comuni o modifiche esterne
-
-### ATTENZIONE ! Non è stata selezionata nessuna voce per 'Opere su parti comuni o modifiche esterne'.
-
-**Causa**: Non hai dichiarato se i lavori riguardano parti comuni dell'edificio.
-
-**Soluzione**: Seleziona **una delle quattro opzioni**:
-- ⚪ **"non riguardano parti comuni"**
-- ⚪ **"riguardano le parti comuni di un fabbricato condominiale"**
-- ⚪ **"riguardano parti comuni di un fabbricato con più proprietà, non costituito in condominio"** (richiede assenso dei comproprietari allegato)
-- ⚪ **"riguardano parti dell'edificio di proprietà comune ma non necessitano di assenso"** (art. 1102 c.c.)
+**Soluzione**: Seleziona **uno dei due radio button**:
+- ⚪ **"un intervento classificato come impianto ibrido"** ai sensi dell'art. 4, c. 1 del D.Lgs. 190/2024, composto da più interventi di cui all'Allegato A → si attivano fino a 5 righe di sotto-interventi (vedi sotto)
+- ⚪ **intervento singolo** di cui all'Allegato A del D.Lgs. 190/2024 → si attivano i tre campi sezione, lettera e descrizione (vedi sotto)
 
 ---
 
-## 3. Comunicazione di inizio lavori — checkbox e data
+### Impianto ibrido (fino a 5 sotto-interventi)
 
-### ATTENZIONE ! Necessario spuntare la voce di inizio lavori.
+Se selezioni **impianto ibrido**, devi spuntare **almeno uno** dei 5 checkbox disponibili. Per ogni checkbox spuntato diventano obbligatori tre campi: **Sezione**, **Lettera** e **Descrizione**.
 
-**Dove si trova**: Sezione **"COMUNICA L'INIZIO DEI LAVORI"** → checkbox **"i lavori avranno inizio in data ___"**
+---
 
-**Causa**: Non hai spuntato la checkbox che attiva la comunicazione di inizio lavori.
+#### ATTENZIONE ! Selezionare almeno un intervento di cui all'Allegato A.
 
-**Soluzione**:
-1. Trova la sezione **"COMUNICA L'INIZIO DEI LAVORI"** → voce **"di opere di attività libera"**
-2. Spunta la checkbox ☑ **"i lavori avranno inizio in data"**
-3. Inserisci la data nel campo che si attiva, nel formato **GG/MM/AAAA**
-4. Clicca **"Salva"** e riprova **"Valida e Salva"**
+**Causa**: Hai selezionato **impianto ibrido** ma non hai spuntato nessuno dei 5 checkbox sotto-intervento.
+
+**Soluzione**: Spunta **almeno uno** dei 5 checkbox delle righe di sotto-intervento, poi compila i tre campi della riga:
+- **Sezione** — sezione dell'Allegato A del D.Lgs. 190/2024 (es. `I`, `II`)
+- **Lettera** — lettera del comma (es. `a`, `b`, `c`)
+- **Descrizione** — descrizione sintetica dell'intervento (es. `Impianto fotovoltaico su tetto 6 kWp`)
+
+---
+
+#### ATTENZIONE ! Indicare la sezione.
+
+**Causa**: Hai spuntato il checkbox ma il campo **"Sezione"** della riga corrispondente è vuoto.
+
+**Soluzione**: Inserisci la sezione dell'Allegato A nel campo **"Sezione"** della riga spuntata (es. `I` per Sezione I — nuove costruzioni, `II` per Sezione II — impianti esistenti).
+
+---
+
+#### ATTENZIONE ! Indicare la lettera.
+
+**Causa**: Hai spuntato il checkbox e compilato la sezione, ma il campo **"Lettera"** è vuoto.
+
+**Soluzione**: Inserisci la lettera nel campo **"Lettera"** (es. `a`, `b`, `c`). Consulta l'Allegato A del D.Lgs. 190/2024 per individuare la lettera corrispondente alla tipologia dell'impianto.
+
+---
+
+#### ATTENZIONE ! Indicare la descrizione.
+
+**Causa**: Hai spuntato il checkbox, compilato sezione e lettera, ma il campo **"Descrizione"** è vuoto.
+
+**Soluzione**: Inserisci una descrizione sintetica dell'intervento nel campo **"Descrizione"** della riga corrispondente (es. `Impianto fotovoltaico su falda tetto 6 kWp`, `Sistema di accumulo 10 kWh`).
 
 {: .note }
-> Come nell'AEL, la checkbox è obbligatoria e il campo data si abilita solo dopo averla spuntata. A differenza della C.I.L., nell'ALR non è presente una seconda checkbox per la data di fine lavori: solo la data di inizio è richiesta.
+> La validazione verifica i checkbox nell'ordine 1 → 5. Per ogni checkbox spuntato controlla prima Sezione, poi Lettera, poi Descrizione, poi passa al checkbox successivo. I checkbox non spuntati vengono saltati interamente. Per un impianto ibrido con 2 tipologie, è sufficiente spuntare 2 dei 5 checkbox e compilare i rispettivi 6 campi (3 per ciascuno).
 
 ---
 
-### ATTENZIONE ! Campo obbligatorio 'Data inizio lavori' non inserito.
+### Intervento singolo Allegato A
 
-**Causa**: Hai spuntato la checkbox ma non hai inserito la data di inizio lavori.
-
-**Soluzione**: Inserisci la data nel campo accanto alla checkbox nel formato **GG/MM/AAAA** (es. `20/07/2026`). Puoi usare l'icona calendario o digitare direttamente.
+Se selezioni **intervento singolo**, diventano obbligatori tre campi nella riga che si attiva.
 
 ---
 
-### ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.
+#### ATTENZIONE ! Indicare la sezione. *(intervento singolo)*
 
-**Causa**: La data di inizio lavori è in un formato non riconosciuto.
+**Causa**: Hai selezionato **intervento singolo** ma il campo **"Sezione"** è vuoto.
 
-**Soluzione**: Riscrivi nel formato **GG/MM/AAAA**. Esempi corretti: `20/07/2026` ✅. Errati: `20-07-2026` ❌, `20/07/26` ❌.
-
----
-
-### ATTENZIONE ! La data di inizio non può essere inferiore alla data odierna.
-
-**Dove si trova**: Campo data accanto alla checkbox di inizio lavori
-
-**Causa**: Hai inserito una data di inizio lavori precedente alla data odierna.
-
-**Soluzione**:
-1. Verifica la data inserita: deve essere uguale o successiva alla **data odierna**
-2. Se i lavori iniziano oggi: inserisci la data odierna
-3. Se i lavori sono già iniziati: questa comunicazione non è presentabile con data retroattiva; contatta l'ufficio SUE
-
-{: .warning }
-> **Controllo data futura condiviso con AEL**: come nell'AEL, il sistema verifica che la data di inizio non sia nel passato (`DateDiff("d", DataI, CDate(Now)) > 0`). La C.I.L. usa invece la dicitura "data di inoltro" nel messaggio (il controllo VB è identico). Una data uguale a oggi è accettata in entrambe le pratiche.
+**Soluzione**: Inserisci la sezione dell'Allegato A nel campo **"Sezione"** (es. `I`, `II`).
 
 ---
 
-## 4. Descrizione delle opere
+#### ATTENZIONE ! Indicare la lettera. *(intervento singolo)*
 
-### ATTENZIONE ! Campo obbligatorio 'Descrizione opere' non inserito.
+**Causa**: Hai compilato la sezione ma il campo **"Lettera"** è vuoto.
 
-**Dove si trova**: Sezione **"COMUNICA L'INIZIO DEI LAVORI"** → campo di testo **"le opere consistono in:"**
-
-**Causa**: Non hai inserito la descrizione delle opere per la produzione di energia da fonti rinnovabili.
-
-**Soluzione**: Inserisci una descrizione chiara e sintetica nel campo **"le opere consistono in:"** (max **300 caratteri**). Esempi:
-- `Installazione impianto fotovoltaico su falda tetto, potenza 6 kWp, n. 15 pannelli da 400W.`
-- `Installazione mini-eolico da 3 kW su palo h 10m in area agricola di proprietà.`
-- `Sostituzione caldaia a gas con pompa di calore aria-acqua 12 kW per riscaldamento domestico.`
+**Soluzione**: Inserisci la lettera nel campo **"Lettera"** (es. `a`, `b`, `c`).
 
 ---
 
-## 5. Tipo di intervento D.Lgs. 190/2024
+#### ATTENZIONE ! Indicare la descrizione. *(intervento singolo)*
 
-### ATTENZIONE ! Non è stata selezionata nessuna voce per il tipo di intervento.
+**Causa**: Hai compilato sezione e lettera ma il campo **"Descrizione"** è vuoto.
 
-**Dove si trova**: Sezione **"COMUNICA L'INIZIO DEI LAVORI"** → radio button sotto **"e riguardano:"**
-
-**Causa**: Non hai selezionato la tipologia di intervento prevista dal D.Lgs. 190/2024.
-
-**Soluzione**: Seleziona **uno dei tre tipi di intervento**:
-- ⚪ **e.1** — interventi di **nuova costruzione** indicati alla Sezione I - Allegato A del D.Lgs. 190/2024, di cui all'art. 1 comma ___ → richiede l'indicazione della lettera del comma
-- ⚪ **e.2** — interventi **su impianti esistenti** indicati alla Sezione II - Allegato A del D.Lgs. 190/2024, di cui all'art. 1 comma ___ → richiede l'indicazione della lettera del comma
-- ⚪ **e.4** — **variante in corso d'opera** il cui intervento risulta precedentemente comunicato → richiede numero e data della comunicazione precedente
+**Soluzione**: Inserisci una descrizione sintetica dell'intervento nel campo **"Descrizione"** (es. `Impianto fotovoltaico integrato in copertura 20 kWp`).
 
 ---
 
-### ATTENZIONE ! Inserire il comma. *(nuova costruzione — e.1)*
-
-**Dove si trova**: Campo lettera accanto al radio button e.1
-
-**Causa**: Hai selezionato il tipo "nuova costruzione" (e.1) ma non hai indicato la lettera del comma dell'art. 1 del D.Lgs. 190/2024, Sezione I, Allegato A.
-
-**Soluzione**: Inserisci la lettera del comma applicabile nel campo **"(inserire la lettera relativa)"** che si attiva accanto al radio button e.1 (es. `a`, `b`, `c`, ecc.). Consulta l'Allegato A, Sezione I, del D.Lgs. 190/2024 per individuare la categoria di intervento corretta.
-
-{: .note }
-> Il campo è etichettato nell'interfaccia come "inserire la lettera relativa" e il messaggio di errore recita "Inserire il comma": si tratta della lettera identificativa della fattispecie del comma, non del numero del comma in senso stretto. Il campo `txtNCComma` raccoglie la lettera (es. `a`) che qualifica la tipologia di nuova costruzione.
-
----
-
-### ATTENZIONE ! Inserire il comma. *(impianti esistenti — e.2)*
-
-**Dove si trova**: Campo lettera accanto al radio button e.2
-
-**Causa**: Hai selezionato il tipo "impianti esistenti" (e.2) ma non hai indicato la lettera del comma dell'art. 1 del D.Lgs. 190/2024, Sezione II, Allegato A.
-
-**Soluzione**: Inserisci la lettera del comma applicabile nel campo **"(inserire la lettera relativa)"** accanto al radio button e.2. Consulta l'Allegato A, Sezione II, del D.Lgs. 190/2024.
-
----
-
-### ATTENZIONE ! Inserire il numero della comunicazione. *(variante — e.4)*
-
-**Dove si trova**: Campo numero accanto al radio button e.4
-
-**Causa**: Hai selezionato il tipo "variante in corso d'opera" (e.4) ma non hai inserito il numero della comunicazione precedente a cui la presente è in variante.
-
-**Soluzione**: Inserisci il numero della comunicazione originaria nel campo **"comunicazione n."** che si attiva accanto al radio button e.4.
-
----
-
-### ATTENZIONE ! Inserire la data della comunicazione. / ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa. *(variante — e.4)*
-
-**Dove si trova**: Campo data accanto al radio button e.4 → **"del"**
-
-**Causa**: Hai selezionato la variante (e.4) e inserito il numero della comunicazione precedente, ma il campo data è vuoto oppure contiene una data in formato non valido.
-
-**Soluzione**: Inserisci la data della comunicazione originaria nel campo **"del"** nel formato **GG/MM/AAAA**.
-
----
-
-## 6. Localizzazione dell'intervento
+## 2. Localizzazione dell'intervento
 
 ### ATTENZIONE ! Inserire indirizzo della località di intervento.
 
@@ -210,7 +147,7 @@ Guida completa agli errori specifici per la **Comunicazione di Inizio Lavori per
 
 **Causa**: Nessun indirizzo selezionato dal menu a discesa e "Toponimo mancante" non spuntato.
 
-**Soluzione**: Seleziona un indirizzo dal menu a discesa, oppure spunta ☑ **"Toponimo mancante"** e inseriscilo manualmente.
+**Soluzione**: Seleziona un indirizzo dal menu a discesa oppure spunta ☑ **"Toponimo mancante"** e inseriscilo manualmente.
 
 ---
 
@@ -240,7 +177,7 @@ Guida completa agli errori specifici per la **Comunicazione di Inizio Lavori per
 **Soluzione**: Aggiungi almeno un fabbricato o un terreno:
 1. Clicca **"Aggiungi Fabbricato"** oppure **"Aggiungi Terreno"**
 2. Compila i campi Sezione, Foglio, Mappale (e Subalterno per i fabbricati)
-3. Salva la riga con l'icona ✅
+3. Salva con l'icona ✅
 
 ---
 
@@ -252,56 +189,187 @@ Guida completa agli errori specifici per la **Comunicazione di Inizio Lavori per
 
 ---
 
-## 7. Impresa esecutrice dei lavori
+## 3. Area agricola e SAU
 
-### ATTENZIONE ! Non è stata selezionata nessuna voce per 'Impresa esecutrice dei lavori'.
+### ATTENZIONE ! Indicare se la tipologia/classificazione dell'area/superficie oggetto di intervento corrisponde ad un'area agricola (si/no).
 
-**Causa**: Non hai selezionato il radio button relativo all'impresa esecutrice.
+**Dove si trova**: Sezione dichiarazioni → radio button relativo all'Area Agricola
 
-**Soluzione**: Seleziona l'unica opzione disponibile:
-- ⚪ **"che i lavori sono/saranno eseguiti dalla impresa/e indicata/e alla sezione 3 dell'allegato 'Soggetti coinvolti'"**
+**Causa**: Non hai dichiarato se l'area oggetto dell'intervento è classificata come area agricola.
 
-Quindi aggiungi l'impresa nella scheda **"Soggetti coinvolti"** → sezione **"Imprese"**.
-
-{: .warning }
-> **Differenza rispetto ad AEL e C.I.L.**: nell'ALR la sezione Impresa ha **un solo radio button** senza l'alternativa "lavori eseguiti in prima persona". L'indicazione dell'impresa esecutrice nei Soggetti coinvolti è quindi **sempre obbligatoria**: non è possibile dichiarare di eseguire i lavori autonomamente senza ditte esterne.
+**Soluzione**: Seleziona **uno dei due radio button**:
+- ⚪ **sì** — l'area è agricola → si attiva il campo SAU obbligatorio (vedi sotto)
+- ⚪ **no** — l'area non è agricola
 
 ---
 
-### ATTENZIONE ! Non è stata selezionata nessuna Impresa esecutrice dei lavori.
+### ATTENZIONE ! Indicare la Superficie Agricola Utilizzata (SAU).
 
-**Causa**: Hai selezionato il radio button ma non hai aggiunto nessuna impresa tra i soggetti coinvolti.
+**Causa**: Hai selezionato "sì" (area agricola) ma non hai compilato il campo **SAU**.
 
-**Soluzione**:
-1. Vai alla scheda **"Soggetti coinvolti"** → **"Imprese"**
-2. Clicca **"Aggiungi Impresa"**
-3. Compila i dati dell'impresa e salva
-4. Clicca **"Salva"** e riprova **"Valida e Salva"**
-
----
-
-## 8. Altri atti di assenso
-
-### ATTENZIONE ! Campo obbligatorio 'Tipologia di atto' non inserito.
-
-**Dove si trova**: Sezione **"Altri atti di assenso"** → campo **"Tipologia di atto"** accanto a una checkbox spuntata
-
-**Causa**: Hai spuntato una delle checkbox nella sezione "Altri atti di assenso" ma non hai compilato il campo **"Tipologia di atto"** della riga corrispondente.
-
-**Soluzione**: Per ogni checkbox spuntata, compila obbligatoriamente entrambi i campi della stessa riga:
-- **"Tipologia di atto"** (es. `Autorizzazione paesaggistica`, `Nulla osta idrogeologico`, `Parere ASL`)
-- **"Autorità competente al rilascio"** (es. `Soprintendenza`, `Regione`, `ASL`)
-
----
-
-### ATTENZIONE ! Campo obbligatorio 'Autorità competente' non inserito.
-
-**Causa**: Hai spuntato una checkbox e compilato la tipologia ma hai lasciato vuoto il campo **"Autorità competente al rilascio"** della stessa riga.
-
-**Soluzione**: Inserisci l'autorità competente al rilascio dell'atto nella stessa riga della tipologia già compilata.
+**Soluzione**: Inserisci la superficie agricola utilizzata in ettari nel campo che si attiva (es. `2.5`, `10`, `0.8`). La SAU è la superficie effettivamente utilizzata per la produzione agricola, al netto di boschi, incolti e fabbricati.
 
 {: .note }
-> A differenza della C.I.L. nazionale (dove esiste una disallineamento tra i prefissi dei checkbox nell'ASCX e nel codice VB), nell'ALR i checkbox della sezione "Altri atti di assenso" usano il prefisso `chkPres4_` che **corrisponde correttamente** ai campi `txtPres4_N` e `txtAutComp4_N` dell'ASCX. La validazione di questa sezione funziona regolarmente per tutte le 5 righe disponibili (`chkPres4_1` … `chkPres4_5`).
+> Il campo SAU si attiva **solo se si seleziona "sì"** al radio button area agricola. Se si seleziona "no", il campo non compare e non è richiesto. La dichiarazione sull'area agricola è rilevante ai fini dell'applicazione dell'art. 20-bis del D.Lgs. 199/2021 e delle norme regionali sugli impianti agrivoltaici.
+
+---
+
+## 4. Area idonea — art. 11-bis D.Lgs. 190/2024
+
+### ATTENZIONE ! Indicare se l'intervento ricade in area idonea ai sensi dell'art. 11 bis del D.Lgs 190/2024 ai sensi della normativa vigente (si/no).
+
+**Dove si trova**: Sezione dichiarazioni → radio button Area Idonea
+
+**Causa**: Non hai dichiarato se il sito dell'intervento ricade in un'area idonea ai sensi dell'art. 11-bis del D.Lgs. 190/2024.
+
+**Soluzione**: Seleziona **uno dei due radio button**:
+- ⚪ **sì** — l'intervento ricade in area idonea
+- ⚪ **no** — l'intervento non ricade in area idonea
+
+{: .note }
+> Le "aree idonee" ai sensi dell'art. 11-bis del D.Lgs. 190/2024 sono definite dai Piani Nazionali e Regionali per la transizione energetica (PNIEC, PITESAI, piani regionali). La classificazione è verificabile sul portale cartografico del MASE o sui geoportali regionali. La dichiarazione non attiva campi aggiuntivi: è sufficiente la selezione sì/no.
+
+---
+
+## 5. Zone di accelerazione — art. 12 D.Lgs. 190/2024
+
+### ATTENZIONE ! Indicare se l'intervento ricade in zone di accelerazione ai sensi dell'art. 12 del D.Lgs 190/2024 (si/no).
+
+**Dove si trova**: Sezione dichiarazioni → radio button Zone Accelerazione
+
+**Causa**: Non hai dichiarato se il sito dell'intervento ricade in una zona di accelerazione ai sensi dell'art. 12 del D.Lgs. 190/2024.
+
+**Soluzione**: Seleziona **uno dei due radio button**:
+- ⚪ **sì** — l'intervento ricade in zona di accelerazione
+- ⚪ **no** — l'intervento non ricade in zona di accelerazione
+
+{: .note }
+> Le "zone di accelerazione" ai sensi dell'art. 12 del D.Lgs. 190/2024 sono aree prioritarie per l'installazione di impianti rinnovabili, identificate da piani regionali e nazionali. Come per l'area idonea, la dichiarazione non attiva campi aggiuntivi.
+
+---
+
+## 6. Titolo edilizio
+
+### ATTENZIONE ! Indicare se l'intervento necessita di titolo edilizio (si/no).
+
+**Dove si trova**: Sezione **"Titolo edilizio"** → radio button Titolo Edilizio
+
+**Causa**: Non hai dichiarato se l'intervento necessita di un titolo edilizio.
+
+**Soluzione**: Seleziona **uno dei due radio button**:
+- ⚪ **sì** — l'intervento necessita di titolo edilizio → si attivano il campo Comune e la selezione del tipo di titolo (vedi sotto)
+- ⚪ **no** — l'intervento non necessita di titolo edilizio
+
+---
+
+### ATTENZIONE ! Indicare il Comune da cui si è ottenuto il titolo edilizio.
+
+**Causa**: Hai selezionato "sì" (necessita titolo edilizio) ma non hai inserito il Comune che ha rilasciato il titolo.
+
+**Soluzione**: Inserisci il nome del Comune nel campo **"Comune"** che si attiva accanto al radio button.
+
+---
+
+### ATTENZIONE ! Indicare almeno un titolo edilizio.
+
+**Causa**: Hai selezionato "sì" e inserito il Comune, ma non hai selezionato il tipo di titolo edilizio.
+
+**Soluzione**: Seleziona **uno dei quattro tipi** di titolo edilizio tra i radio button che si attivano:
+- ⚪ **CIL** → inserisci data e numero
+- ⚪ **CILA** → inserisci data e numero
+- ⚪ **SCIA alternativa al PdC** → inserisci data e numero
+- ⚪ **PdC** (Permesso di Costruire) → inserisci data e numero
+
+Per il tipo selezionato diventano obbligatori **data** (formato GG/MM/AAAA) e **numero** del titolo.
+
+---
+
+### CIL — Comunicazione di Inizio Lavori
+
+#### ATTENZIONE ! Indicare la data della CIL. / ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.
+
+**Causa**: Hai selezionato CIL ma il campo data è vuoto o in formato non valido.
+
+**Soluzione**: Inserisci la data della CIL nel formato **GG/MM/AAAA**.
+
+#### ATTENZIONE ! Indicare il numero della CIL.
+
+**Causa**: Hai inserito la data della CIL ma il campo numero è vuoto.
+
+**Soluzione**: Inserisci il numero della CIL nel campo **"numero"**.
+
+---
+
+### CILA — Comunicazione di Inizio Lavori Asseverata
+
+#### ATTENZIONE ! Indicare la data della CILA. / ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.
+
+**Causa**: Hai selezionato CILA ma il campo data è vuoto o in formato non valido.
+
+**Soluzione**: Inserisci la data della CILA nel formato **GG/MM/AAAA**.
+
+#### ATTENZIONE ! Indicare il numero della CILA.
+
+**Causa**: Hai inserito la data ma il campo numero è vuoto.
+
+**Soluzione**: Inserisci il numero della CILA nel campo **"numero"**.
+
+---
+
+### SCIA alternativa al PdC
+
+#### ATTENZIONE ! Indicare la data della SCIA Alternativa al PdC. / ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.
+
+**Causa**: Hai selezionato SCIA alternativa al PdC ma il campo data è vuoto o in formato non valido.
+
+**Soluzione**: Inserisci la data nel formato **GG/MM/AAAA**.
+
+#### ATTENZIONE ! Indicare il numero della SCIA Alternativa al PdC.
+
+**Causa**: Il campo numero è vuoto.
+
+**Soluzione**: Inserisci il numero della SCIA alternativa al PdC.
+
+---
+
+### PdC — Permesso di Costruire
+
+#### ATTENZIONE ! Indicare la data del PdC. / ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.
+
+**Causa**: Hai selezionato PdC ma il campo data è vuoto o in formato non valido.
+
+**Soluzione**: Inserisci la data del PdC nel formato **GG/MM/AAAA**.
+
+#### ATTENZIONE ! Indicare il numero del PdC.
+
+**Causa**: Il campo numero è vuoto.
+
+**Soluzione**: Inserisci il numero del Permesso di Costruire.
+
+---
+
+## 7. Data e luogo
+
+### ATTENZIONE ! Inserire la data. / ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.
+
+**Dove si trova**: Riquadro in fondo al modulo → campo Data
+
+**Causa**: Il campo data di sottoscrizione è vuoto oppure in formato non valido.
+
+**Soluzione**: Inserisci la data nel formato **GG/MM/AAAA**. Puoi usare l'icona calendario.
+
+---
+
+### ATTENZIONE ! Inserire il luogo.
+
+**Dove si trova**: Campo Luogo accanto alla data
+
+**Causa**: Il campo luogo di sottoscrizione è vuoto.
+
+**Soluzione**: Inserisci il Comune in cui viene sottoscritta la comunicazione.
+
+{: .note }
+> Come nella PAS, nell'ALR sia **data** (con verifica formato) sia **luogo** sono obbligatori e validati. Sono gli ultimi due controlli della funzione — verificarli prima di cliccare "Valida e Salva".
 
 ---
 
@@ -309,44 +377,32 @@ Quindi aggiungi l'impresa nella scheda **"Soggetti coinvolti"** → sezione **"I
 
 ### Prima di validare ✅
 
-- [ ] Seleziona la **titolarità** (menu a discesa + radio button)
-- [ ] Seleziona le **opere su parti comuni** (una delle 4 opzioni)
-- [ ] **Spunta la checkbox** "i lavori avranno inizio in data"
-- [ ] Inserisci la **data di inizio lavori** nel formato GG/MM/AAAA — deve essere oggi o futura
-- [ ] Inserisci la **descrizione delle opere** (max 300 caratteri)
-- [ ] Seleziona il **tipo di intervento D.Lgs. 190/2024** (e.1, e.2 o e.4)
-- [ ] **Se e.1 (nuova costruzione)**: inserisci la **lettera del comma** Sezione I, Allegato A
-- [ ] **Se e.2 (impianti esistenti)**: inserisci la **lettera del comma** Sezione II, Allegato A
-- [ ] **Se e.4 (variante)**: inserisci **numero** e **data** della comunicazione originaria (GG/MM/AAAA)
-- [ ] Seleziona l'**indirizzo** della località (menu a discesa o "Toponimo mancante")
+- [ ] Seleziona la **classificazione intervento** (impianto ibrido c2_1 o singolo c2_2)
+- [ ] **Se impianto ibrido (c2_1)**: spunta **almeno un checkbox** (1–5) e per ciascuno inserisci **Sezione**, **Lettera**, **Descrizione**
+- [ ] **Se intervento singolo (c2_2)**: inserisci **Sezione**, **Lettera**, **Descrizione**
+- [ ] Seleziona l'**indirizzo** (menu a discesa o "Toponimo mancante")
 - [ ] Inserisci il **CAP** (5 cifre esatte)
 - [ ] Inserisci il **numero civico**
-- [ ] Aggiungi almeno un **mappale** (fabbricato o terreno) e salvalo con ✅
+- [ ] Aggiungi almeno un **mappale** e salvalo con ✅
 - [ ] Seleziona la **destinazione d'uso**
-- [ ] Seleziona il **radio button Impresa** e aggiungi l'**impresa** nei Soggetti coinvolti
-- [ ] Se compilata, verifica che ogni checkbox spuntata in "Altri atti di assenso" abbia **Tipologia** e **Autorità competente**
+- [ ] Dichiara se l'area è **agricola** (sì/no)
+- [ ] **Se area agricola = sì**: inserisci la **SAU** in ettari
+- [ ] Dichiara se ricade in **area idonea** art. 11-bis (sì/no)
+- [ ] Dichiara se ricade in **zone di accelerazione** art. 12 (sì/no)
+- [ ] Dichiara se necessita di **titolo edilizio** (sì/no)
+- [ ] **Se titolo edilizio = sì**: inserisci il **Comune** + seleziona il **tipo titolo** (CIL/CILA/SCIA alt./PdC) + inserisci **data** (GG/MM/AAAA) e **numero**
+- [ ] Inserisci la **data** di sottoscrizione (GG/MM/AAAA)
+- [ ] Inserisci il **luogo** di sottoscrizione
 - [ ] **Salva** frequentemente
-
-### Confronto ALR con pratiche simili ⚠️
-
-| Caratteristica | AEL | C.I.L. | ALR |
-|---|---|---|---|
-| Checkbox inizio lavori obbligatoria | ☑ Sì | ☑ Sì | ☑ Sì |
-| Data inizio = futura | ☑ Sì | ☑ Sì (= oggi accettato) | ☑ Sì (= oggi accettato) |
-| Checkbox fine lavori | ✗ No | ☑ Sì (max 90 gg) | ✗ No |
-| Tipo intervento con lettera/comma | ✗ No | ✗ No | ☑ Sì (D.Lgs. 190/2024) |
-| Impresa "in proprio" alternativa | ✗ No | ☑ Sì | ✗ No |
-| Sezione Sicurezza D.Lgs. 81/2008 | ✗ No | ☑ Sì | ✗ No |
-| Altri atti di assenso validati | ✗ No | ✗ No (bug prefisso) | ☑ Sì (funzionante) |
-| Tecnici obbligatori | ✗ No | ✗ No | ✗ No (commentato) |
 
 ### Errori frequenti ALR 🔍
 
-1. **Checkbox inizio lavori non spuntata** → il campo data non è autonomo: senza checkbox il sistema blocca prima ancora di verificare la data
-2. **Data nel passato** → uguale all'AEL: deve essere oggi o futura; i lavori già iniziati non sono presentabili con questa comunicazione
-3. **Tipo intervento senza lettera comma** → selezionare e.1 o e.2 abilita il campo lettera ma non lo pre-compila; la lettera va inserita manualmente
-4. **Variante senza numero o data** → selezionare e.4 abilita entrambi i campi; sono entrambi obbligatori con validazione formato data
-5. **Impresa non aggiunta nei soggetti** → nell'ALR non esiste l'opzione "lavori in proprio"; l'impresa è sempre obbligatoria nei Soggetti coinvolti
+1. **Nessun checkbox impianto ibrido spuntato** → selezionare c2_1 non è sufficiente: occorre spuntare almeno uno dei 5 checkbox e compilare i 3 campi
+2. **Checkbox 5 con focus errato** → se il 5° sotto-intervento ha Sezione o Lettera vuote, il cursore va al campo del 4° sotto-intervento; compilare manualmente il 5°
+3. **Area agricola sì senza SAU** → il campo SAU si attiva solo selezionando "sì"; non dimenticarlo
+4. **Tre dichiarazioni sì/no consecutive** → area agricola, area idonea e zone accelerazione sono tre radio button separati tutti obbligatori; verificarli tutti e tre
+5. **Titolo edilizio sì senza tipo** → inserire il Comune non è sufficiente: occorre selezionare anche il tipo (CIL/CILA/SCIA alt./PdC) e compilare data e numero
+6. **Bug formato data CILA** → il controllo formato legge il campo sbagliato; inserire sempre GG/MM/AAAA
 
 ---
 
@@ -366,5 +422,5 @@ Quindi aggiungi l'impresa nella scheda **"Soggetti coinvolti"** → sezione **"I
 
 ---
 
-**Ultima revisione**: Giugno 2026
+**Ultima revisione**: Agosto 2026
 **Fonte**: Analisi codice `ValidaDatiALR` e `DatiALR.ascx`
