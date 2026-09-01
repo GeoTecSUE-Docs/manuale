@@ -5,7 +5,7 @@ nav_order: 44
 description: Errori di validazione specifici per la Comunicazione di Inizio Lavori Asseverata per Tolleranze Esecutive (CILATE) - Regione Piemonte
 keywords: [CILATE, tolleranze esecutive, tolleranze costruttive, art. 34-bis DPR 380/2001, L.R. 19/1999, DGR 2-4519/2022, Piemonte, regolarità urbanistica, precedenti edilizi, rilevatore, progettista asseverante, stato attuale immobile, condono edilizio, sanatoria]
 IDRegione: 2         # Piemonte
-IDTipoPratica: 53
+IDTipoPratica: 32
 Fonte: Manuale
 ---
 

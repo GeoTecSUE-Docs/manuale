@@ -4,7 +4,7 @@ parent: Errori di validazione
 nav_order: 58
 description: Errori di validazione per la richiesta di Pareri Preliminari (1PAR) per attività edilizia libera, CILA e SCIA - Regione Piemonte (art. 23-bis D.P.R. 380/2001)
 keywords: [pareri preliminari, 1PAR, parere preventivo, atti di assenso, art. 23-bis DPR 380, Piemonte, attività edilizia libera, CILA, SCIA, SUE, sportello unico edilizia, autorizzazione paesaggistica, vincolo idrogeologico, VVF, soprintendenza]
-IDRegione: 1
+IDRegione: 2
 IDTipoPratica: 6
 Fonte: Manuale
 ---
