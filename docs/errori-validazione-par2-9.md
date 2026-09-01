@@ -4,7 +4,7 @@ parent: Errori di validazione
 nav_order: 60
 description: Errori di validazione per la richiesta di Acquisizione Atti di Assenso o Pareri per pratica edilizia già in corso (2PAR) - Regione Piemonte (artt. 5, 19-bis, 20 D.P.R. 380/2001, art. 19-bis L. 241/1990)
 keywords: [pareri, 2PAR, acquisizione atti assenso, pratica edilizia in corso, art. 20 DPR 380, art. 19-bis L.241, art. 5 DPR 380, Piemonte, titolo edilizio, SUE, autorizzazione paesaggistica, VVF, soprintendenza]
-IDRegione: 1
+IDRegione: 2
 IDTipoPratica: 9
 Fonte: Manuale
 ---
