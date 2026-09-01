@@ -4,7 +4,7 @@ parent: Errori di validazione
 nav_order: 38
 description: Errori di validazione specifici per l'Autorizzazione Paesaggistica Semplificata (APS) - Regione Liguria (art. 3 D.M. 31/2017, art. 146 D.Lgs. 42/2004)
 keywords: [autorizzazione paesaggistica semplificata, APS, Liguria, DM 31/2017, art. 146 D.Lgs. 42/2004, art. 136, art. 142, art. 134, Allegato B, vincolo paesaggistico, variante]
-IDRegione: 4
+IDRegione: 3
 IDTipoPratica: 541
 Fonte: Manuale
 ---
