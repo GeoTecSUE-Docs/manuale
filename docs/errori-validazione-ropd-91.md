@@ -5,7 +5,7 @@ nav_order: 55
 description: Errori di validazione specifici per la Regolarizzazione Opere in Parziale Difformità (ROPD) - Regione Liguria (art. 48 L.R. 16/2008)
 keywords: [regolarizzazione opere parziale difformità, ROPD, Liguria, art. 48 L.R. 16/2008, licenza edilizia, abitabilità, agibilità, versamento, titolarità, progettista]
 IDRegione: 3
-IDTipoPratica: 81
+IDTipoPratica: 91
 Fonte: Manuale
 ---
 
