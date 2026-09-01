@@ -4,7 +4,7 @@ parent: Errori di validazione
 nav_order: 46
 description: Errori di validazione specifici per la domanda di Autorizzazione in area soggetta a Vincolo Idrogeologico (AVI) - Regione Liguria
 keywords: [vincolo idrogeologico, AVI, Liguria, L.R. 4/99, art. 35, art. 36, movimenti di terreno, variante, autorizzazione precedente, SCIA, DIA, progettista, geologo, altron, titolarità]
-IDRegione: 4
+IDRegione: 3
 IDTipoPratica: 41
 Fonte: Manuale
 ---
