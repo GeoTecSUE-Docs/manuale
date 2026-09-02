@@ -206,7 +206,7 @@ Guida completa agli errori specifici per la **SCIA Alternativa al Permesso di Co
 
 **Causa**: Valore fuori intervallo o non numerico.
 
-**Soluzione**: Inserisci un numero compreso tra **4.800.000** e **5.700.000** (es. `5034512`). Vedi nota sulle coordinate nell'[AP Lombardia](errori-ap-lombardia.html#coordinate-utm-wgs84-32n).
+**Soluzione**: Inserisci un numero compreso tra **4.800.000** e **5.700.000** (es. `5034512`). Vedi nota sulle coordinate nell'[AP Lombardia](errori-validazione-ap-405.html#coordinate-utm-wgs84-32n).
 
 ---
 
