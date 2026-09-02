@@ -354,7 +354,7 @@ La sezione Regolarità urbanistica della CILA Lombardia è identica a quella del
 
 ### Opzione g.2 — Titoli o pratiche edilizie
 
-Per i dettagli completi sui controlli di g.2 (incluse le sotto-opzioni sanatoria e le voci "altro" 10–13), vedi la sezione corrispondente nella guida [Errori SCIA Lombardia](errori-scia-lombardia.html#opzione-g2--titoli-o-pratiche-edilizie) — la logica di validazione è identica.
+Per i dettagli completi sui controlli di g.2 (incluse le sotto-opzioni sanatoria e le voci "altro" 10–13), vedi la sezione corrispondente nella guida [Errori SCIA Lombardia](errori-validazione-scia-423.html) — la logica di validazione è identica.
 
 #### ATTENZIONE! Non è stata selezionata nessun titolo o pratica edilizia.
 

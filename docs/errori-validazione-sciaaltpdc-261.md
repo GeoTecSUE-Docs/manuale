@@ -15,7 +15,7 @@ Fonte: Manuale
 Guida completa agli errori specifici per la **Segnalazione Certificata di Inizio Attività Alternativa al Permesso di Costruire** ai sensi dell'art. 23 del D.P.R. 6 giugno 2001, n. 380, della L.R. 6 giugno 2008, n. 16 e della L.R. 27 luglio 2020, n. 20 — Regione Liguria.
 
 {: .note }
-> La SCIA alt PdC Liguria condivide con il [PdC Nazionale](errori-pdc-nazionale.html) la struttura della sezione "Regolarità urbanistica e precedenti edilizi" (identiche logiche di validazione con checkbox 1-13, sotto-checkbox 9 e stato attuale 6_1/6_2) ma ha alcune differenze importanti. La sezione **"Tecnici incaricati"** ha una particolarità ligure specifica: ai sensi della L.R. 20/2020 è obbligatoria la **data della lettera di incarico del progettista** (`txtDataIncaricoProg`), sempre verificata nel formato GG/MM/AAAA, indipendentemente dal radio tecnici selezionato. Se si sceglie h_1 ("altri tecnici già incaricati"), serve anche la **data della lettera di incarico degli altri tecnici** (`txtDataIncaricoAltri`). La qualificazione dell'intervento non ha l'opzione "nuova costruzione" (g_7 assente). Per errori comuni, vedi [Errori Comuni](errori-validazione.html#errori-comuni).
+> La SCIA alt PdC Liguria condivide con il [PdC Nazionale](errori-validazione-pdc-9915.html) la struttura della sezione "Regolarità urbanistica e precedenti edilizi" (identiche logiche di validazione con checkbox 1-13, sotto-checkbox 9 e stato attuale 6_1/6_2) ma ha alcune differenze importanti. La sezione **"Tecnici incaricati"** ha una particolarità ligure specifica: ai sensi della L.R. 20/2020 è obbligatoria la **data della lettera di incarico del progettista** (`txtDataIncaricoProg`), sempre verificata nel formato GG/MM/AAAA, indipendentemente dal radio tecnici selezionato. Se si sceglie h_1 ("altri tecnici già incaricati"), serve anche la **data della lettera di incarico degli altri tecnici** (`txtDataIncaricoAltri`). La qualificazione dell'intervento non ha l'opzione "nuova costruzione" (g_7 assente). Per errori comuni, vedi [Errori Comuni](errori-validazione.html#errori-comuni).
 
 ---
 
@@ -180,9 +180,9 @@ Guida completa agli errori specifici per la **Segnalazione Certificata di Inizio
 - ⚪ **g_5** — "è stato oggetto della/e dichiarazione/i di tolleranza costruttiva (art. 34-bis o 34-ter, c. 4)" → almeno una delle 2 checkbox con n. e data ciascuna
 
 {: .note }
-> A differenza del [PdC Nazionale](errori-pdc-nazionale.html), la SCIA alt PdC Liguria **non ha l'opzione g_7** ("nuova costruzione su area libera"). La regolarità urbanistica deve quindi sempre riferirsi a interventi su immobili esistenti. Le checkbox 6_1/6_2 ("stato attuale immobile") sono comunque sempre obbligatorie.
+> A differenza del [PdC Nazionale](errori-validazione-pdc-9915.html), la SCIA alt PdC Liguria **non ha l'opzione g_7** ("nuova costruzione su area libera"). La regolarità urbanistica deve quindi sempre riferirsi a interventi su immobili esistenti. Le checkbox 6_1/6_2 ("stato attuale immobile") sono comunque sempre obbligatorie.
 
-La logica di validazione delle opzioni g_1..g_5 e delle relative sotto-selezioni è **identica** a quella del PdC Nazionale. Per i dettagli di ogni errore (numeri pratica, date, checkbox 9 sanatoria, checkbox 10-13 "altro", accatastamento, sanzioni pecuniarie, tolleranze) consulta la sezione corrispondente in [Errori PdC Nazionale](errori-pdc-nazionale.html#7-regolarità-urbanistica-e-precedenti-edilizi).
+La logica di validazione delle opzioni g_1..g_5 e delle relative sotto-selezioni è **identica** a quella del PdC Nazionale. Per i dettagli di ogni errore (numeri pratica, date, checkbox 9 sanatoria, checkbox 10-13 "altro", accatastamento, sanzioni pecuniarie, tolleranze) consulta la sezione corrispondente in [Errori PdC Nazionale](errori-validazione-pdc-9915.html#7-regolarità-urbanistica-e-precedenti-edilizi).
 
 ---
 
@@ -303,7 +303,7 @@ Questa sezione ha una struttura specifica della Liguria, diversa dal PdC Naziona
 
 ### ATTENZIONE ! Non è stata selezionata nessuna voce per 'Documentazione Imprese Esecutrici'. / 'Notifica preliminare'. / 'Comunicazione/Estremi Notifica'.
 
-Questi errori si attivano con la stessa logica a 4 livelli del PdC Nazionale: l_2 → `$ImpEs` → se l_2_2: `$Notifica` → se notifica_2_2_2: `$Allega`. Per i dettagli consulta la sezione corrispondente in [Errori PdC Nazionale](errori-pdc-nazionale.html#11-sicurezza-sul-lavoro-dlgs-812008).
+Questi errori si attivano con la stessa logica a 4 livelli del PdC Nazionale: l_2 → `$ImpEs` → se l_2_2: `$Notifica` → se notifica_2_2_2: `$Allega`. Per i dettagli consulta la sezione corrispondente in [Errori PdC Nazionale](errori-validazione-pdc-9915.html#11-sicurezza-sul-lavoro-dlgs-812008).
 
 ---
 
@@ -364,7 +364,7 @@ Rispetto al PdC Nazionale, la SCIA alt PdC Liguria ha: sezione "Presentazione" o
 ## Non trovi l'errore? 🆘
 
 1. **Cerca in questa guida** con Ctrl+F (copia/incolla il messaggio esatto)
-2. Per errori della sezione Regolarità urbanistica, vedi [Errori PdC Nazionale](errori-pdc-nazionale.html#7-regolarità-urbanistica-e-precedenti-edilizi)
+2. Per errori della sezione Regolarità urbanistica, vedi [Errori PdC Nazionale](errori-validazione-pdc-9915.html#7-regolarità-urbanistica-e-precedenti-edilizi)
 3. Verifica [Errori Comuni](errori-validazione.html#errori-comuni)
 4. Contatta [Assistenza](assistenza-tecnica.html)
 

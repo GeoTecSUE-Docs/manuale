@@ -26,7 +26,7 @@ Fonte: Manuale
 Guida completa agli errori specifici per l'**Autorizzazione Paesaggistica Semplificata (APS) Nazionale** ai sensi dell'art. 3 del D.M. n. 31 del 13 febbraio 2017 (D.P.R. 31/2017) e dell'art. 146 del D.Lgs. 22 gennaio 2004, n. 42 (Codice dei beni culturali e del paesaggio).
 
 {: .note }
-> L'APS Nazionale ha una struttura diversa rispetto alle versioni regionali ([Piemonte](errori-aps-piemonte.html), [Lombardia](errori-aps-lombardia.html), [Liguria](errori-aps-liguria.html)). Non ha radio Titolarità, radio Contributo, Impresa o Sicurezza. La sezione "Titolarità" è presente solo come menu non validato. La particolarità principale è la sezione **"Opere"** — con articolo e legge regionale — che è **sempre obbligatoria** (non condizionale), a differenza delle versioni regionali. La sezione **Vincolo** richiede almeno una delle 3 checkbox, ma solo se si sceglie `chkVincolo1` (art. 136) si attivano ulteriori campi obbligatori (lettera e estremi del provvedimento). L'intera scheda del professionista redattore è presente ma non validata. Per errori comuni, vedi [Errori Comuni](errori-validazione.html#errori-comuni).
+> L'APS Nazionale ha una struttura diversa rispetto alle versioni regionali ([Piemonte](errori-validazione-aps-54.html), [Lombardia](errori-validazione-aps-404.html), [Liguria](errori-validazione-aps-541.html)). Non ha radio Titolarità, radio Contributo, Impresa o Sicurezza. La sezione "Titolarità" è presente solo come menu non validato. La particolarità principale è la sezione **"Opere"** — con articolo e legge regionale — che è **sempre obbligatoria** (non condizionale), a differenza delle versioni regionali. La sezione **Vincolo** richiede almeno una delle 3 checkbox, ma solo se si sceglie `chkVincolo1` (art. 136) si attivano ulteriori campi obbligatori (lettera e estremi del provvedimento). L'intera scheda del professionista redattore è presente ma non validata. Per errori comuni, vedi [Errori Comuni](errori-validazione.html#errori-comuni).
 
 ---
 
@@ -262,7 +262,7 @@ La sezione "In caso di intervento di variante o di rinnovo" si attiva solo se si
 
 ### Differenze rispetto alle versioni regionali ⚠️
 
-Rispetto alle versioni [APS Piemonte](errori-aps-piemonte.html), [APS Lombardia](errori-aps-lombardia.html) e [APS Liguria](errori-aps-liguria.html): nessun radio `$Titolarita`; sezione "Opere" sempre obbligatoria con articolo + legge regionale; solo 2 checkbox documentazione tecnica invece di 4 checkbox vincolo regionali; chkVincolo1 richiede lettera + estremi provvedimento; la scheda del professionista redattore è presente ma non validata; nessuna coordinata UTM (a differenza della versione Lombardia).
+Rispetto alle versioni [APS Piemonte](errori-validazione-aps-54.html), [APS Lombardia](errori-validazione-aps-404.html) e [APS Liguria](errori-validazione-aps-541.html): nessun radio `$Titolarita`; sezione "Opere" sempre obbligatoria con articolo + legge regionale; solo 2 checkbox documentazione tecnica invece di 4 checkbox vincolo regionali; chkVincolo1 richiede lettera + estremi provvedimento; la scheda del professionista redattore è presente ma non validata; nessuna coordinata UTM (a differenza della versione Lombardia).
 
 ### Errori frequenti 🔍
 
@@ -277,7 +277,7 @@ Rispetto alle versioni [APS Piemonte](errori-aps-piemonte.html), [APS Lombardia]
 ## Non trovi l'errore? 🆘
 
 1. **Cerca in questa guida** con Ctrl+F (copia/incolla il messaggio esatto)
-2. Vedi versioni regionali: [APS Piemonte](errori-aps-piemonte.html) — [APS Lombardia](errori-aps-lombardia.html) — [APS Liguria](errori-aps-liguria.html)
+2. Vedi versioni regionali: [APS Piemonte](errori-validazione-aps-54.html) — [APS Lombardia](errori-validazione-aps-404.html) — [APS Liguria](errori-validazione-aps-541.html)
 3. Verifica [Errori Comuni](errori-validazione.html#errori-comuni)
 4. Contatta [Assistenza](assistenza-tecnica.html)
 

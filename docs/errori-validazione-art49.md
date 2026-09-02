@@ -15,7 +15,7 @@ Fonte: Manuale
 Guida completa agli errori specifici per la **richiesta di Parere ai sensi dell'art. 49, comma 7, della L.R. 56/77** (Legge Urbanistica Regionale), nonché della L.R. 32 del 01/12/2008 e s.m.i. e delle vigenti Norme Tecniche di Attuazione del P.R.G., relativa alla **Regione Piemonte**.
 
 {: .note }
-> La pratica Parere art. 49 L.U.R. è una richiesta di parere urbanistico per interventi ricadenti in specifiche aree soggette a tale prescrizione. È strutturalmente molto simile alla pratica [Zona UNESCO](errori-zona-unesco-piemonte.html) — stessa base normativa, stesso meccanismo di titolarità e stessi campi Zona PRG — con due differenze sostanziali: **non richiede la selezione della zona Core/Buffer** (assente in questa pratica), e include una sezione **"Note"** facoltativa. Non include sezioni tecnici, imprese, sicurezza o contributo. Per errori comuni a tutte le pratiche, vedi [Errori Comuni](errori-validazione.html#errori-comuni).
+> La pratica Parere art. 49 L.U.R. è una richiesta di parere urbanistico per interventi ricadenti in specifiche aree soggette a tale prescrizione. È strutturalmente molto simile alla pratica [Zona UNESCO](errori-validazione-zonaunesco-51.html) — stessa base normativa, stesso meccanismo di titolarità e stessi campi Zona PRG — con due differenze sostanziali: **non richiede la selezione della zona Core/Buffer** (assente in questa pratica), e include una sezione **"Note"** facoltativa. Non include sezioni tecnici, imprese, sicurezza o contributo. Per errori comuni a tutte le pratiche, vedi [Errori Comuni](errori-validazione.html#errori-comuni).
 
 ---
 

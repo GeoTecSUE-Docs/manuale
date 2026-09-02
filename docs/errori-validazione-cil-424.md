@@ -15,7 +15,7 @@ Fonte: Manuale
 Guida completa agli errori specifici per la **Comunicazione di Inizio Lavori (CIL)** per opere temporanee e stagionali — Regione Lombardia, ai sensi dell'art. 6, comma 1, lettera e-bis) del D.P.R. 380/2001 (come sostituita dall'art. 10, c. 1, lett. c) del D.L. 76/2020 conv. con modificazioni dalla L. 120/2020) e dell'art. 62, c. 1-ter della L.R. 11 marzo 2005, n. 12.
 
 {: .note }
-> La CIL Lombardia è simile alla [CIL Liguria](errori-cil-liguria.html) per la logica delle date (stessi controlli su inizio lavori ≥ oggi e fine ≤ 90 giorni dall'inizio) ma ha differenze strutturali importanti: la sezione "Opere su parti comuni" usa una **struttura radio + checkbox** a 2 livelli (radio "non riguardano" / "riguardano" → se "riguardano": almeno una delle 3 checkbox); sono presenti le **coordinate UTM WGS84 32N** con validazione degli intervalli (come tutte le pratiche Lombardia); la sezione comunicazioni contestuali ha **5 righe** invece di 2; la **privacy è una checkbox obbligatoria** da spuntare. Il campo `txtSpecifTitolarita1` ("Specificare se altro") è visibile nel modulo ma **non viene validato** — a differenza di altre pratiche Lombardia. Per errori comuni, vedi [Errori Comuni](errori-validazione.html#errori-comuni).
+> La CIL Lombardia è simile alla [CIL Liguria](errori-validazione-cil-241.html) per la logica delle date (stessi controlli su inizio lavori ≥ oggi e fine ≤ 90 giorni dall'inizio) ma ha differenze strutturali importanti: la sezione "Opere su parti comuni" usa una **struttura radio + checkbox** a 2 livelli (radio "non riguardano" / "riguardano" → se "riguardano": almeno una delle 3 checkbox); sono presenti le **coordinate UTM WGS84 32N** con validazione degli intervalli (come tutte le pratiche Lombardia); la sezione comunicazioni contestuali ha **5 righe** invece di 2; la **privacy è una checkbox obbligatoria** da spuntare. Il campo `txtSpecifTitolarita1` ("Specificare se altro") è visibile nel modulo ma **non viene validato** — a differenza di altre pratiche Lombardia. Per errori comuni, vedi [Errori Comuni](errori-validazione.html#errori-comuni).
 
 ---
 
@@ -306,7 +306,7 @@ La sezione "COMUNICA — Qualificazione dell'intervento" contiene 2 checkbox ind
 - ⚪ **g_2_2_2** — "l'intervento è soggetto all'invio della notifica e" → la checkbox `chkAllegal1_1_4_1` (notifica su Ge.CA) è presente ma **non validata**
 
 {: .note }
-> Come la [CIL Liguria](errori-cil-liguria.html), la sicurezza della CIL Lombardia si ferma a **3 livelli** di validazione — la checkbox della notifica Ge.CA (`chkAllegal1_1_4_1`) e la checkbox "di essere a conoscenza" (`chkConoscenza`) sono presenti nel modulo ma non vengono validate dal codice.
+> Come la [CIL Liguria](errori-validazione-cil-241.html), la sicurezza della CIL Lombardia si ferma a **3 livelli** di validazione — la checkbox della notifica Ge.CA (`chkAllegal1_1_4_1`) e la checkbox "di essere a conoscenza" (`chkConoscenza`) sono presenti nel modulo ma non vengono validate dal codice.
 
 ---
 
@@ -321,7 +321,7 @@ La sezione "COMUNICA — Qualificazione dell'intervento" contiene 2 checkbox ind
 **Soluzione**: Spunta la checkbox privacy.
 
 {: .warning }
-> Come nella [DS Lombardia](errori-denuncia-sismica-lombardia.html), la privacy è una **checkbox obbligatoria** da spuntare attivamente — non è solo un testo informativo. Viene validata come penultimo controllo, prima solo della verifica imprese nei soggetti.
+> Come nella [DS Lombardia](errori-validazione-ds-417.html), la privacy è una **checkbox obbligatoria** da spuntare attivamente — non è solo un testo informativo. Viene validata come penultimo controllo, prima solo della verifica imprese nei soggetti.
 
 ---
 
@@ -372,7 +372,7 @@ La CIL Lombardia si differenzia dalla CIL Liguria per: struttura opere comuni a 
 ## Non trovi l'errore? 🆘
 
 1. **Cerca in questa guida** con Ctrl+F (copia/incolla il messaggio esatto)
-2. Vedi anche [CIL Liguria](errori-cil-liguria.html) per confronto
+2. Vedi anche [CIL Liguria](errori-validazione-cil-241.html) per confronto
 3. Verifica [Errori Comuni](errori-validazione.html#errori-comuni)
 4. Contatta [Assistenza](assistenza-tecnica.html)
 

@@ -15,7 +15,7 @@ Fonte: Manuale
 Guida completa agli errori specifici per la **richiesta di Acquisizione Atti di Assenso o Pareri (2PAR)** — pratica con cui il titolare chiede allo Sportello Unico per l'Edilizia (SUE) di acquisire pareri e atti di assenso nell'ambito di una pratica edilizia **già presentata** (Permesso di Costruire, SCIA, CILA o altra), ai sensi degli artt. 20 c. 3, 5 c. 1-bis del D.P.R. 380/2001 e dell'art. 19-bis c. 3 della L. 241/1990 — Regione Piemonte.
 
 {: .note }
-> La 2PAR è la pratica "gemella" della [1PAR](errori-1par-piemonte.html) ma con una differenza fondamentale: mentre la 1PAR richiede pareri **prima** di presentare la pratica edilizia, la 2PAR li richiede per una pratica edilizia **già in corso** (già presentata). Questa differenza si riflette nel modulo: invece di indicare il tipo di pratica futura (come nella 1PAR), si indica il **titolo edilizio di riferimento** già esistente con menu, numero e data. La sezione "Tipologia di richiesta parere" identifica la base normativa (art. 20, art. 19-bis o art. 5) con cui il SUE acquisirà i pareri nell'ambito di quella pratica. La struttura delle sezioni "RICHIEDE" e la logica di validazione combinata delle checkbox sono identiche alla 1PAR. Per errori comuni, vedi [Errori Comuni](errori-validazione.html#errori-comuni).
+> La 2PAR è la pratica "gemella" della [1PAR](errori-validazione-par1-6.html) ma con una differenza fondamentale: mentre la 1PAR richiede pareri **prima** di presentare la pratica edilizia, la 2PAR li richiede per una pratica edilizia **già in corso** (già presentata). Questa differenza si riflette nel modulo: invece di indicare il tipo di pratica futura (come nella 1PAR), si indica il **titolo edilizio di riferimento** già esistente con menu, numero e data. La sezione "Tipologia di richiesta parere" identifica la base normativa (art. 20, art. 19-bis o art. 5) con cui il SUE acquisirà i pareri nell'ambito di quella pratica. La struttura delle sezioni "RICHIEDE" e la logica di validazione combinata delle checkbox sono identiche alla 1PAR. Per errori comuni, vedi [Errori Comuni](errori-validazione.html#errori-comuni).
 
 ---
 
@@ -230,7 +230,7 @@ La 2PAR si distingue dalla 1PAR per: assenza della sezione Titolarità (radio `$
 ## Non trovi l'errore? 🆘
 
 1. **Cerca in questa guida** con Ctrl+F (copia/incolla il messaggio esatto)
-2. Vedi anche [Errori 1PAR Piemonte](errori-1par-piemonte.html) — struttura analoga
+2. Vedi anche [Errori 1PAR Piemonte](errori-validazione-par1-6.html) — struttura analoga
 3. Verifica [Errori Comuni](errori-validazione.html#errori-comuni)
 4. Contatta [Assistenza](assistenza-tecnica.html)
 

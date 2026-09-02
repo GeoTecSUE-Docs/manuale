@@ -26,7 +26,7 @@ Fonte: Manuale
 Guida completa agli errori specifici per la **Segnalazione Certificata di Agibilità (SCA) Nazionale** ai sensi dell'art. 24 del D.P.R. 380/2001, applicabile su tutto il territorio nazionale (escluse le regioni con modulo specifico come la Liguria).
 
 {: .note }
-> La SCA Nazionale ha una struttura simile alla [SCA Liguria](errori-sca-liguria.html) ma con alcune differenze importanti. Il titolo edilizio usa lo stesso **doppio binario** (esterno a GeoTecSUE vs interno a GeoTecSUE), ma la data del titolo esterno viene qui verificata nel **formato GG/MM/AAAA** (diverso dalla Liguria). La sezione **fine lavori** usa radio button invece di una checkbox, con la seconda opzione che apre una data e un radio tipo ultimazione. La **privacy** richiede la checkbox `chkPrivacy` (presente come nell'SCA Liguria, assente nella SCA Lombardia). Per i tecnici è richiesto un ruolo **TA o DR** come nella versione ligure. Per errori comuni, vedi [Errori Comuni](errori-validazione.html#errori-comuni).
+> La SCA Nazionale ha una struttura simile alla [SCA Liguria](errori-validazione-sca-121.html) ma con alcune differenze importanti. Il titolo edilizio usa lo stesso **doppio binario** (esterno a GeoTecSUE vs interno a GeoTecSUE), ma la data del titolo esterno viene qui verificata nel **formato GG/MM/AAAA** (diverso dalla Liguria). La sezione **fine lavori** usa radio button invece di una checkbox, con la seconda opzione che apre una data e un radio tipo ultimazione. La **privacy** richiede la checkbox `chkPrivacy` (presente come nell'SCA Liguria, assente nella SCA Lombardia). Per i tecnici è richiesto un ruolo **TA o DR** come nella versione ligure. Per errori comuni, vedi [Errori Comuni](errori-validazione.html#errori-comuni).
 
 ---
 
@@ -131,7 +131,7 @@ La sezione del titolo edilizio ha un **doppio binario**: titolo esterno a GeoTec
 **Soluzione**: Correggi nel formato **GG/MM/AAAA** (es. `15/03/2022`).
 
 {: .note }
-> A differenza della [SCA Liguria](errori-sca-liguria.html), la SCA Nazionale **verifica il formato della data** del titolo edilizio esterno tramite `ControlloFormatoData`. I titoli aggiuntivi su GeoTecSUE (cmbTitoliAbitEdilizi2..5 con relativi riferimenti e campi) non vengono validati — sono opzionali.
+> A differenza della [SCA Liguria](errori-validazione-sca-121.html), la SCA Nazionale **verifica il formato della data** del titolo edilizio esterno tramite `ControlloFormatoData`. I titoli aggiuntivi su GeoTecSUE (cmbTitoliAbitEdilizi2..5 con relativi riferimenti e campi) non vengono validati — sono opzionali.
 
 ---
 
@@ -148,7 +148,7 @@ La sezione del titolo edilizio ha un **doppio binario**: titolo esterno a GeoTec
 - ⚪ **rdbComunicazFLa_2** — "che la presente segnalazione vale come comunicazione di fine lavori e a tal fine attesta che gli stessi sono stati ultimati in data ___" → compila data ultimazione e tipo ultimazione
 
 {: .note }
-> A differenza della [SCA Liguria](errori-sca-liguria.html) che usa una **checkbox** opzionale per la fine lavori, la SCA Nazionale usa **radio button** obbligatori: è necessario indicare obbligatoriamente se la fine lavori è già stata presentata separatamente o se viene presentata contestualmente all'agibilità.
+> A differenza della [SCA Liguria](errori-validazione-sca-121.html) che usa una **checkbox** opzionale per la fine lavori, la SCA Nazionale usa **radio button** obbligatori: è necessario indicare obbligatoriamente se la fine lavori è già stata presentata separatamente o se viene presentata contestualmente all'agibilità.
 
 ---
 

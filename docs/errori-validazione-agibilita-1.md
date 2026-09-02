@@ -15,7 +15,7 @@ Fonte: Manuale
 Guida completa agli errori specifici per la **Richiesta del Certificato di Agibilità** ai sensi dell'art. 25, comma 1 del D.P.R. 6 giugno 2001, n. 380 e ss.mm.ii. — Regione Piemonte.
 
 {: .note }
-> La Richiesta di Agibilità Piemonte è strutturalmente molto simile alla [Comunicazione di Agibilità (CAGI)](errori-comunicazione-agibilita-piemonte.html), con la stessa sezione "Titolarità" basata su checkbox di titoli edilizi (PdC/DIA/SCIA/CILA con varianti). La differenza principale è nella sezione documentazione: mentre la CAGI usa "TRASMETTE", questa usa "RICHIEDE" con "DICHIARA" e ha una struttura diversa delle checkbox di documentazione — in particolare la checkbox `chkd_12` (sicurezza impianti) ha 23 sotto-opzioni verificate dal validatore (contro le 3 "parent" della CAGI). Per errori comuni, vedi [Errori Comuni](errori-validazione.html#errori-comuni).
+> La Richiesta di Agibilità Piemonte è strutturalmente molto simile alla [Comunicazione di Agibilità (CAGI)](errori-validazione-cagi-11.html), con la stessa sezione "Titolarità" basata su checkbox di titoli edilizi (PdC/DIA/SCIA/CILA con varianti). La differenza principale è nella sezione documentazione: mentre la CAGI usa "TRASMETTE", questa usa "RICHIEDE" con "DICHIARA" e ha una struttura diversa delle checkbox di documentazione — in particolare la checkbox `chkd_12` (sicurezza impianti) ha 23 sotto-opzioni verificate dal validatore (contro le 3 "parent" della CAGI). Per errori comuni, vedi [Errori Comuni](errori-validazione.html#errori-comuni).
 
 ---
 
@@ -38,7 +38,7 @@ Guida completa agli errori specifici per la **Richiesta del Certificato di Agibi
 La sezione "Titolarità" contiene 4 checkbox principali per i titoli edilizi (PdC, DIA, SCIA, CILA), ciascuna con una sotto-checkbox per la variante in corso d'opera. Ogni checkbox spuntata attiva i campi numero e data obbligatori con verifica del formato.
 
 {: .note }
-> Come nella [CAGI Piemonte](errori-comunicazione-agibilita-piemonte.html#1-titoli-abilitativi-edilizi--sezione-titolarità), nessuna delle 8 checkbox ha un obbligo minimo — è tecnicamente possibile inviare la richiesta senza spuntare alcun titolo. Il validatore verifica solo che, **se** si spunta una checkbox, i relativi campi siano compilati correttamente nel formato GG/MM/AAAA.
+> Come nella [CAGI Piemonte](errori-validazione-cagi-11.html#1-titoli-abilitativi-edilizi--sezione-titolarità), nessuna delle 8 checkbox ha un obbligo minimo — è tecnicamente possibile inviare la richiesta senza spuntare alcun titolo. Il validatore verifica solo che, **se** si spunta una checkbox, i relativi campi siano compilati correttamente nel formato GG/MM/AAAA.
 
 ---
 
@@ -293,7 +293,7 @@ La Richiesta di Agibilità usa "RICHIEDE" + "DICHIARA" invece di "TRASMETTE". La
 ## Non trovi l'errore? 🆘
 
 1. **Cerca in questa guida** con Ctrl+F (copia/incolla il messaggio esatto)
-2. Vedi anche [CAGI Piemonte](errori-comunicazione-agibilita-piemonte.html) — struttura analoga
+2. Vedi anche [CAGI Piemonte](errori-validazione-cagi-11.html) — struttura analoga
 3. Verifica [Errori Comuni](errori-validazione.html#errori-comuni)
 4. Contatta [Assistenza](assistenza-tecnica.html)
 

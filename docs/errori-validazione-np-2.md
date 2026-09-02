@@ -23,7 +23,7 @@ Guida completa agli errori specifici per la **Notifica Preliminare Cantiere** ai
 
 1. [Qualificazione pratica — tipo invio e istanza MUDE](#1-qualificazione-pratica--tipo-invio-e-istanza-mude)
 2. [Tipologia intervento e descrizione](#2-tipologia-intervento-e-descrizione)
-3. [Natura dell'opera](#3-natura-dellOpera)
+3. [Natura dell'opera](#3-natura-dellopera)
 4. [Titolo autorizzativo di riferimento](#4-titolo-autorizzativo-di-riferimento)
 5. [Localizzazione dell'intervento](#5-localizzazione-dellintervento)
 6. [Comunicazioni — dati cantiere](#6-comunicazioni--dati-cantiere)

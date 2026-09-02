@@ -385,7 +385,7 @@ Stessa struttura della SCIA Nazionale con alcune varianti: la macro-opzione **g.
 - ⚪ **g.5** — Sanzioni pecuniarie irrogate e versate → spunta almeno una checkbox
 - ⚪ **g.6** — Dichiarazioni di tolleranza costruttiva (art. 34-bis/34-ter) → spunta almeno una checkbox
 
-I messaggi di errore specifici per g.2–g.6 sono identici a quelli della SCIA Nazionale (stessa struttura di validazione). Vedi [Errori SCIA Nazionale — Sezione 7](errori-scia-nazionale.html#7-regolarità-urbanistica-e-precedenti-edilizi) per i dettagli.
+I messaggi di errore specifici per g.2–g.6 sono identici a quelli della SCIA Nazionale (stessa struttura di validazione). Vedi [Errori SCIA Nazionale — Sezione 7](errori-validazione-scia-9923.html#7-regolarità-urbanistica-e-precedenti-edilizi) per i dettagli.
 
 ---
 
@@ -505,7 +505,7 @@ Il PdC Lombardia ha un livello aggiuntivo rispetto alla SCIA Nazionale: quando s
 
 ### ATTENZIONE ! Non è stata selezionata nessuna voce per 'Applicazione delle norme in materia di salute e sicurezza sul luogo di lavoro (d.lgs. n. 81/2008)'.
 
-**Soluzione**: Seleziona **una delle tre opzioni** (non ricade / ricade / ricade con riserva). Vedi [Errori SCIA Nazionale — Sezione 10](errori-scia-nazionale.html#10-sicurezza-sul-lavoro--dlgs-812008) per la struttura dettagliata.
+**Soluzione**: Seleziona **una delle tre opzioni** (non ricade / ricade / ricade con riserva). Vedi [Errori SCIA Nazionale — Sezione 10](errori-validazione-scia-9923.html#10-sicurezza-sul-lavoro--dlgs-812008) per la struttura dettagliata.
 
 ---
 

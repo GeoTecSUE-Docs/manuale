@@ -413,7 +413,7 @@ Se l'Ente ha pubblicato un documento di *richiesta di integrazioni* ma non ha mo
 
 ### Gli stati PagoPA cosa significano?
 
-Consulta l'[Appendice Stati PagoPA](pagopa-stati.html) per la lista completa.
+Consulta l'[Appendice Stati PagoPA](appendici/pagopa-stati.html) per la lista completa.
 
 **Stati principali**:
 - **IUV generato (10)**: Pronto da pagare
@@ -791,7 +791,7 @@ Contatta sempre l'Ente per sapere quale strada seguire nel tuo caso specifico.
 
 **Soluzione**: Clicca sempre "Salva" (blu) e attendi conferma verde prima di chiudere.
 
-Dettagli: [Troubleshooting](troubleshooting.html#7-errori-generici-del-sistema)
+Dettagli: [Troubleshooting](troubleshooting.html#problemi-tecnici-del-sistema)
 
 ### Il menu "Comunicazioni" è scomparso. Dove lo trovo?
 
@@ -851,4 +851,3 @@ Se il problema persiste ed è urgente, contatta l'assistenza tecnica segnalando 
 **Ultima revisione**: Luglio 2026  
 **FAQ totali**: 90+  
 **Estratte da**: 13 sezioni del manuale
-
