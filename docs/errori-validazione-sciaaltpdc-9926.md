@@ -26,7 +26,7 @@ Fonte: Manuale
 Guida completa agli errori specifici per la **Segnalazione Certificata di Inizio Attività Alternativa al Permesso di Costruire (SCIA alt PdC) Nazionale** ai sensi dell'art. 23 del D.P.R. 6 giugno 2001, n. 380 e della Sezione II-Edilizia della Tabella A del D.Lgs. 25 novembre 2016, n. 222.
 
 {: .note }
-> La SCIA alt PdC Nazionale è strutturalmente molto simile alla [SCIA alt PdC Liguria](errori-scia-alt-pdc-liguria.html) con due differenze principali: la qualificazione ha **4 sotto-opzioni** invece di 5 (manca la c_1_5 specifica della L.R. 16/2008 ligure) e la sezione tecnici **non richiede la data della lettera di incarico** (assenza della L.R. 20/2020). La sezione regolarità urbanistica (g_1..g_5, con checkbox 6_1/6_2 sempre obbligatorie) e la sezione sicurezza (4 livelli completi) sono identiche alla versione Liguria. Per errori comuni, vedi [Errori Comuni](errori-validazione.html#errori-comuni).
+> La SCIA alt PdC Nazionale è strutturalmente molto simile alla [SCIA alt PdC Liguria](errori-validazione-sciaaltpdc-261.html) con due differenze principali: la qualificazione ha **4 sotto-opzioni** invece di 5 (manca la c_1_5 specifica della L.R. 16/2008 ligure) e la sezione tecnici **non richiede la data della lettera di incarico** (assenza della L.R. 20/2020). La sezione regolarità urbanistica (g_1..g_5, con checkbox 6_1/6_2 sempre obbligatorie) e la sezione sicurezza (4 livelli completi) sono identiche alla versione Liguria. Per errori comuni, vedi [Errori Comuni](errori-validazione.html#errori-comuni).
 
 ---
 
@@ -190,7 +190,7 @@ Guida completa agli errori specifici per la **Segnalazione Certificata di Inizio
 - ⚪ **g_5** — "è stato oggetto della/e dichiarazione/i di tolleranza costruttiva (art. 34-bis o 34-ter, c. 4)" → almeno una delle 2 checkbox con n. e data ciascuna
 
 {: .note }
-> Come la SCIA alt PdC Liguria, la versione Nazionale **non ha l'opzione g_7** ("nuova costruzione su area libera") presente nel PdC Nazionale. La sezione si applica sempre a interventi su immobili esistenti. La logica di validazione delle sotto-selezioni è identica a quella del PdC Nazionale e della SCIA alt PdC Liguria. Per i dettagli di ogni singolo errore (checkbox 1-13, sotto-checkbox 9, checkbox 10-13 "altro", accatastamento, sanzioni, tolleranze) vedi [Errori PdC Nazionale — sezione 7](errori-pdc-nazionale.html#7-regolarità-urbanistica-e-precedenti-edilizi).
+> Come la SCIA alt PdC Liguria, la versione Nazionale **non ha l'opzione g_7** ("nuova costruzione su area libera") presente nel PdC Nazionale. La sezione si applica sempre a interventi su immobili esistenti. La logica di validazione delle sotto-selezioni è identica a quella del PdC Nazionale e della SCIA alt PdC Liguria. Per i dettagli di ogni singolo errore (checkbox 1-13, sotto-checkbox 9, checkbox 10-13 "altro", accatastamento, sanzioni, tolleranze) vedi [Errori PdC Nazionale — sezione 7](errori-validazione-pdc-9915.html#7-regolarità-urbanistica-e-precedenti-edilizi).
 
 ---
 
@@ -240,7 +240,7 @@ Guida completa agli errori specifici per la **Segnalazione Certificata di Inizio
 - ⚪ **h_2** — "che il/i direttore/i dei lavori e gli altri tecnici incaricati saranno individuati prima dell'inizio dei lavori"
 
 {: .note }
-> A differenza della [SCIA alt PdC Liguria](errori-scia-alt-pdc-liguria.html#9-tecnici-incaricati-lr-202020), la versione Nazionale **non richiede la data della lettera di incarico** del progettista né degli altri tecnici — la L.R. 27 luglio 2020, n. 20 si applica solo alla Liguria. Il modulo prevede il progettista come presupposto fisso ("di aver incaricato, in qualità di progettista/i, il tecnico/i indicato/i alla sezione 2") senza campo data associato.
+> A differenza della [SCIA alt PdC Liguria](errori-validazione-sciaaltpdc-261.html#9-tecnici-incaricati-lr-202020), la versione Nazionale **non richiede la data della lettera di incarico** del progettista né degli altri tecnici — la L.R. 27 luglio 2020, n. 20 si applica solo alla Liguria. Il modulo prevede il progettista come presupposto fisso ("di aver incaricato, in qualità di progettista/i, il tecnico/i indicato/i alla sezione 2") senza campo data associato.
 
 ---
 
@@ -299,7 +299,7 @@ Guida completa agli errori specifici per la **Segnalazione Certificata di Inizio
 - ⚪ **l_2_2_2_2** — "invierà la notifica prima dell'inizio dei lavori"
 
 {: .note }
-> La SCIA alt PdC Nazionale ha il **4° livello sicurezza** (`$Allega`) a differenza della [CIL Liguria](errori-cil-liguria.html) che si ferma al 3° livello. La struttura è identica a quella della [SCIA alt PdC Liguria](errori-scia-alt-pdc-liguria.html).
+> La SCIA alt PdC Nazionale ha il **4° livello sicurezza** (`$Allega`) a differenza della [CIL Liguria](errori-validazione-cil-241.html) che si ferma al 3° livello. La struttura è identica a quella della [SCIA alt PdC Liguria](errori-validazione-sciaaltpdc-261.html).
 
 ---
 
@@ -361,8 +361,8 @@ Rispetto al **PdC Nazionale**: senza sezione Sanatoria; senza g_7 (nuova costruz
 ## Non trovi l'errore? 🆘
 
 1. **Cerca in questa guida** con Ctrl+F (copia/incolla il messaggio esatto)
-2. Per errori della sezione Regolarità urbanistica, vedi [Errori PdC Nazionale](errori-pdc-nazionale.html#7-regolarità-urbanistica-e-precedenti-edilizi)
-3. Vedi anche [SCIA alt PdC Liguria](errori-scia-alt-pdc-liguria.html) per confronto
+2. Per errori della sezione Regolarità urbanistica, vedi [Errori PdC Nazionale](errori-validazione-pdc-9915.html#7-regolarità-urbanistica-e-precedenti-edilizi)
+3. Vedi anche [SCIA alt PdC Liguria](errori-validazione-sciaaltpdc-261.html) per confronto
 4. Verifica [Errori Comuni](errori-validazione.html#errori-comuni)
 5. Contatta [Assistenza](assistenza-tecnica.html)
 
