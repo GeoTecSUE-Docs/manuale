@@ -12,8 +12,8 @@ Manuale operativo per l'utilizzo del portale **GeoTecSUE** dedicato ai professio
 
 ## Informazioni sul manuale
 
-**Versione corrente:** 1.20 
-**Ultimo aggiornamento:** 01/09/2026
+**Versione corrente:** 1.21 
+**Ultimo aggiornamento:** 02/09/2026
 [Cronologia completa delle modifiche](CHANGELOG.md)
 
 ---
