@@ -15,7 +15,7 @@ Fonte: Manuale
 Guida completa agli errori specifici per la **Segnalazione Certificata di Inizio Attività per movimenti di terreno in area sottoposta a vincolo idrogeologico** ai sensi degli artt. 35 c. 2 e 3 della L.R. 4/99 — Regione Liguria.
 
 {: .note }
-> La SCIAVI è la variante SCIA dell'[AVI Liguria](errori-avi-liguria.html) e condivide con essa quasi tutta la struttura e la logica di validazione. La differenza principale è la presenza del campo **"Piano di Bacino e/o Ambito n."** (`txtNumAmbito`), che viene validato **per primo** prima ancora della descrizione dell'intervento. Tutti i bug dell'AVI Liguria sono presenti anche nella SCIAVI: il controllo del formato data SCIA legge `txtDataAUT` invece di `txtDataSCIA`, e il checkbox DIA (`chkInterventod2_3`) non viene validato. I due tecnici obbligatori (Progettista + Geologo) sono identici. La privacy è solo informativa. Per errori comuni a tutte le pratiche, vedi [Errori Comuni](errori-validazione.html#errori-comuni).
+> La SCIAVI è la variante SCIA dell'[AVI Liguria](errori-validazione-avi-41.html) e condivide con essa quasi tutta la struttura e la logica di validazione. La differenza principale è la presenza del campo **"Piano di Bacino e/o Ambito n."** (`txtNumAmbito`), che viene validato **per primo** prima ancora della descrizione dell'intervento. Tutti i bug dell'AVI Liguria sono presenti anche nella SCIAVI: il controllo del formato data SCIA legge `txtDataAUT` invece di `txtDataSCIA`, e il checkbox DIA (`chkInterventod2_3`) non viene validato. I due tecnici obbligatori (Progettista + Geologo) sono identici. La privacy è solo informativa. Per errori comuni a tutte le pratiche, vedi [Errori Comuni](errori-validazione.html#errori-comuni).
 
 ---
 
