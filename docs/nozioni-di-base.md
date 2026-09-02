@@ -256,7 +256,7 @@ Ha controllo parziale sulla pratica:
 4. Seleziona il ruolo
 5. Conferma l'operazione
 
-Per approfondire l'interfaccia, consulta [Interfaccia e convenzioni](interfaccia-e-convenzioni.html#gestione-soggetti).
+Per approfondire l'interfaccia, consulta [Interfaccia e convenzioni](interfaccia-e-convenzioni.html#gestione-soggetti-compilatori-bluverde).
 
 ### Prerequisiti per aggiungere un soggetto
 
