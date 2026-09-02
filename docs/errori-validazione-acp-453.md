@@ -279,7 +279,7 @@ I 4 radio group corrispondono alle domande:
 
 ### Differenza ACP Piemonte vs ACP Lombardia
 
-Rispetto all'[ACP Piemonte](errori-acp-piemonte.html), la versione Lombardia ha alcune differenze strutturali: le coordinate sono UTM WGS84 32N (X e Y in metri, non coordinate geografiche); la sezione tipologia ha 2 checkbox principali invece di 3 basi normative; lo stato attuale immobile è strutturato come 4 radio Si/No invece di checkbox; la sezione tecnici non è validata (in Piemonte è assente o diversamente gestita).
+Rispetto all'[ACP Piemonte](errori-validazione-acp-53.html), la versione Lombardia ha alcune differenze strutturali: le coordinate sono UTM WGS84 32N (X e Y in metri, non coordinate geografiche); la sezione tipologia ha 2 checkbox principali invece di 3 basi normative; lo stato attuale immobile è strutturato come 4 radio Si/No invece di checkbox; la sezione tecnici non è validata (in Piemonte è assente o diversamente gestita).
 
 ### Campi presenti ma non validati ℹ️
 
