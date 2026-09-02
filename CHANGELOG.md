@@ -6,6 +6,12 @@ permalink: /changelog/
 
 # Changelog - Manuale utente GeoTecSUE
 
+## [1.21] - 02/09/2026
+- Rilasciata la versione 1.21 del manuale
+
+### Modifiche
+- Corretti link errati e mancanti su varie pagine
+
 ## [1.20] - 01/09/2026
 - Rilasciata la versione 1.20 del manuale
 
