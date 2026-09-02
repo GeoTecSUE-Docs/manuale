@@ -26,7 +26,7 @@ Fonte: Manuale
 Guida completa agli errori specifici per l'**Autorizzazione Paesaggistica Ordinaria (AP) Nazionale** ai sensi dell'art. 146 del D.Lgs. 22 gennaio 2004, n. 42 (Codice dei beni culturali e del paesaggio).
 
 {: .note }
-> L'AP Nazionale si distingue dalle versioni regionali ([AP Piemonte](errori-ap-piemonte.html), [AP Lombardia](errori-ap-lombardia.html), [AP Liguria](errori-ap-liguria.html)) per la presenza della sezione **"Estremi di precedenti autorizzazioni paesaggistiche rilasciate"** con radio e_1/e_2 e checkbox condizionali, e per le **4 opzioni di vincolo** (incluso "altro"). Non ha sezioni di contributo, impresa o sicurezza. Il modulo ha un **bug nel codice** del Focus della Titolarità (tenta di agire su un controllo di un'altra istanza) e un secondo bug nel Focus della data pratica e_1_3 (punta su `txtDataPrat1_2` invece di `txtDataPrat1_3`): il messaggio di errore viene comunque mostrato correttamente ma il campo che riceve il cursore potrebbe non essere quello corretto. Per errori comuni, vedi [Errori Comuni](errori-validazione.html#errori-comuni).
+> L'AP Nazionale si distingue dalle versioni regionali ([AP Piemonte](errori-validazione-ap-5.html), [AP Lombardia](errori-validazione-ap-405.html), [AP Liguria](errori-validazione-ap-55.html)) per la presenza della sezione **"Estremi di precedenti autorizzazioni paesaggistiche rilasciate"** con radio e_1/e_2 e checkbox condizionali, e per le **4 opzioni di vincolo** (incluso "altro"). Non ha sezioni di contributo, impresa o sicurezza. Il modulo ha un **bug nel codice** del Focus della Titolarità (tenta di agire su un controllo di un'altra istanza) e un secondo bug nel Focus della data pratica e_1_3 (punta su `txtDataPrat1_2` invece di `txtDataPrat1_3`): il messaggio di errore viene comunque mostrato correttamente ma il campo che riceve il cursore potrebbe non essere quello corretto. Per errori comuni, vedi [Errori Comuni](errori-validazione.html#errori-comuni).
 
 ---
 
@@ -220,7 +220,7 @@ La checkbox "per lo stesso immobile sono in corso interventi/sono state presenta
 - ☐ **chkVincolo4** — "altro (specificare ___)" → inserisci il dettaglio (`txtVincolo4`)
 
 {: .note }
-> La AP Nazionale ha **4 opzioni vincolo** rispetto alle 3 delle versioni regionali, con l'aggiunta di "altro (specificare)". Come nella [AP Piemonte](errori-ap-piemonte.html) e nella [AP Liguria](errori-ap-liguria.html), è possibile spuntare più checkbox contemporaneamente se l'immobile ricade in più ambiti di tutela.
+> La AP Nazionale ha **4 opzioni vincolo** rispetto alle 3 delle versioni regionali, con l'aggiunta di "altro (specificare)". Come nella [AP Piemonte](errori-validazione-ap-5.html) e nella [AP Liguria](errori-validazione-ap-55.html), è possibile spuntare più checkbox contemporaneamente se l'immobile ricade in più ambiti di tutela.
 
 ---
 
@@ -247,7 +247,7 @@ La checkbox "per lo stesso immobile sono in corso interventi/sono state presenta
 **Soluzione**: Inserisci la lettera della fattispecie dell'art. 142 c. 1 del D.Lgs. 42/2004 che identifica l'area tutelata per legge (es. b = laghi; c = fiumi e torrenti; g = boschi; h = montagne sopra 1600/1200 m; ecc.).
 
 {: .note }
-> A differenza dell'[APS Nazionale](errori-aps-nazionale.html) dove `txtVincolo2` (lettera dell'art. 142) non è validata, nell'AP Nazionale la lettera dell'art. 142 (`txtLettera2`) è **obbligatoria** se `chkVincolo2` è spuntata.
+> A differenza dell'[APS Nazionale](errori-validazione-aps-9954.html) dove `txtVincolo2` (lettera dell'art. 142) non è validata, nell'AP Nazionale la lettera dell'art. 142 (`txtLettera2`) è **obbligatoria** se `chkVincolo2` è spuntata.
 
 ---
 
@@ -290,7 +290,7 @@ Titolarità → Localizzazione → Descrizione → Stato precedenti autorizzazio
 
 ### Differenze rispetto alle versioni regionali ⚠️
 
-Rispetto alle versioni regionali ([AP Piemonte](errori-ap-piemonte.html) con 4 opzioni stato e 14 checkbox vincolo, [AP Lombardia](errori-ap-lombardia.html) con 4 checkbox vincolo, [AP Liguria](errori-ap-liguria.html) con 14 checkbox vincolo): la versione Nazionale ha una sezione "Stato precedenti autorizzazioni" con radio e_1/e_2 + checkbox condizionali assente nelle versioni regionali; solo 4 opzioni vincolo invece di 14; inclusa la voce "altro" (chkVincolo4); la lettera dell'art. 142 (`txtLettera2`) è obbligatoria qui, non lo era nell'APS Nazionale.
+Rispetto alle versioni regionali ([AP Piemonte](errori-validazione-ap-5.html) con 4 opzioni stato e 14 checkbox vincolo, [AP Lombardia](errori-validazione-ap-405.html) con 4 checkbox vincolo, [AP Liguria](errori-validazione-ap-55.html) con 14 checkbox vincolo): la versione Nazionale ha una sezione "Stato precedenti autorizzazioni" con radio e_1/e_2 + checkbox condizionali assente nelle versioni regionali; solo 4 opzioni vincolo invece di 14; inclusa la voce "altro" (chkVincolo4); la lettera dell'art. 142 (`txtLettera2`) è obbligatoria qui, non lo era nell'APS Nazionale.
 
 ### Bug noti ⚠️
 
@@ -308,8 +308,8 @@ Due bug di Focus nel codice di questa pratica: (1) Titolarità: il Focus tenta d
 ## Non trovi l'errore? 🆘
 
 1. **Cerca in questa guida** con Ctrl+F (copia/incolla il messaggio esatto)
-2. Vedi le versioni regionali: [AP Piemonte](errori-ap-piemonte.html) — [AP Lombardia](errori-ap-lombardia.html) — [AP Liguria](errori-ap-liguria.html)
-3. Vedi [APS Nazionale](errori-aps-nazionale.html) per la versione semplificata
+2. Vedi le versioni regionali: [AP Piemonte](errori-validazione-ap-5.html) — [AP Lombardia](errori-validazione-ap-405.html) — [AP Liguria](errori-validazione-ap-55.html)
+3. Vedi [APS Nazionale](errori-validazione-aps-9954.html) per la versione semplificata
 4. Verifica [Errori Comuni](errori-validazione.html#errori-comuni)
 5. Contatta [Assistenza](assistenza-tecnica.html)
 
