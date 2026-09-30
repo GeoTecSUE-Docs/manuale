@@ -6,6 +6,12 @@ permalink: /changelog/
 
 # Changelog - Manuale utente GeoTecSUE
 
+## [1.22] - 30/09/2026
+- Rilasciata la versione 1.22 del manuale
+
+### Modifiche
+- Errori Validazione Variante Lavori in Zona Sismica - Regione Piemonte: aggiornata con le nuove modifiche
+
 ## [1.21] - 02/09/2026
 - Rilasciata la versione 1.21 del manuale
 
