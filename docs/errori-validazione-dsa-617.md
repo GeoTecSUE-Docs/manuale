@@ -15,7 +15,7 @@ Fonte: Manuale
 Guida completa agli errori specifici per la **Denuncia dei Lavori in Zona Sismica con Asseverazione (DSA)** per interventi di minore rilevanza e privi di rilevanza ai sensi degli artt. 93 e 94-bis del D.P.R. 380/2001 e della DGR Veneto 1823 del 29/12/2020 — Regione Veneto.
 
 {: .note }
-> La DSA Veneto è la pratica con il numero più elevato di campi obbligatori dell'intero sistema GeoTecSUE. La struttura è completamente originale: nessun radio titolarità, nessun contributo, nessuna sicurezza lavoro. Il modulo richiede tre figure professionali con anagrafica completa a 11 campi ciascuna (Progettista architettonico, Progettista strutturale, Direttore lavori strutturale), più l'anagrafica completa dell'Impresa costruttrice delle strutture in opera. Il "Dettaglio dell'intervento" richiede la selezione di almeno una tra 35 checkbox distribuite in 4 categorie NTC. L'Impresa costruttrice delle strutture prefabbricate (ICP), il Progettista delle strutture prefabbricate (PF), il Geologo (GE) e il Collaudatore in corso d'opera (CL) sono facoltativi — nessun campo di queste sezioni viene validato. Per errori comuni, vedi [Errori Comuni](errori-validazione.html#errori-comuni).
+> La DSA Veneto è la pratica con il numero più elevato di campi obbligatori dell'intero sistema GeoTecSUE. La struttura è completamente originale: nessun radio titolarità, nessun contributo, nessuna sicurezza lavoro. Il modulo richiede tre figure professionali con anagrafica completa a 12 campi ciascuna (Progettista architettonico, Progettista strutturale, Direttore lavori strutturale), più l'anagrafica completa dell'Impresa costruttrice delle strutture in opera. Il "Dettaglio dell'intervento" richiede la selezione di almeno una tra 35 checkbox distribuite in 4 categorie NTC. L'Impresa costruttrice delle strutture prefabbricate (ICP), il Progettista delle strutture prefabbricate (PF), il Geologo (GE) e il Collaudatore in corso d'opera (CL) sono facoltativi — nessun campo di queste sezioni viene validato. Per errori comuni, vedi [Errori Comuni](errori-validazione.html#errori-comuni).
 
 ---
 
@@ -254,87 +254,207 @@ Tutti i campi dell'impresa costruttrice delle strutture in opera sono obbligator
 
 ## 7. Progettista architettonico (PR)
 
-Tutti gli 11 campi del Progettista architettonico sono obbligatori. Il validatore li verifica in sequenza dal primo all'undicesimo.
+Tutti i 12 dati del Progettista architettonico sono obbligatori e vengono controllati nell'ordine qui sotto. Puoi compilarli a mano oppure scegliere il soggetto dalla tua anagrafica con **"Seleziona il soggetto"** e **"Carica Soggetto"**.
 
 ---
 
 ### ATTENZIONE ! Cognome del Progettista architettonico obbligatorio.
 
-**Soluzione**: Inserisci il cognome nel campo `txtCognomeProf1`.
+**Dove si trova**: riquadro **"Progettista architettonico"**, campo **"Cognome"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
 
 ---
 
 ### ATTENZIONE ! Nome del Progettista architettonico obbligatorio.
 
-**Soluzione**: Inserisci il nome nel campo `txtNomeProf1`.
+**Dove si trova**: riquadro **"Progettista architettonico"**, campo **"Nome"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
 
 ---
 
 ### ATTENZIONE ! Codice Fiscale del Progettista architettonico obbligatorio.
 
-**Soluzione**: Inserisci il codice fiscale nel campo `txtCodiceFiscaleProf1`.
+**Dove si trova**: riquadro **"Progettista architettonico"**, campo **"Codice Fiscale"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
 
 ---
 
 ### ATTENZIONE ! Città di residenza del Progettista architettonico obbligatoria.
 
-**Soluzione**: Inserisci il Comune di residenza nel campo `txtCittaLavoroProf1` "Residente in".
+**Dove si trova**: riquadro **"Progettista architettonico"**, campo **"Residente in"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
 
 ---
 
 ### ATTENZIONE ! Provincia di residenza del Progettista architettonico obbligatoria.
 
-**Soluzione**: Inserisci la sigla della provincia nel campo `txtProvLavoroProf1`.
+**Dove si trova**: riquadro **"Progettista architettonico"**, campo **"Provincia di"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
 
 ---
 
 ### ATTENZIONE ! Indirizzo di residenza del Progettista architettonico obbligatorio.
 
-**Soluzione**: Inserisci la via di residenza nel campo `txtIndirizzoProf1`.
+**Dove si trova**: riquadro **"Progettista architettonico"**, campo **"Via"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
 
 ---
 
 ### ATTENZIONE ! Numero civico di residenza del Progettista architettonico obbligatorio.
 
-**Soluzione**: Inserisci il numero civico nel campo `txtNCivicoProf1`.
+**Dove si trova**: riquadro **"Progettista architettonico"**, campo **"n. (accanto a Via)"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
 
 ---
 
 ### ATTENZIONE ! Iscrizione all'Albo del Progettista architettonico obbligatoria.
 
-**Soluzione**: Inserisci la categoria di albo nel campo `txtAlboProf1` "Iscritto all'Albo degli" (es. "Ingegneri", "Architetti").
+**Dove si trova**: riquadro **"Progettista architettonico"**, campo **"Iscritto all'Albo degli"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
 
 ---
 
 ### ATTENZIONE ! Provincia di iscrizione all'Albo del Progettista architettonico obbligatoria.
 
-**Soluzione**: Inserisci la provincia dell'ordine professionale nel campo `txtAlboDiProf1`.
+**Dove si trova**: riquadro **"Progettista architettonico"**, campo **"della provincia di (dopo l'Albo)"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
 
 ---
 
 ### ATTENZIONE ! Numero di iscrizione all'Albo del Progettista architettonico obbligatorio.
 
-**Soluzione**: Inserisci il numero di iscrizione all'albo nel campo `txtAlboNumeroProf1`.
+**Dove si trova**: riquadro **"Progettista architettonico"**, campo **"al n."**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
 
 ---
 
 ### ATTENZIONE ! PEC del Progettista architettonico obbligatoria.
 
-**Soluzione**: Inserisci l'indirizzo PEC nel campo `txtPECProf1`.
+**Dove si trova**: riquadro **"Progettista architettonico"**, campo **"PEC"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
 
 ---
 
 ### ATTENZIONE ! Telefono del Progettista architettonico obbligatorio.
 
-**Soluzione**: Inserisci il numero di telefono nel campo `txtTelNProf1`.
+**Dove si trova**: riquadro **"Progettista architettonico"**, campo **"tel. n."**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
 
 ---
 
 ## 8. Progettista strutturale (PS)
 
-Stessi 11 campi obbligatori del Progettista architettonico. I messaggi sono identici con "Progettista strutturale" al posto di "architettonico". I campi corrispondono a `txtCognomeProf2`, `txtNomeProf2`, `txtCodiceFiscaleProf2`, `txtCittaLavoroProf2`, `txtProvLavoroProf2`, `txtIndirizzoProf2`, `txtNCivicoProf2`, `txtAlboProf2`, `txtAlboDiProf2`, `txtAlboNumeroProf2`, `txtPECProf2`, `txtTelNProf2`.
+Tutti i 12 dati del Progettista strutturale sono obbligatori e vengono controllati nell'ordine qui sotto. Puoi compilarli a mano oppure scegliere il soggetto dalla tua anagrafica con **"Seleziona il soggetto"** e **"Carica Soggetto"**.
 
-Seguire le stesse istruzioni della sezione precedente compilando i campi corrispondenti per il progettista strutturale.
+---
+
+### ATTENZIONE ! Cognome del Progettista strutturale obbligatorio.
+
+**Dove si trova**: riquadro **"Progettista strutturale"**, campo **"Cognome"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Nome del Progettista strutturale obbligatorio.
+
+**Dove si trova**: riquadro **"Progettista strutturale"**, campo **"Nome"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Codice Fiscale del Progettista strutturale obbligatorio.
+
+**Dove si trova**: riquadro **"Progettista strutturale"**, campo **"Codice Fiscale"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Città di residenza del Progettista strutturale obbligatoria.
+
+**Dove si trova**: riquadro **"Progettista strutturale"**, campo **"Residente in"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Provincia di residenza del Progettista strutturale obbligatoria.
+
+**Dove si trova**: riquadro **"Progettista strutturale"**, campo **"Provincia di"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Indirizzo di residenza del Progettista strutturale obbligatorio.
+
+**Dove si trova**: riquadro **"Progettista strutturale"**, campo **"Via"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Numero civico di residenza del Progettista strutturale obbligatorio.
+
+**Dove si trova**: riquadro **"Progettista strutturale"**, campo **"n. (accanto a Via)"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Iscrizione all'Albo del Progettista strutturale obbligatoria.
+
+**Dove si trova**: riquadro **"Progettista strutturale"**, campo **"Iscritto all'Albo degli"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Provincia di iscrizione all'Albo del Progettista strutturale obbligatoria.
+
+**Dove si trova**: riquadro **"Progettista strutturale"**, campo **"della provincia di (dopo l'Albo)"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Numero di iscrizione all'Albo del Progettista strutturale obbligatorio.
+
+**Dove si trova**: riquadro **"Progettista strutturale"**, campo **"al n."**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! PEC del Progettista strutturale obbligatoria.
+
+**Dove si trova**: riquadro **"Progettista strutturale"**, campo **"PEC"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Telefono del Progettista strutturale obbligatorio.
+
+**Dove si trova**: riquadro **"Progettista strutturale"**, campo **"tel. n."**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
 
 {: .note }
 > Il **Progettista delle strutture prefabbricate** (PF, scheda 3) è completamente **non validato** — nessun campo è obbligatorio. Compilare facoltativamente se l'intervento prevede strutture prefabbricate.
@@ -343,9 +463,105 @@ Seguire le stesse istruzioni della sezione precedente compilando i campi corrisp
 
 ## 9. Direttore dei lavori strutturale (DR)
 
-Stessi 11 campi obbligatori. I messaggi riportano "Direttore dei lavori strutturale". I campi corrispondono a `txtCognomeProf4..txtTelNProf4` (notare che il numero è 4, non 3, perché il Progettista prefabbricati è la scheda 3).
+Tutti i 12 dati del Direttore dei lavori strutturale sono obbligatori e vengono controllati nell'ordine qui sotto. Puoi compilarli a mano oppure scegliere il soggetto dalla tua anagrafica con **"Seleziona il soggetto"** e **"Carica Soggetto"**.
 
-Seguire le stesse istruzioni della sezione 7 compilando i campi corrispondenti per il direttore dei lavori strutturale.
+---
+
+### ATTENZIONE ! Cognome del Direttore dei lavori strutturale obbligatorio.
+
+**Dove si trova**: riquadro **"Direttore dei lavori strutturale dell'intero intervento"**, campo **"Cognome"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Nome del Direttore dei lavori strutturale obbligatorio.
+
+**Dove si trova**: riquadro **"Direttore dei lavori strutturale dell'intero intervento"**, campo **"Nome"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Codice Fiscale del Direttore dei lavori strutturale obbligatorio.
+
+**Dove si trova**: riquadro **"Direttore dei lavori strutturale dell'intero intervento"**, campo **"Codice Fiscale"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Città di residenza del Direttore dei lavori strutturale obbligatoria.
+
+**Dove si trova**: riquadro **"Direttore dei lavori strutturale dell'intero intervento"**, campo **"Residente in"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Provincia di residenza del Direttore dei lavori strutturale obbligatoria.
+
+**Dove si trova**: riquadro **"Direttore dei lavori strutturale dell'intero intervento"**, campo **"Provincia di"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Indirizzo di residenza del Direttore dei lavori strutturale obbligatorio.
+
+**Dove si trova**: riquadro **"Direttore dei lavori strutturale dell'intero intervento"**, campo **"Via"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Numero civico di residenza del Direttore dei lavori strutturale obbligatorio.
+
+**Dove si trova**: riquadro **"Direttore dei lavori strutturale dell'intero intervento"**, campo **"n. (accanto a Via)"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Iscrizione all'Albo del Direttore dei lavori strutturale obbligatoria.
+
+**Dove si trova**: riquadro **"Direttore dei lavori strutturale dell'intero intervento"**, campo **"Iscritto all'Albo degli"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Provincia di iscrizione all'Albo del Direttore dei lavori strutturale obbligatoria.
+
+**Dove si trova**: riquadro **"Direttore dei lavori strutturale dell'intero intervento"**, campo **"della provincia di (dopo l'Albo)"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Numero di iscrizione all'Albo del Direttore dei lavori strutturale obbligatorio.
+
+**Dove si trova**: riquadro **"Direttore dei lavori strutturale dell'intero intervento"**, campo **"al n."**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! PEC del Direttore dei lavori strutturale obbligatoria.
+
+**Dove si trova**: riquadro **"Direttore dei lavori strutturale dell'intero intervento"**, campo **"PEC"**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Telefono del Direttore dei lavori strutturale obbligatorio.
+
+**Dove si trova**: riquadro **"Direttore dei lavori strutturale dell'intero intervento"**, campo **"tel. n."**.
+
+**Soluzione**: compila il campo e ripeti **Valida e Salva**.
+
+---
 
 {: .note }
 > Il **Geologo** (GE, scheda 5) e il **Collaudatore in corso d'opera** (CL, scheda 6) sono completamente **non validati** — nessun campo è obbligatorio. Compilare facoltativamente se richiesti dall'intervento.
@@ -364,9 +580,9 @@ Seguire le stesse istruzioni della sezione 7 compilando i campi corrispondenti p
 - [ ] Spunta almeno una delle **4 tipologie di intervento** NTC (nuova costruzione / miglioramento / adeguamento / locale)
 - [ ] Seleziona la **tipologia di denuncia** (d_1 nuovo deposito / d_2 variante → se d_2: numero aut., n.prot., data prot. GG/MM/AAAA)
 - [ ] Spunta almeno una delle **35 checkbox del dettaglio** (minore rilevanza o privo di rilevanza)
-- [ ] Compila tutti i **11 campi del Progettista architettonico** (PR): cognome, nome, CF, città, prov, indirizzo, n.civico, albo, prov.albo, n.albo, PEC, tel
-- [ ] Compila tutti i **11 campi del Progettista strutturale** (PS): stessi 11 campi
-- [ ] Compila tutti i **11 campi del Direttore lavori strutturale** (DR): stessi 11 campi
+- [ ] Compila tutti i **12 campi del Progettista architettonico** (PR): cognome, nome, CF, città, prov, indirizzo, n.civico, albo, prov.albo, n.albo, PEC, tel
+- [ ] Compila tutti i **12 campi del Progettista strutturale** (PS): stessi 12 campi
+- [ ] Compila tutti i **12 campi del Direttore lavori strutturale** (DR): stessi 12 campi
 
 ### Sezioni presenti ma non validate ℹ️
 
@@ -374,13 +590,13 @@ L'Impresa costruttrice strutture prefabbricate (ICP), il Progettista strutture p
 
 ### Ordine di validazione ⚠️
 
-IC (9 campi) → Descrizione → Localizzazione → Tipologia intervento → Tipologia denuncia → Dettaglio intervento → PR (11 campi) → PS (11 campi) → DR (11 campi)
+IC (9 campi) → Descrizione → Localizzazione → Tipologia intervento → Tipologia denuncia → Dettaglio intervento → PR (12 campi) → PS (12 campi) → DR (12 campi)
 
 ### Errori frequenti 🔍
 
 1. **"Inidirizzo" con doppia 'i'** → refuso nel messaggio del codice sorgente; riguarda l'indirizzo della sede dell'impresa IC
 2. **Dettaglio senza checkbox** → la sezione ha 35 opzioni su 4 categorie; bisogna spuntarne almeno una coerente con la zona sismica e il tipo di opera
-3. **Campi professionali incompleti** → ciascuna delle 3 figure obbligatorie (PR, PS, DR) richiede 11 campi; il validatore si ferma al primo mancante
+3. **Campi professionali incompleti** → ciascuna delle 3 figure obbligatorie (PR, PS, DR) richiede 12 campi; il validatore si ferma al primo mancante
 4. **d_2 senza dati autorizzazione** → se si sceglie "variante", tutti e 3 i campi (n.aut., n.prot., data prot.) sono obbligatori; la data deve essere in formato GG/MM/AAAA
 
 ---

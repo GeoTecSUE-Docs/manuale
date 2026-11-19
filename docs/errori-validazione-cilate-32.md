@@ -93,7 +93,15 @@ Questa sezione è la più articolata dell'intera pratica. Contiene **5 scenari a
 
 ---
 
-#### ATTENZIONE! Specificare data della pratica. / ATTENZIONE! Inserire la data nel formato gg/mm/aaaa.
+#### ATTENZIONE! Specificare data della pratica.
+
+**Causa**: Hai spuntato uno dei checkbox 1–8 ma il campo **"del"** (data) è vuoto oppure contiene una data in formato non valido.
+
+**Soluzione**: Inserisci la data nel campo **"del"** accanto al numero, nel formato **GG/MM/AAAA** (es. `15/03/2010`). Puoi usare l'icona calendario.
+
+---
+
+#### ATTENZIONE! Inserire la data nel formato gg/mm/aaaa.
 
 **Causa**: Hai spuntato uno dei checkbox 1–8 ma il campo **"del"** (data) è vuoto oppure contiene una data in formato non valido.
 
@@ -142,7 +150,15 @@ Per ciascuna sottoscelta spuntata sono richiesti numero e data con le stesse reg
 
 ---
 
-#### ATTENZIONE! Specificare numero della copia accatastamento. / ATTENZIONE! Specificare data della copia accatastamento.
+#### ATTENZIONE! Specificare numero della copia accatastamento.
+
+**Causa**: Hai spuntato il checkbox "copia accatastamento di primo impianto" nello Scenario 2 ma non hai compilato numero e/o data.
+
+**Soluzione**: Inserisci il numero e la data dell'accatastamento di primo impianto nei campi **"n."** e **"del"** accanto al checkbox.
+
+---
+
+#### ATTENZIONE! Specificare data della copia accatastamento.
 
 **Causa**: Hai spuntato il checkbox "copia accatastamento di primo impianto" nello Scenario 2 ma non hai compilato numero e/o data.
 
@@ -162,7 +178,15 @@ Per ciascuna sottoscelta spuntata sono richiesti numero e data con le stesse reg
 
 ---
 
-#### ATTENZIONE! Specificare numero della copia accatastamento. / ATTENZIONE! Specificare data della copia accatastamento.
+#### ATTENZIONE! Specificare numero della copia accatastamento.
+
+**Causa**: Hai spuntato il checkbox "copia accatastamento" nello Scenario 3 ma non hai compilato numero e/o data.
+
+**Soluzione**: Inserisci numero e data nei campi **"n."** e **"del"** accanto al checkbox.
+
+---
+
+#### ATTENZIONE! Specificare data della copia accatastamento.
 
 **Causa**: Hai spuntato il checkbox "copia accatastamento" nello Scenario 3 ma non hai compilato numero e/o data.
 
@@ -190,7 +214,15 @@ Per ciascuna sottoscelta spuntata sono richiesti numero e data con le stesse reg
 
 ---
 
-#### ATTENZIONE! Specificare data del pagamento della sanzione pecuniaria. / ATTENZIONE! Inserire la data nel formato gg/mm/aaaa.
+#### ATTENZIONE! Specificare data del pagamento della sanzione pecuniaria.
+
+**Causa**: Il campo della data di irrogazione della sanzione è vuoto o in formato errato.
+
+**Soluzione**: Inserisci la data nel formato **GG/MM/AAAA** nel campo **"irrogata in data"**.
+
+---
+
+#### ATTENZIONE! Inserire la data nel formato gg/mm/aaaa.
 
 **Causa**: Il campo della data di irrogazione della sanzione è vuoto o in formato errato.
 
@@ -206,7 +238,15 @@ Per ciascuna sottoscelta spuntata sono richiesti numero e data con le stesse reg
 
 ---
 
-#### ATTENZIONE! Specificare data di protocollo della sanzione pecuniaria. / ATTENZIONE! Inserire la data nel formato gg/mm/aaaa.
+#### ATTENZIONE! Specificare data di protocollo della sanzione pecuniaria.
+
+**Causa**: Il campo **"del"** accanto al numero di protocollo è vuoto o in formato errato.
+
+**Soluzione**: Inserisci la data di protocollo nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE! Inserire la data nel formato gg/mm/aaaa.
 
 **Causa**: Il campo **"del"** accanto al numero di protocollo è vuoto o in formato errato.
 
@@ -226,7 +266,7 @@ Per ciascuna sottoscelta spuntata sono richiesti numero e data con le stesse reg
 
 ---
 
-#### ATTENZIONE! Specificare numero di protocollo della pratica edilizia. / ATTENZIONE! Specificare data di protocollo della pratica edilizia.
+#### ATTENZIONE! Specificare numero di protocollo della pratica edilizia.
 
 **Causa**: Hai spuntato il primo checkbox dello Scenario 5 ma non hai compilato numero e/o data del protocollo.
 
@@ -234,7 +274,23 @@ Per ciascuna sottoscelta spuntata sono richiesti numero e data con le stesse reg
 
 ---
 
-#### ATTENZIONE! Specificare numero dell'atto di registrazione. / ATTENZIONE! Specificare data dell'atto di registrazione.
+#### ATTENZIONE! Specificare data di protocollo della pratica edilizia.
+
+**Causa**: Hai spuntato il primo checkbox dello Scenario 5 ma non hai compilato numero e/o data del protocollo.
+
+**Soluzione**: Inserisci il numero e la data di protocollo della pratica edilizia originaria nei campi **"n."** e **"del"**.
+
+---
+
+#### ATTENZIONE! Specificare numero dell'atto di registrazione.
+
+**Causa**: Hai spuntato il secondo checkbox dello Scenario 5 ma non hai compilato numero e/o data dell'atto di registrazione.
+
+**Soluzione**: Inserisci il numero e la data dell'atto di registrazione nei campi **"n."** e **"del"**.
+
+---
+
+#### ATTENZIONE! Specificare data dell'atto di registrazione.
 
 **Causa**: Hai spuntato il secondo checkbox dello Scenario 5 ma non hai compilato numero e/o data dell'atto di registrazione.
 
@@ -317,7 +373,17 @@ Per ciascuna sottoscelta spuntata sono richiesti numero e data con le stesse reg
 
 ## 4. Data e luogo di sottoscrizione
 
-### ATTENZIONE ! Inserire la data. / ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.
+### ATTENZIONE ! Inserire la data.
+
+**Dove si trova**: Riquadro **"Attenzione"** in fondo alla parte dichiarativa → campo **"data"**
+
+**Causa**: Il campo data di sottoscrizione è vuoto oppure contiene una data in formato non valido.
+
+**Soluzione**: Inserisci la data di sottoscrizione della comunicazione nel formato **GG/MM/AAAA**. A differenza di altre pratiche, questa data è **validata nel formato** (controllo `ControlloFormatoData`).
+
+---
+
+### ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.
 
 **Dove si trova**: Riquadro **"Attenzione"** in fondo alla parte dichiarativa → campo **"data"**
 

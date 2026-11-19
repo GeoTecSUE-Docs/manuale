@@ -424,15 +424,29 @@ Questa sezione contiene due blocchi di radio button con logica condizionale indi
 
 **Dove si trova**: Sezione **"Dichiarazioni"** → checkbox **"Informa infine che i lavori già realizzati sul fabbricato in oggetto... sono stati denunciati"**
 
-Se spunti questa checkbox, diventano obbligatori tre campi aggiuntivi:
+Se spunti questa voce, diventano obbligatori tre campi aggiuntivi:
 
-| Campo | Messaggio di errore se vuoto |
-|---|---|
-| `txtUfficio` — "all'ufficio" | `ATTENZIONE ! Inserire l'ufficio.` |
-| `txtNumero` — "al prot." | `ATTENZIONE ! Inserire il numero.` |
-| `txtData` — "del" (data protocollo) | `ATTENZIONE ! Inserire la data.` |
+#### ATTENZIONE ! Inserire l'ufficio. *(lavori già realizzati)*
 
-**Soluzione**: Compila i tre campi con l'ufficio destinatario, il numero di protocollo e la data della denuncia precedente.
+**Dove si trova**: campo **"all'ufficio"**, sotto la voce "Informa infine che i lavori già realizzati …".
+
+**Soluzione**: indica l'ufficio a cui sono stati denunciati i lavori e ripeti **Valida e Salva**.
+
+---
+
+#### ATTENZIONE ! Inserire il numero. *(lavori già realizzati)*
+
+**Dove si trova**: campo **"al prot."**, sotto la stessa voce.
+
+**Soluzione**: inserisci il numero di protocollo della denuncia precedente e ripeti **Valida e Salva**.
+
+---
+
+#### ATTENZIONE ! Inserire la data. *(lavori già realizzati)*
+
+**Dove si trova**: campo **"del"**, sotto la stessa voce.
+
+**Soluzione**: inserisci la data del protocollo nel formato gg/mm/aaaa e ripeti **Valida e Salva**.
 
 ---
 

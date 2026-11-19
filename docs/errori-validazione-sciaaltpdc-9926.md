@@ -190,7 +190,169 @@ Guida completa agli errori specifici per la **Segnalazione Certificata di Inizio
 - ⚪ **g_5** — "è stato oggetto della/e dichiarazione/i di tolleranza costruttiva (art. 34-bis o 34-ter, c. 4)" → almeno una delle 2 checkbox con n. e data ciascuna
 
 {: .note }
-> Come la SCIA alt PdC Liguria, la versione Nazionale **non ha l'opzione g_7** ("nuova costruzione su area libera") presente nel PdC Nazionale. La sezione si applica sempre a interventi su immobili esistenti. La logica di validazione delle sotto-selezioni è identica a quella del PdC Nazionale e della SCIA alt PdC Liguria. Per i dettagli di ogni singolo errore (checkbox 1-13, sotto-checkbox 9, checkbox 10-13 "altro", accatastamento, sanzioni, tolleranze) vedi [Errori PdC Nazionale — sezione 7](errori-validazione-pdc-9915.html#7-regolarità-urbanistica-e-precedenti-edilizi).
+> Come la SCIA alt PdC Liguria, la versione Nazionale **non ha l'opzione g_7** ("nuova costruzione su area libera") presente nel PdC Nazionale. La sezione si applica sempre a interventi su immobili esistenti. La logica di validazione delle sotto-selezioni è identica a quella del PdC Nazionale e della SCIA alt PdC Liguria. I singoli errori di ciascuna opzione sono descritti qui sotto.
+
+---
+
+### ATTENZIONE! Indicare almeno una tipologia di pratica.
+
+**Dove si trova**: sezione "Regolarità urbanistica e precedenti edilizi", opzione **"che l'immobile/U.I. è stato oggetto del/i seguente/i titolo/i o pratica/che edilizie"**.
+
+**Causa**: hai scelto questa opzione ma non hai spuntato nessun titolo.
+
+**Soluzione**: spunta almeno uno dei titoli elencati (titolo unico (SUAP), permesso di costruire / licenza edil. / concessione edilizia, autorizzazione edilizia, comunicazione edilizia, denuncia di inizio attività, DIA/SCIA alternativa al permesso di costruire, segnalazione certificata di inizio attività, comunicazione edilizia libera, titolo edilizio in sanatoria, altro) e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE! Specificare numero della pratica.
+
+**Dove si trova**: campo **"n."** accanto al titolo spuntato (anche le voci del titolo in sanatoria e le voci "altro").
+
+**Soluzione**: inserisci il numero del titolo o della pratica e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE! Specificare data della pratica.
+
+**Dove si trova**: campo **"del"** accanto al titolo spuntato (anche le voci del titolo in sanatoria e le voci "altro").
+
+**Soluzione**: inserisci la data nel formato gg/mm/aaaa e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE! Indicare almeno una tipologia di pratica come 'titolo edilizio in sanatoria con il pagamento della relativa oblazione'.
+
+**Dove si trova**: voce **"titolo edilizio in sanatoria con il pagamento della relativa oblazione ed in particolare:"**.
+
+**Causa**: hai spuntato il titolo in sanatoria ma non hai indicato di quale si tratta.
+
+**Soluzione**: spunta almeno una tra **condono edilizio**, **permesso di costruire in sanatoria di cui agli artt. 36 o 36-bis**, **SCIA in sanatoria di cui all'art. 36-bis**, **SCIA in sanatoria per variante in corso d'opera … prima della L. 10/1977**; compila numero e data e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE! Specificare tipologia della pratica.
+
+**Dove si trova**: campo di testo accanto a una voce **"altro"** spuntata.
+
+**Soluzione**: scrivi di che titolo o pratica si tratta, compila numero e data e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE! Indicare almeno un tipo di allegato.
+
+**Dove si trova**: opzioni **"si tratta di immobile realizzato in un'epoca in cui non era obbligatorio un titolo abilitativo e pertanto allega:"** e **"non sono disponibili la copia o gli estremi del titolo abilitativo, ma sussiste un principio di prova documentale … e pertanto si allega:"**.
+
+**Causa**: hai scelto una di queste opzioni ma non hai indicato cosa alleghi.
+
+**Soluzione**: spunta **"copia accatastamento di primo impianto o si forniscono i relativi estremi"** e/o **"altri documenti probanti …"**, poi ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE! Specificare numero della copia accatastamento.
+
+**Dove si trova**: campo **"n."** della voce "copia accatastamento di primo impianto o si forniscono i relativi estremi".
+
+**Soluzione**: inserisci il numero e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE! Specificare data della copia accatastamento.
+
+**Dove si trova**: campo **"del"** della voce "copia accatastamento di primo impianto o si forniscono i relativi estremi".
+
+**Soluzione**: inserisci la data nel formato gg/mm/aaaa e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE! Indicare almeno una sanzione pecuniaria.
+
+**Dove si trova**: opzione **"che per l'immobile/U.I. sono state irrogate le seguenti sanzioni pecuniarie …"**.
+
+**Causa**: hai scelto questa opzione ma non hai indicato come documenti il pagamento.
+
+**Soluzione**: spunta **"si allega la relativa ricevuta"** oppure **"si forniscono gli estremi del pagamento"** (in questo caso compila importo, data e protocollo) e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE! Specificare importo della sanzione pecuniaria.
+
+**Dove si trova**: campo **"€"** della voce "si forniscono gli estremi del pagamento".
+
+**Soluzione**: inserisci l'importo pagato e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE! Specificare data del pagamento della sanzione pecuniaria.
+
+**Dove si trova**: campo **"irrogata in data"** della voce "si forniscono gli estremi del pagamento".
+
+**Soluzione**: inserisci la data nel formato gg/mm/aaaa e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE! Specificare numero di protocollo della sanzione pecuniaria.
+
+**Dove si trova**: campo **"Prot. n."** della voce "si forniscono gli estremi del pagamento".
+
+**Soluzione**: inserisci il numero di protocollo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE! Specificare data di protocollo della sanzione pecuniaria.
+
+**Dove si trova**: campo **"del"** dopo "Prot. n." nella voce "si forniscono gli estremi del pagamento".
+
+**Soluzione**: inserisci la data nel formato gg/mm/aaaa e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE! Indicare almeno una dichiarazione di tolleranza costruttiva.
+
+**Dove si trova**: opzione **"che l'immobile/U.I. è stato oggetto della/e seguente/i dichiarazione/i di tolleranza/e costruttiva/e …"**.
+
+**Causa**: hai scelto questa opzione ma non hai indicato la dichiarazione.
+
+**Soluzione**: spunta almeno una tra la dichiarazione **"presentata nella modulistica relativa alla pratica edilizia prot."** e quella **"allegata agli atti … atto di registrazione"**, compila numero e data e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE! Specificare numero di protocollo della pratica edilizia.
+
+**Dove si trova**: campo **"n."** della dichiarazione "presentata nella modulistica relativa alla pratica edilizia prot.".
+
+**Soluzione**: inserisci il numero di protocollo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE! Specificare data di protocollo della pratica edilizia.
+
+**Dove si trova**: campo **"del"** della dichiarazione "presentata nella modulistica relativa alla pratica edilizia prot.".
+
+**Soluzione**: inserisci la data nel formato gg/mm/aaaa e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE! Specificare numero dell'atto di registrazione.
+
+**Dove si trova**: campo **"n."** della dichiarazione "allegata agli atti … atto di registrazione".
+
+**Soluzione**: inserisci il numero dell'atto e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE! Specificare data dell'atto di registrazione.
+
+**Dove si trova**: campo **"del"** della dichiarazione "allegata agli atti … atto di registrazione".
+
+**Soluzione**: inserisci la data nel formato gg/mm/aaaa e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE! Inserire la data nel formato gg/mm/aaaa.
+
+**Dove si trova**: uno dei campi data di questa sezione (date dei titoli, della copia accatastamento, della sanzione, dei protocolli e degli atti).
+
+**Soluzione**: correggi la data scrivendola come gg/mm/aaaa (es. 05/03/2019) e ripeti **Valida e Salva**.
 
 ---
 
@@ -272,27 +434,27 @@ Guida completa agli errori specifici per la **Segnalazione Certificata di Inizio
 
 ### ATTENZIONE ! Non è stata selezionata nessuna voce per 'Documentazione Imprese Esecutrici'.
 
-**Causa**: Hai selezionato l_2 ma nessuno dei 2 radio button `$ImpEs` è selezionato.
+**Causa**: Hai selezionato l_2 ma non hai scelto nessuna delle due voci.
 
 **Soluzione**: Seleziona **uno dei due radio button**:
 - ⚪ **l_2_1** — "entità presunta del cantiere inferiore a 200 uomini-giorno e lavori senza rischi particolari (Allegato XI)"
-- ⚪ **l_2_2** — "entità presunta del cantiere pari o superiore a 200 uomini-giorno o lavori con rischi particolari" → seleziona il radio notifica
+- ⚪ **l_2_2** — "entità presunta del cantiere pari o superiore a 200 uomini-giorno o lavori con rischi particolari" → indica poi se l'intervento è soggetto a notifica
 
 ---
 
 ### ATTENZIONE ! Non è stata selezionata nessuna voce per 'Notifica preliminare'.
 
-**Causa**: Hai selezionato l_2_2 ma nessuno dei 2 radio button `$Notifica` è selezionato.
+**Causa**: Hai selezionato l_2_2 ma non hai scelto nessuna delle due voci.
 
 **Soluzione**: Seleziona **uno dei due radio button**:
 - ⚪ **l_2_2_1** — "l'intervento non è soggetto all'invio della notifica"
-- ⚪ **l_2_2_2** — "l'intervento è soggetto all'invio della notifica" → seleziona il radio `$Allega`
+- ⚪ **l_2_2_2** — "l'intervento è soggetto all'invio della notifica" → indica poi come comunichi la notifica
 
 ---
 
 ### ATTENZIONE ! Non è stata selezionata nessuna voce per 'Comunicazione/Estremi Notifica'.
 
-**Causa**: Hai selezionato l_2_2_2 ma nessuno dei 2 radio button `$Allega` è selezionato.
+**Causa**: Hai selezionato l_2_2_2 ma non hai scelto nessuna delle due voci.
 
 **Soluzione**: Seleziona **uno dei due radio button**:
 - ⚪ **l_2_2_2_1** — "allega alla presente segnalazione la notifica, il cui contenuto sarà riprodotto su apposita tabella esposta in cantiere"

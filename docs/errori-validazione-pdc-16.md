@@ -124,19 +124,37 @@ Guida completa agli errori specifici per il **Permesso di Costruire** ai sensi d
 
 ---
 
-#### ATTENZIONE ! Inserire N° Pratica titolo unico. / Inserire Data Pratica titolo unico.
+#### ATTENZIONE ! Inserire N° Pratica titolo unico.
 
 **Soluzione**: Inserisci n. pratica e data nel formato **GG/MM/AAAA** nei campi accanto alla checkbox "titolo unico".
 
 ---
 
-#### ATTENZIONE ! Inserire N° Pratica del permesso di costruire. / Inserire Data Pratica del permesso di costruire.
+#### ATTENZIONE ! Inserire Data Pratica titolo unico.
+
+**Soluzione**: Inserisci n. pratica e data nel formato **GG/MM/AAAA** nei campi accanto alla checkbox "titolo unico".
+
+---
+
+#### ATTENZIONE ! Inserire N° Pratica del permesso di costruire.
 
 **Soluzione**: Inserisci n. pratica e data nel formato **GG/MM/AAAA** nei campi accanto alla checkbox "permesso di costruire".
 
 ---
 
-#### ATTENZIONE ! Inserire N° Pratica della denuncia inizio attività. / Inserire Data Pratica della denuncia inizio attività.
+#### ATTENZIONE ! Inserire Data Pratica del permesso di costruire.
+
+**Soluzione**: Inserisci n. pratica e data nel formato **GG/MM/AAAA** nei campi accanto alla checkbox "permesso di costruire".
+
+---
+
+#### ATTENZIONE ! Inserire N° Pratica della denuncia inizio attività.
+
+**Soluzione**: Inserisci n. pratica e data nel formato **GG/MM/AAAA** nei campi accanto alla checkbox "SCIA/DIA alternativa".
+
+---
+
+#### ATTENZIONE ! Inserire Data Pratica della denuncia inizio attività.
 
 **Soluzione**: Inserisci n. pratica e data nel formato **GG/MM/AAAA** nei campi accanto alla checkbox "SCIA/DIA alternativa".
 
@@ -338,7 +356,15 @@ La sezione ha **6 opzioni macro** (g.7 = nuova costruzione, g.1–g.5 = situazio
 
 ---
 
-#### ATTENZIONE! Specificare numero della pratica. / Specificare data della pratica. (g.1, titoli 1–8)
+#### ATTENZIONE! Specificare numero della pratica. (g.1, titoli 1–8)
+
+**Causa**: Hai spuntato una delle checkbox 1–8 ma non hai compilato n. protocollo e/o data.
+
+**Soluzione**: Inserisci n. e data nel formato **GG/MM/AAAA** nei campi accanto alla checkbox spuntata.
+
+---
+
+#### ATTENZIONE! Specificare data della pratica. (g.1, titoli 1–8)
 
 **Causa**: Hai spuntato una delle checkbox 1–8 ma non hai compilato n. protocollo e/o data.
 
@@ -354,7 +380,7 @@ La sezione ha **6 opzioni macro** (g.7 = nuova costruzione, g.1–g.5 = situazio
 
 ---
 
-#### ATTENZIONE! Specificare numero della pratica. / Specificare data della pratica. (g.1, sanatoria, sotto-checkbox 1–4)
+#### ATTENZIONE! Specificare numero della pratica. (g.1, sanatoria, sotto-checkbox 1–4)
 
 **Causa**: Hai spuntato una sotto-checkbox del titolo in sanatoria ma non hai compilato n. e/o data.
 
@@ -362,7 +388,31 @@ La sezione ha **6 opzioni macro** (g.7 = nuova costruzione, g.1–g.5 = situazio
 
 ---
 
-#### ATTENZIONE! Specificare tipologia della pratica. / Specificare numero della pratica. / Specificare data della pratica. (g.1, voci "altro" 10–13)
+#### ATTENZIONE! Specificare data della pratica. (g.1, sanatoria, sotto-checkbox 1–4)
+
+**Causa**: Hai spuntato una sotto-checkbox del titolo in sanatoria ma non hai compilato n. e/o data.
+
+**Soluzione**: Inserisci n. e data nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE! Specificare tipologia della pratica. (g.1, voci "altro" 10–13)
+
+**Causa**: Hai spuntato una delle 4 checkbox "altro" ma non hai compilato uno o più dei tre campi obbligatori (tipologia libera, n. protocollo, data).
+
+**Soluzione**: Compila tutti e tre i campi: descrizione della tipologia nel campo testo, n. protocollo nel campo n., data nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE! Specificare numero della pratica. (g.1, voci "altro" 10–13)
+
+**Causa**: Hai spuntato una delle 4 checkbox "altro" ma non hai compilato uno o più dei tre campi obbligatori (tipologia libera, n. protocollo, data).
+
+**Soluzione**: Compila tutti e tre i campi: descrizione della tipologia nel campo testo, n. protocollo nel campo n., data nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE! Specificare data della pratica. (g.1, voci "altro" 10–13)
 
 **Causa**: Hai spuntato una delle 4 checkbox "altro" ma non hai compilato uno o più dei tre campi obbligatori (tipologia libera, n. protocollo, data).
 
@@ -382,7 +432,15 @@ La sezione ha **6 opzioni macro** (g.7 = nuova costruzione, g.1–g.5 = situazio
 
 ---
 
-#### ATTENZIONE! Specificare numero della copia accatastamento. / Specificare data della copia accatastamento. (g.2)
+#### ATTENZIONE! Specificare numero della copia accatastamento. (g.2)
+
+**Causa**: Hai spuntato la copia accatastamento ma non hai compilato n. e/o data.
+
+**Soluzione**: Inserisci n. e data nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE! Specificare data della copia accatastamento. (g.2)
 
 **Causa**: Hai spuntato la copia accatastamento ma non hai compilato n. e/o data.
 
@@ -446,13 +504,25 @@ La sezione ha **6 opzioni macro** (g.7 = nuova costruzione, g.1–g.5 = situazio
 
 ---
 
-#### ATTENZIONE! Specificare numero di protocollo della pratica edilizia. / Specificare data di protocollo della pratica edilizia.
+#### ATTENZIONE! Specificare numero di protocollo della pratica edilizia.
 
 **Soluzione**: Inserisci n. e data nel formato **GG/MM/AAAA** nei campi della prima checkbox (tolleranza nella modulistica).
 
 ---
 
-#### ATTENZIONE! Specificare numero dell'atto di registrazione. / Specificare data dell'atto di registrazione.
+#### ATTENZIONE! Specificare data di protocollo della pratica edilizia.
+
+**Soluzione**: Inserisci n. e data nel formato **GG/MM/AAAA** nei campi della prima checkbox (tolleranza nella modulistica).
+
+---
+
+#### ATTENZIONE! Specificare numero dell'atto di registrazione.
+
+**Soluzione**: Inserisci n. e data nel formato **GG/MM/AAAA** nei campi della seconda checkbox (tolleranza nell'atto di trasferimento).
+
+---
+
+#### ATTENZIONE! Specificare data dell'atto di registrazione.
 
 **Soluzione**: Inserisci n. e data nel formato **GG/MM/AAAA** nei campi della seconda checkbox (tolleranza nell'atto di trasferimento).
 

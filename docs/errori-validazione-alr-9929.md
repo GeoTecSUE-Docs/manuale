@@ -5,21 +5,21 @@ nav_order: 35
 description: Errori di validazione specifici per la Comunicazione di Inizio Lavori per Attività Libera per la Produzione di Energia da Fonti Rinnovabili (ALR) - Tutte le regioni
 keywords: [attività libera fonti rinnovabili, ALR, D.Lgs. 190/2024, energia rinnovabile, nuova costruzione, impianti esistenti, variante in corso d'opera, comunicazione inizio lavori, data inizio lavori futura, impresa esecutrice, altri atti di assenso]
 IDRegione: 99        # Fallback (Nazionale)
-IDTipoPratica: 9928
+IDTipoPratica: 9929
 IDTarget:
-  - { Reg: 2, Prat: 28 }   # Piemonte - ALR
-  - { Reg: 1, Prat: 128 }   # Valle d'Aosta - ALR
-  - { Reg: 3, Prat: 328 }   # Liguria - ALR
-  - { Reg: 4, Prat: 428 }   # Lombardia - ALR
-  - { Reg: 6, Prat: 628 }   # Veneto - ALR
-  - { Reg: 8, Prat: 828 }   # Emilia-Romagna - ALR
-  - { Reg: 12, Prat: 1228 }  # Lazio - ALR
-  - { Reg: 13, Prat: 1328 }  # Abruzzo - ALR
-  - { Reg: 15, Prat: 1528 }  # Campania - ALR
-  - { Reg: 16, Prat: 1628 }  # Basilicata - ALR
-  - { Reg: 17, Prat: 1728 }  # Puglia - ALR
-  - { Reg: 18, Prat: 1828 }  # Calabria - ALR
-  - { Reg: 19, Prat: 1928 }  # Sicilia - ALR
+  - { Reg: 2, Prat: 29 }   # Piemonte - ALR
+  - { Reg: 1, Prat: 129 }   # Valle d'Aosta - ALR
+  - { Reg: 3, Prat: 329 }   # Liguria - ALR
+  - { Reg: 4, Prat: 429 }   # Lombardia - ALR
+  - { Reg: 6, Prat: 629 }   # Veneto - ALR
+  - { Reg: 8, Prat: 829 }   # Emilia-Romagna - ALR
+  - { Reg: 12, Prat: 1229 }  # Lazio - ALR
+  - { Reg: 13, Prat: 1329 }  # Abruzzo - ALR
+  - { Reg: 15, Prat: 1529 }  # Campania - ALR
+  - { Reg: 16, Prat: 1629 }  # Basilicata - ALR
+  - { Reg: 17, Prat: 1729 }  # Puglia - ALR
+  - { Reg: 18, Prat: 1829 }  # Calabria - ALR
+  - { Reg: 19, Prat: 1929 }  # Sicilia - ALR
 Fonte: Manuale
 ---
 
@@ -286,11 +286,21 @@ Per il tipo selezionato diventano obbligatori **data** (formato GG/MM/AAAA) e **
 
 ### CIL — Comunicazione di Inizio Lavori
 
-#### ATTENZIONE ! Indicare la data della CIL. / ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.
+#### ATTENZIONE ! Indicare la data della CIL.
 
 **Causa**: Hai selezionato CIL ma il campo data è vuoto o in formato non valido.
 
 **Soluzione**: Inserisci la data della CIL nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.
+
+**Causa**: Hai selezionato CIL ma il campo data è vuoto o in formato non valido.
+
+**Soluzione**: Inserisci la data della CIL nel formato **GG/MM/AAAA**.
+
+---
 
 #### ATTENZIONE ! Indicare il numero della CIL.
 
@@ -302,11 +312,21 @@ Per il tipo selezionato diventano obbligatori **data** (formato GG/MM/AAAA) e **
 
 ### CILA — Comunicazione di Inizio Lavori Asseverata
 
-#### ATTENZIONE ! Indicare la data della CILA. / ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.
+#### ATTENZIONE ! Indicare la data della CILA.
 
 **Causa**: Hai selezionato CILA ma il campo data è vuoto o in formato non valido.
 
 **Soluzione**: Inserisci la data della CILA nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.
+
+**Causa**: Hai selezionato CILA ma il campo data è vuoto o in formato non valido.
+
+**Soluzione**: Inserisci la data della CILA nel formato **GG/MM/AAAA**.
+
+---
 
 #### ATTENZIONE ! Indicare il numero della CILA.
 
@@ -318,11 +338,21 @@ Per il tipo selezionato diventano obbligatori **data** (formato GG/MM/AAAA) e **
 
 ### SCIA alternativa al PdC
 
-#### ATTENZIONE ! Indicare la data della SCIA Alternativa al PdC. / ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.
+#### ATTENZIONE ! Indicare la data della SCIA Alternativa al PdC.
 
 **Causa**: Hai selezionato SCIA alternativa al PdC ma il campo data è vuoto o in formato non valido.
 
 **Soluzione**: Inserisci la data nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.
+
+**Causa**: Hai selezionato SCIA alternativa al PdC ma il campo data è vuoto o in formato non valido.
+
+**Soluzione**: Inserisci la data nel formato **GG/MM/AAAA**.
+
+---
 
 #### ATTENZIONE ! Indicare il numero della SCIA Alternativa al PdC.
 
@@ -334,11 +364,21 @@ Per il tipo selezionato diventano obbligatori **data** (formato GG/MM/AAAA) e **
 
 ### PdC — Permesso di Costruire
 
-#### ATTENZIONE ! Indicare la data del PdC. / ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.
+#### ATTENZIONE ! Indicare la data del PdC.
 
 **Causa**: Hai selezionato PdC ma il campo data è vuoto o in formato non valido.
 
 **Soluzione**: Inserisci la data del PdC nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.
+
+**Causa**: Hai selezionato PdC ma il campo data è vuoto o in formato non valido.
+
+**Soluzione**: Inserisci la data del PdC nel formato **GG/MM/AAAA**.
+
+---
 
 #### ATTENZIONE ! Indicare il numero del PdC.
 
@@ -350,7 +390,17 @@ Per il tipo selezionato diventano obbligatori **data** (formato GG/MM/AAAA) e **
 
 ## 7. Data e luogo
 
-### ATTENZIONE ! Inserire la data. / ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.
+### ATTENZIONE ! Inserire la data.
+
+**Dove si trova**: Riquadro in fondo al modulo → campo Data
+
+**Causa**: Il campo data di sottoscrizione è vuoto oppure in formato non valido.
+
+**Soluzione**: Inserisci la data nel formato **GG/MM/AAAA**. Puoi usare l'icona calendario.
+
+---
+
+### ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.
 
 **Dove si trova**: Riquadro in fondo al modulo → campo Data
 

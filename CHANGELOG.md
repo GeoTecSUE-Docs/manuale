@@ -6,6 +6,15 @@ permalink: /changelog/
 
 # Changelog - Manuale utente GeoTecSUE
 
+## [1.23] - 18/11/2026
+- Rilasciata la versione 1.23 del manuale: revisione degli errori di validazione rispetto al portale
+
+### Modifiche
+- Errori di validazione: aggiunti i messaggi mancanti per SCIA alternativa al PdC (Tutte le regioni e Liguria), SCIA (Tutte le regioni), PdC Lombardia, Denuncia sismica DS-A Veneto, SCIA alternativa al PdC Lombardia
+- Errori di validazione: le pagine che rimandavano ad altre pratiche ora descrivono direttamente i propri errori
+- Errori di validazione: ogni messaggio ha ora un proprio titolo (divisi i titoli che raggruppavano più messaggi)
+- Errori di validazione: corretti gli identificativi pratica di Attività Libera Fonti Rinnovabili e PdC (Tutte le regioni)
+
 ## [1.22] - 30/09/2026
 - Rilasciata la versione 1.22 del manuale
 

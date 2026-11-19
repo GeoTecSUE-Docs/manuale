@@ -73,7 +73,15 @@ La sezione "Titolarità" contiene 4 checkbox principali per i titoli edilizi (Pd
 
 ---
 
-#### ATTENZIONE ! Inserire la data. / Inserire la data nel formato gg/mm/aaaa. (PdC variante)
+#### ATTENZIONE ! Inserire la data. (PdC variante)
+
+**Causa**: `chkPdCVar` è spuntata ma `txtDataPdCVar` è vuoto o nel formato errato.
+
+**Soluzione**: Inserisci la data della variante nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa. (PdC variante)
 
 **Causa**: `chkPdCVar` è spuntata ma `txtDataPdCVar` è vuoto o nel formato errato.
 
@@ -83,7 +91,7 @@ La sezione "Titolarità" contiene 4 checkbox principali per i titoli edilizi (Pd
 
 ### Denuncia di Inizio Attività (chkDIA1)
 
-#### ATTENZIONE ! Inserire il numero. / Inserire la data. / Inserire la data nel formato gg/mm/aaaa. (DIA)
+#### ATTENZIONE ! Inserire il numero. (DIA)
 
 **Causa**: `chkDIA1` è spuntata ma mancano numero o data.
 
@@ -91,7 +99,39 @@ La sezione "Titolarità" contiene 4 checkbox principali per i titoli edilizi (Pd
 
 ---
 
-#### ATTENZIONE ! Inserire il numero. / Inserire la data. / Inserire la data nel formato gg/mm/aaaa. (DIA variante)
+#### ATTENZIONE ! Inserire la data. (DIA)
+
+**Causa**: `chkDIA1` è spuntata ma mancano numero o data.
+
+**Soluzione**: Compila il numero nel campo "n." e la data nel formato **GG/MM/AAAA** della D.I.A.
+
+---
+
+#### ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa. (DIA)
+
+**Causa**: `chkDIA1` è spuntata ma mancano numero o data.
+
+**Soluzione**: Compila il numero nel campo "n." e la data nel formato **GG/MM/AAAA** della D.I.A.
+
+---
+
+#### ATTENZIONE ! Inserire il numero. (DIA variante)
+
+**Causa**: `chkDIA1` è compilata e `chkDIAVar` è spuntata ma mancano numero o data della variante.
+
+**Soluzione**: Compila numero e data (GG/MM/AAAA) della D.I.A. varianti in corso d'opera.
+
+---
+
+#### ATTENZIONE ! Inserire la data. (DIA variante)
+
+**Causa**: `chkDIA1` è compilata e `chkDIAVar` è spuntata ma mancano numero o data della variante.
+
+**Soluzione**: Compila numero e data (GG/MM/AAAA) della D.I.A. varianti in corso d'opera.
+
+---
+
+#### ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa. (DIA variante)
 
 **Causa**: `chkDIA1` è compilata e `chkDIAVar` è spuntata ma mancano numero o data della variante.
 
@@ -101,7 +141,7 @@ La sezione "Titolarità" contiene 4 checkbox principali per i titoli edilizi (Pd
 
 ### S.C.I.A. (chkSCIA1)
 
-#### ATTENZIONE ! Inserire il numero. / Inserire la data. / Inserire la data nel formato gg/mm/aaaa. (SCIA)
+#### ATTENZIONE ! Inserire il numero. (SCIA)
 
 **Causa**: `chkSCIA1` è spuntata ma mancano numero o data.
 
@@ -109,7 +149,39 @@ La sezione "Titolarità" contiene 4 checkbox principali per i titoli edilizi (Pd
 
 ---
 
-#### ATTENZIONE ! Inserire il numero. / Inserire la data. / Inserire la data nel formato gg/mm/aaaa. (SCIA variante)
+#### ATTENZIONE ! Inserire la data. (SCIA)
+
+**Causa**: `chkSCIA1` è spuntata ma mancano numero o data.
+
+**Soluzione**: Compila il numero e la data (GG/MM/AAAA) della S.C.I.A.
+
+---
+
+#### ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa. (SCIA)
+
+**Causa**: `chkSCIA1` è spuntata ma mancano numero o data.
+
+**Soluzione**: Compila il numero e la data (GG/MM/AAAA) della S.C.I.A.
+
+---
+
+#### ATTENZIONE ! Inserire il numero. (SCIA variante)
+
+**Causa**: `chkSCIA1` è compilata e `chkSCIAVar` è spuntata ma mancano numero o data.
+
+**Soluzione**: Compila numero e data (GG/MM/AAAA) della S.C.I.A. varianti in corso d'opera.
+
+---
+
+#### ATTENZIONE ! Inserire la data. (SCIA variante)
+
+**Causa**: `chkSCIA1` è compilata e `chkSCIAVar` è spuntata ma mancano numero o data.
+
+**Soluzione**: Compila numero e data (GG/MM/AAAA) della S.C.I.A. varianti in corso d'opera.
+
+---
+
+#### ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa. (SCIA variante)
 
 **Causa**: `chkSCIA1` è compilata e `chkSCIAVar` è spuntata ma mancano numero o data.
 
@@ -119,7 +191,7 @@ La sezione "Titolarità" contiene 4 checkbox principali per i titoli edilizi (Pd
 
 ### C.I.L.A. (chkCILA1)
 
-#### ATTENZIONE ! Inserire il numero. / Inserire la data. / Inserire la data nel formato gg/mm/aaaa. (CILA)
+#### ATTENZIONE ! Inserire il numero. (CILA)
 
 **Causa**: `chkCILA1` è spuntata ma mancano numero o data.
 
@@ -127,7 +199,45 @@ La sezione "Titolarità" contiene 4 checkbox principali per i titoli edilizi (Pd
 
 ---
 
-#### ATTENZIONE ! Inserire il numero. / Inserire la data. / Inserire la data nel formato gg/mm/aaaa. (CILA variante)
+#### ATTENZIONE ! Inserire la data. (CILA)
+
+**Causa**: `chkCILA1` è spuntata ma mancano numero o data.
+
+**Soluzione**: Compila il numero e la data (GG/MM/AAAA) della C.I.L.A.
+
+---
+
+#### ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa. (CILA)
+
+**Causa**: `chkCILA1` è spuntata ma mancano numero o data.
+
+**Soluzione**: Compila il numero e la data (GG/MM/AAAA) della C.I.L.A.
+
+---
+
+#### ATTENZIONE ! Inserire il numero. (CILA variante)
+
+**Causa**: `chkCILA1` è compilata e `chkCILAVar` è spuntata ma mancano numero o data.
+
+**Soluzione**: Compila numero e data (GG/MM/AAAA) della C.I.L.A. varianti in corso d'opera.
+
+{: .note }
+> Il messaggio "ATTENZIONE ! Inserire il numero." e "ATTENZIONE ! Inserire la data." sono identici per tutti i titoli e le varianti — il sistema si ferma al primo campo mancante e non indica quale titolo specifico è incompleto. Verificare sistematicamente tutte le checkbox spuntate.
+
+---
+
+#### ATTENZIONE ! Inserire la data. (CILA variante)
+
+**Causa**: `chkCILA1` è compilata e `chkCILAVar` è spuntata ma mancano numero o data.
+
+**Soluzione**: Compila numero e data (GG/MM/AAAA) della C.I.L.A. varianti in corso d'opera.
+
+{: .note }
+> Il messaggio "ATTENZIONE ! Inserire il numero." e "ATTENZIONE ! Inserire la data." sono identici per tutti i titoli e le varianti — il sistema si ferma al primo campo mancante e non indica quale titolo specifico è incompleto. Verificare sistematicamente tutte le checkbox spuntate.
+
+---
+
+#### ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa. (CILA variante)
 
 **Causa**: `chkCILA1` è compilata e `chkCILAVar` è spuntata ma mancano numero o data.
 
