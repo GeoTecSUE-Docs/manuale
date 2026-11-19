@@ -328,7 +328,15 @@ Gli stessi controlli di x.2 si applicano a x.3, con importi diversi (â‚¬ 1.032â€
 
 **Soluzione**: Riscrivi nel formato **GG/MM/AAAA**.
 
-#### ATTENZIONE ! Specificare l'importo del pagamento. / Specificare la data del pagamento. (oblazione x.4)
+#### ATTENZIONE ! Specificare l'importo del pagamento. (oblazione x.4)
+
+**Causa**: Spuntata la checkbox "si forniscono gli estremi di versamento" (x.4) ma importo o data mancanti.
+
+**Soluzione**: Inserisci importo in euro e data del pagamento nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE ! Specificare la data del pagamento. (oblazione x.4)
 
 **Causa**: Spuntata la checkbox "si forniscono gli estremi di versamento" (x.4) ma importo o data mancanti.
 
@@ -565,7 +573,7 @@ Stessi controlli di g.2 (almeno un allegato, numero e data se "copia accatastame
 
 ---
 
-#### ATTENZIONE! Specificare numero di protocollo della pratica edilizia. / Specificare data di protocollo della pratica edilizia.
+#### ATTENZIONE! Specificare numero di protocollo della pratica edilizia.
 
 **Causa**: Spuntata la prima checkbox di g.5 ma numero o data mancanti.
 
@@ -573,7 +581,23 @@ Stessi controlli di g.2 (almeno un allegato, numero e data se "copia accatastame
 
 ---
 
-#### ATTENZIONE! Specificare numero dell'atto di registrazione. / Specificare data dell'atto di registrazione.
+#### ATTENZIONE! Specificare data di protocollo della pratica edilizia.
+
+**Causa**: Spuntata la prima checkbox di g.5 ma numero o data mancanti.
+
+**Soluzione**: Inserisci il numero nel campo **"n."** e la data nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE! Specificare numero dell'atto di registrazione.
+
+**Causa**: Spuntata la seconda checkbox di g.5 ma numero o data dell'atto mancanti.
+
+**Soluzione**: Inserisci il numero e la data dell'atto di registrazione nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE! Specificare data dell'atto di registrazione.
 
 **Causa**: Spuntata la seconda checkbox di g.5 ma numero o data dell'atto mancanti.
 

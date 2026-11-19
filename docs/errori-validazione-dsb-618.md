@@ -230,7 +230,15 @@ Questa sezione richiede i dati completi del Legale Rappresentante e della sede l
 
 ---
 
-### ATTENZIONE ! Inserire la data del protocollo dell'autorizzazione sismica. / ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.
+### ATTENZIONE ! Inserire la data del protocollo dell'autorizzazione sismica.
+
+**Causa**: Il campo data del protocollo è vuoto oppure in formato non valido.
+
+**Soluzione**: Inserisci la data nel campo **"del"** nel formato **GG/MM/AAAA** (es. `15/03/2023`). Puoi usare l'icona calendario.
+
+---
+
+### ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.
 
 **Causa**: Il campo data del protocollo è vuoto oppure in formato non valido.
 

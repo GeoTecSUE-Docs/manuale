@@ -112,7 +112,7 @@ La qualificazione indica la tipologia di intervento edilizio. Ogni opzione princ
 
 ### Qualificazioni c.1, c.2, c.3 — sotto-opzioni mutamento d'uso
 
-#### ATTENZIONE ! Non è stata selezionata nessuna voce per 'Intervento di manutenzione straordinaria' (oppure restauro / ristrutturazione)
+#### ATTENZIONE ! Non è stata selezionata nessuna voce per 'Intervento di manutenzione straordinaria'
 
 **Dove si trova**: 4 radio button sotto c.1 (o c.2 / c.3), con il testo "a tal fine si specifica che l'intervento"
 
@@ -123,6 +123,22 @@ La qualificazione indica la tipologia di intervento edilizio. Ogni opzione princ
 - ⚪ **comporta mutamento** all'interno della stessa categoria funzionale (singola UI)
 - ⚪ **comporta mutamento tra categorie funzionali** (singola UI in zone A/B/C, art. 23-ter c. 1 lett. a/a-bis/b/c)
 - ⚪ **comporta mutamento** di intero immobile all'interno della stessa categoria (art. 23-ter c. 3)
+
+---
+
+#### ATTENZIONE ! Non è stata selezionata nessuna voce per 'Intervento di manutenzione restauro e risanamento conservativo'
+
+**Dove si trova**: le stesse quattro voci "a tal fine si specifica che l'intervento", sotto la qualificazione **c.2** (restauro e risanamento conservativo).
+
+**Soluzione**: scegli una delle quattro voci sul mutamento di destinazione d'uso (vedi l'errore precedente) e ripeti **Valida e Salva**.
+
+---
+
+#### ATTENZIONE ! Non è stata selezionata nessuna voce per 'Intervento di ristrutturazione edilizia'
+
+**Dove si trova**: le stesse quattro voci "a tal fine si specifica che l'intervento", sotto la qualificazione **c.3** (ristrutturazione edilizia).
+
+**Soluzione**: scegli una delle quattro voci sul mutamento di destinazione d'uso (vedi l'errore precedente) e ripeti **Valida e Salva**.
 
 ---
 
@@ -237,7 +253,15 @@ La sezione sanatoria è attivata dalla checkbox **"che la presente segnalazione 
 
 ---
 
-#### ATTENZIONE ! Specificare l'importo del pagamento. / Specificare la data del pagamento. (x.2)
+#### ATTENZIONE ! Specificare l'importo del pagamento. (x.2)
+
+**Causa**: Hai spuntato una delle checkbox di pagamento ma non hai compilato tutti i campi.
+
+**Soluzione**: Inserisci l'importo in € e la data nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE ! Specificare la data del pagamento. (x.2)
 
 **Causa**: Hai spuntato una delle checkbox di pagamento ma non hai compilato tutti i campi.
 
@@ -263,7 +287,7 @@ La logica di x.3 è identica a x.2 (data di realizzazione + almeno una checkbox 
 
 ---
 
-#### ATTENZIONE ! Specificare il numero del titolo edilizio. / Specificare la data del titolo edilizio. (x.4)
+#### ATTENZIONE ! Specificare il numero del titolo edilizio. (x.4)
 
 **Causa**: Hai spuntato "si indicano gli estremi" ma non hai compilato tutti i campi.
 
@@ -271,7 +295,23 @@ La logica di x.3 è identica a x.2 (data di realizzazione + almeno una checkbox 
 
 ---
 
-#### ATTENZIONE ! Specificare l'importo del pagamento. / Specificare la data del pagamento. (x.4 — pagamento oblazione)
+#### ATTENZIONE ! Specificare la data del titolo edilizio. (x.4)
+
+**Causa**: Hai spuntato "si indicano gli estremi" ma non hai compilato tutti i campi.
+
+**Soluzione**: Inserisci numero e data del titolo edilizio variato nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE ! Specificare l'importo del pagamento. (x.4 — pagamento oblazione)
+
+**Causa**: Hai spuntato la checkbox di versamento oblazione ma non hai compilato tutti i campi.
+
+**Soluzione**: Inserisci l'importo in € e la data nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE ! Specificare la data del pagamento. (x.4 — pagamento oblazione)
 
 **Causa**: Hai spuntato la checkbox di versamento oblazione ma non hai compilato tutti i campi.
 
@@ -387,7 +427,15 @@ Questa sezione è la più complessa dell'intero modulo. Richiede la selezione di
 
 ---
 
-#### ATTENZIONE! Specificare numero della pratica. / Specificare data della pratica. (g.1, checkbox 1–8)
+#### ATTENZIONE! Specificare numero della pratica. (g.1, checkbox 1–8)
+
+**Causa**: Hai spuntato una delle prime 8 checkbox ma non hai compilato n. e/o data.
+
+**Soluzione**: Per ogni checkbox spuntata compila il campo **"n."** e il campo **"del"** nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE! Specificare data della pratica. (g.1, checkbox 1–8)
 
 **Causa**: Hai spuntato una delle prime 8 checkbox ma non hai compilato n. e/o data.
 
@@ -403,7 +451,23 @@ Questa sezione è la più complessa dell'intero modulo. Richiede la selezione di
 
 ---
 
-#### ATTENZIONE! Specificare tipologia della pratica. / Specificare numero della pratica. / Specificare data della pratica. (g.1, checkbox 10–13 "altro")
+#### ATTENZIONE! Specificare tipologia della pratica. (g.1, checkbox 10–13 "altro")
+
+**Causa**: Hai spuntato una delle 4 checkbox "altro" ma non hai compilato tutti i campi (tipo + n. + data).
+
+**Soluzione**: Per ogni "altro" spuntato: inserisci la tipologia nel campo di testo, il numero nel campo "n." e la data nel campo "del" in formato GG/MM/AAAA.
+
+---
+
+#### ATTENZIONE! Specificare numero della pratica. (g.1, checkbox 10–13 "altro")
+
+**Causa**: Hai spuntato una delle 4 checkbox "altro" ma non hai compilato tutti i campi (tipo + n. + data).
+
+**Soluzione**: Per ogni "altro" spuntato: inserisci la tipologia nel campo di testo, il numero nel campo "n." e la data nel campo "del" in formato GG/MM/AAAA.
+
+---
+
+#### ATTENZIONE! Specificare data della pratica. (g.1, checkbox 10–13 "altro")
 
 **Causa**: Hai spuntato una delle 4 checkbox "altro" ma non hai compilato tutti i campi (tipo + n. + data).
 
@@ -423,7 +487,15 @@ Questa sezione è la più complessa dell'intero modulo. Richiede la selezione di
 
 ---
 
-#### ATTENZIONE! Specificare numero della copia accatastamento. / Specificare data della copia accatastamento.
+#### ATTENZIONE! Specificare numero della copia accatastamento.
+
+**Causa**: Hai spuntato la checkbox accatastamento ma non hai compilato n. e/o data.
+
+**Soluzione**: Compila il campo **"n."** e il campo **"del"** con la data in formato GG/MM/AAAA.
+
+---
+
+#### ATTENZIONE! Specificare data della copia accatastamento.
 
 **Causa**: Hai spuntato la checkbox accatastamento ma non hai compilato n. e/o data.
 
@@ -449,11 +521,35 @@ Stessa struttura di g.2 (2 checkbox, prima con n. e data). I messaggi di errore 
 
 ---
 
-#### ATTENZIONE! Specificare importo / data del pagamento / numero di protocollo / data di protocollo della sanzione pecuniaria.
+#### ATTENZIONE! Specificare importo della sanzione pecuniaria.
 
-**Causa**: Hai spuntato la checkbox "si forniscono gli estremi" ma non hai compilato tutti i 4 campi.
+**Dove si trova**: campo **"€"** della voce "si forniscono gli estremi del pagamento".
 
-**Soluzione**: Compila importo, data del pagamento, numero di protocollo e data di protocollo — tutti obbligatori. Le date devono essere in formato GG/MM/AAAA.
+**Soluzione**: inserisci l'importo pagato e ripeti **Valida e Salva**.
+
+---
+
+#### ATTENZIONE! Specificare data del pagamento della sanzione pecuniaria.
+
+**Dove si trova**: campo **"irrogata in data"** della voce "si forniscono gli estremi del pagamento".
+
+**Soluzione**: inserisci la data nel formato gg/mm/aaaa e ripeti **Valida e Salva**.
+
+---
+
+#### ATTENZIONE! Specificare numero di protocollo della sanzione pecuniaria.
+
+**Dove si trova**: campo **"Prot. n."** della voce "si forniscono gli estremi del pagamento".
+
+**Soluzione**: inserisci il numero di protocollo e ripeti **Valida e Salva**.
+
+---
+
+#### ATTENZIONE! Specificare data di protocollo della sanzione pecuniaria.
+
+**Dove si trova**: campo **"del"** dopo "Prot. n." nella voce "si forniscono gli estremi del pagamento".
+
+**Soluzione**: inserisci la data nel formato gg/mm/aaaa e ripeti **Valida e Salva**.
 
 ---
 
@@ -469,11 +565,35 @@ Stessa struttura di g.2 (2 checkbox, prima con n. e data). I messaggi di errore 
 
 ---
 
-#### ATTENZIONE! Specificare numero di protocollo / data di protocollo della pratica edilizia. / Specificare numero / data dell'atto di registrazione.
+#### ATTENZIONE! Specificare numero di protocollo della pratica edilizia.
 
-**Causa**: Hai spuntato la checkbox ma non hai compilato n. e/o data.
+**Dove si trova**: campo **"n."** della dichiarazione "presentata nella modulistica relativa alla pratica edilizia prot.".
 
-**Soluzione**: Compila il campo **"n."** e il campo **"del"** nel formato GG/MM/AAAA.
+**Soluzione**: inserisci il numero di protocollo e ripeti **Valida e Salva**.
+
+---
+
+#### ATTENZIONE! Specificare data di protocollo della pratica edilizia.
+
+**Dove si trova**: campo **"del"** della dichiarazione "presentata nella modulistica relativa alla pratica edilizia prot.".
+
+**Soluzione**: inserisci la data nel formato gg/mm/aaaa e ripeti **Valida e Salva**.
+
+---
+
+#### ATTENZIONE! Specificare numero dell'atto di registrazione.
+
+**Dove si trova**: campo **"n."** della dichiarazione "allegata agli atti … atto di registrazione".
+
+**Soluzione**: inserisci il numero dell'atto e ripeti **Valida e Salva**.
+
+---
+
+#### ATTENZIONE! Specificare data dell'atto di registrazione.
+
+**Dove si trova**: campo **"del"** della dichiarazione "allegata agli atti … atto di registrazione".
+
+**Soluzione**: inserisci la data nel formato gg/mm/aaaa e ripeti **Valida e Salva**.
 
 ---
 

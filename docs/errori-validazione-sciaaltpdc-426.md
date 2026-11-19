@@ -332,6 +332,22 @@ Se spunti chkRegUrb3_1: inserisci il numero e la data nel formato GG/MM/AAAA.
 
 ---
 
+#### ATTENZIONE ! Inserire il numero degli estremi della copia di accatastamento.
+
+**Dove si trova**: opzioni g_3 e g_4, primo campo della voce "copia accatastamento di primo impianto o si forniscono i relativi estremi".
+
+**Soluzione**: inserisci il numero e ripeti **Valida e Salva**.
+
+---
+
+#### ATTENZIONE ! Inserire la data della copia di accatastamento.
+
+**Dove si trova**: opzioni g_3 e g_4, campo data della voce "copia accatastamento di primo impianto o si forniscono i relativi estremi".
+
+**Soluzione**: inserisci la data nel formato gg/mm/aaaa e ripeti **Valida e Salva**.
+
+---
+
 ### Opzione g_4 — Principio di prova documentale
 
 #### ATTENZIONE! Non è stata selezionato nessun tipo di allegato. (g_4)
@@ -351,22 +367,40 @@ Se spunti chkRegUrb3_1: inserisci il numero e la data nel formato GG/MM/AAAA.
 **Causa**: Hai selezionato g_5 ("sanzioni pecuniarie interamente versate") ma non hai spuntato nessuna delle 2 opzioni.
 
 **Soluzione**: Spunta **almeno una** tra:
-- ☐ **chkRegUrb5_1** — "si allega la relativa ricevuta" → nessun campo aggiuntivo
-- ☐ **chkRegUrb5_2** — "si forniscono gli estremi del pagamento di €..." → compila tutti i 4 campi:
+- ☐ "si allega la relativa ricevuta" → nessun campo aggiuntivo
+- ☐ "si forniscono gli estremi del pagamento di €..." → compila importo, data e protocollo (vedi gli errori qui sotto)
 
-Se spunti chkRegUrb5_2, sono obbligatori:
+---
 
-**ATTENZIONE ! Inserire l'ammontare del pagamento.** → inserisci l'importo in euro nel primo campo.
+#### ATTENZIONE ! Inserire l'ammontare del pagamento.
 
-**ATTENZIONE ! Inserire la data di irroga della sanzione.** → inserisci la data nel formato **GG/MM/AAAA**.
+**Dove si trova**: campo **"€"** della voce "si forniscono gli estremi del pagamento".
 
-**ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.** (data irroga) → correggi il formato.
+**Soluzione**: inserisci l'importo pagato e ripeti **Valida e Salva**.
 
-**ATTENZIONE ! Inserire il numero del protocollo.** → inserisci il n. del protocollo della sanzione.
+---
 
-**ATTENZIONE ! Inserire la data del protocollo.** → inserisci la data nel formato **GG/MM/AAAA**.
+#### ATTENZIONE ! Inserire la data di irroga della sanzione.
 
-**ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.** (data protocollo) → correggi il formato.
+**Dove si trova**: campo **"irrogata in data"** della voce "si forniscono gli estremi del pagamento".
+
+**Soluzione**: inserisci la data nel formato gg/mm/aaaa e ripeti **Valida e Salva**.
+
+---
+
+#### ATTENZIONE ! Inserire il numero del protocollo.
+
+**Dove si trova**: campo **"Prot. n."** della voce "si forniscono gli estremi del pagamento".
+
+**Soluzione**: inserisci il numero di protocollo e ripeti **Valida e Salva**.
+
+---
+
+#### ATTENZIONE ! Inserire la data del protocollo.
+
+**Dove si trova**: campo **"del"** dopo "Prot. n." nella voce "si forniscono gli estremi del pagamento".
+
+**Soluzione**: inserisci la data nel formato gg/mm/aaaa e ripeti **Valida e Salva**.
 
 ---
 
@@ -377,12 +411,40 @@ Se spunti chkRegUrb5_2, sono obbligatori:
 **Causa**: Hai selezionato g_6 ("dichiarazioni di tolleranza costruttiva art. 34-bis o 34-ter / art. 6-bis L.R. 19/1999") ma non hai spuntato nessuna delle 2 opzioni.
 
 **Soluzione**: Spunta **almeno una** tra:
-- ☐ **chkRegUrb6_1** — "dichiarazione delle tolleranze di cui all'art. 34-bis o 34-ter, comma 4, presentata nella modulistica relativa alla pratica edilizia prot." → inserisci n. e data (GG/MM/AAAA)
-- ☐ **chkRegUrb6_2** — "dichiarazione delle tolleranze di cui all'art. 34-bis o 34-ter, comma 4, allegata agli atti aventi per oggetto trasferimento o costituzione... atto di registrazione" → inserisci n. e data (GG/MM/AAAA)
+- ☐ "dichiarazione delle tolleranze di cui all'art. 34-bis o 34-ter, comma 4, presentata nella modulistica relativa alla pratica edilizia prot." → inserisci n. e data (GG/MM/AAAA)
+- ☐ "dichiarazione delle tolleranze di cui all'art. 34-bis o 34-ter, comma 4, allegata agli atti aventi per oggetto trasferimento o costituzione... atto di registrazione" → inserisci n. e data (GG/MM/AAAA)
 
-Se spunti chkRegUrb6_1: **ATTENZIONE ! Inserire il numero di protocollo della pratica edilizia** e **ATTENZIONE ! Inserire la data del protocollo della pratica edilizia**.
+---
 
-Se spunti chkRegUrb6_2: **ATTENZIONE ! Inserire il numero dell'atto di registrazione** e **ATTENZIONE ! Inserire la data dell'atto di registrazione**.
+#### ATTENZIONE ! Inserire il numero di protocollo della pratica edilizia.
+
+**Dove si trova**: primo campo della dichiarazione "presentata nella modulistica relativa alla pratica edilizia prot.".
+
+**Soluzione**: inserisci il numero di protocollo e ripeti **Valida e Salva**.
+
+---
+
+#### ATTENZIONE ! Inserire la data del protocollo della pratica edilizia.
+
+**Dove si trova**: campo data della dichiarazione "presentata nella modulistica relativa alla pratica edilizia prot.".
+
+**Soluzione**: inserisci la data nel formato gg/mm/aaaa e ripeti **Valida e Salva**.
+
+---
+
+#### ATTENZIONE ! Inserire il numero dell'atto di registrazione.
+
+**Dove si trova**: primo campo della dichiarazione "allegata agli atti … atto di registrazione".
+
+**Soluzione**: inserisci il numero dell'atto e ripeti **Valida e Salva**.
+
+---
+
+#### ATTENZIONE ! Inserire la data dell'atto di registrazione.
+
+**Dove si trova**: campo data della dichiarazione "allegata agli atti … atto di registrazione".
+
+**Soluzione**: inserisci la data nel formato gg/mm/aaaa e ripeti **Valida e Salva**.
 
 ---
 

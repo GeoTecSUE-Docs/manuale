@@ -7,7 +7,7 @@ keywords: [permesso di costruire, PdC, nazionale, tutte le regioni, art. 10 DPR 
 IDRegione: 99        # Fallback (Nazionale)
 IDTipoPratica: 9999  # Fallback (Generico)
 IDTarget:
-  - { Reg: 1, Prat: 127 }  # Valle d'Aosta - Permesso di Costruire
+  - { Reg: 1, Prat: 115 }  # Valle d'Aosta - Permesso di Costruire
   - { Reg: 6, Prat: 615 } # Veneto - Permesso di Costruire
   - { Reg: 8, Prat: 815 } # Emilia-Romagna - Permesso di Costruire
   - { Reg: 12, Prat: 1215 } # Lazio - Permesso di Costruire
@@ -153,7 +153,7 @@ Guida completa agli errori specifici per il **Permesso di Costruire (PdC) Nazion
 
 ---
 
-#### ATTENZIONE ! Inserire Data Pratica titolo unico. / Inserire la data nel formato gg/mm/aaaa.
+#### ATTENZIONE ! Inserire Data Pratica titolo unico.
 
 **Causa**: Data assente o in formato errato per la variazione al titolo unico.
 
@@ -161,7 +161,15 @@ Guida completa agli errori specifici per il **Permesso di Costruire (PdC) Nazion
 
 ---
 
-#### ATTENZIONE ! Inserire N° Pratica del permesso di costruire. / Inserire Data Pratica del permesso di costruire.
+#### ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.
+
+**Causa**: Data assente o in formato errato per la variazione al titolo unico.
+
+**Soluzione**: Inserisci la data nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE ! Inserire N° Pratica del permesso di costruire.
 
 **Causa**: `chkVariazionea_6_2` è spuntata ma mancano n. o data della variazione al PdC.
 
@@ -169,7 +177,23 @@ Guida completa agli errori specifici per il **Permesso di Costruire (PdC) Nazion
 
 ---
 
-#### ATTENZIONE ! Inserire N° Pratica della denuncia inizio attività. / Inserire Data Pratica della denuncia inizio attività.
+#### ATTENZIONE ! Inserire Data Pratica del permesso di costruire.
+
+**Causa**: `chkVariazionea_6_2` è spuntata ma mancano n. o data della variazione al PdC.
+
+**Soluzione**: Compila n. e data (GG/MM/AAAA) del permesso di costruire originario.
+
+---
+
+#### ATTENZIONE ! Inserire N° Pratica della denuncia inizio attività.
+
+**Causa**: `chkVariazionea_6_3` è spuntata ma mancano n. o data.
+
+**Soluzione**: Compila n. e data (GG/MM/AAAA) della SCIA/DIA alternativa al PdC.
+
+---
+
+#### ATTENZIONE ! Inserire Data Pratica della denuncia inizio attività.
 
 **Causa**: `chkVariazionea_6_3` è spuntata ma mancano n. o data.
 
@@ -382,7 +406,15 @@ Le checkbox **10, 11, 12, 13** ("altro") richiedono: tipo pratica (campo testo) 
 
 ---
 
-#### ATTENZIONE! Specificare data della pratica. / ATTENZIONE! Inserire la data nel formato gg/mm/aaaa. (g_1, checkbox 1-8)
+#### ATTENZIONE! Specificare data della pratica. (g_1, checkbox 1-8)
+
+**Causa**: Manca la data o il formato non è corretto per una delle checkbox 1-8.
+
+**Soluzione**: Inserisci la data nel campo "del" nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE! Inserire la data nel formato gg/mm/aaaa. (g_1, checkbox 1-8)
 
 **Causa**: Manca la data o il formato non è corretto per una delle checkbox 1-8.
 
@@ -422,7 +454,13 @@ Le checkbox **10, 11, 12, 13** ("altro") richiedono: tipo pratica (campo testo) 
 
 ---
 
-#### ATTENZIONE! Specificare numero della copia accatastamento. / Specificare data della copia accatastamento. (g_2, chk 2_1)
+#### ATTENZIONE! Specificare numero della copia accatastamento. (g_2, chk 2_1)
+
+**Soluzione**: Compila n. e data (GG/MM/AAAA) nel campo accatastamento di primo impianto.
+
+---
+
+#### ATTENZIONE! Specificare data della copia accatastamento. (g_2, chk 2_1)
 
 **Soluzione**: Compila n. e data (GG/MM/AAAA) nel campo accatastamento di primo impianto.
 
@@ -440,7 +478,13 @@ Le checkbox **10, 11, 12, 13** ("altro") richiedono: tipo pratica (campo testo) 
 
 ---
 
-#### ATTENZIONE! Specificare numero della copia accatastamento. / Specificare data della copia accatastamento. (g_3)
+#### ATTENZIONE! Specificare numero della copia accatastamento. (g_3)
+
+**Soluzione**: Compila n. e data (GG/MM/AAAA) per l'accatastamento g_3.
+
+---
+
+#### ATTENZIONE! Specificare data della copia accatastamento. (g_3)
 
 **Soluzione**: Compila n. e data (GG/MM/AAAA) per l'accatastamento g_3.
 
@@ -466,7 +510,13 @@ Le checkbox **10, 11, 12, 13** ("altro") richiedono: tipo pratica (campo testo) 
 
 ---
 
-#### ATTENZIONE! Specificare data del pagamento della sanzione pecuniaria. / ATTENZIONE! Inserire la data nel formato gg/mm/aaaa.
+#### ATTENZIONE! Specificare data del pagamento della sanzione pecuniaria.
+
+**Soluzione**: Inserisci la data di irrogazione della sanzione nel formato **GG/MM/AAAA** (`txtDataImporto4_2_2`).
+
+---
+
+#### ATTENZIONE! Inserire la data nel formato gg/mm/aaaa.
 
 **Soluzione**: Inserisci la data di irrogazione della sanzione nel formato **GG/MM/AAAA** (`txtDataImporto4_2_2`).
 
@@ -478,7 +528,13 @@ Le checkbox **10, 11, 12, 13** ("altro") richiedono: tipo pratica (campo testo) 
 
 ---
 
-#### ATTENZIONE! Specificare data di protocollo della sanzione pecuniaria. / ATTENZIONE! Inserire la data nel formato gg/mm/aaaa.
+#### ATTENZIONE! Specificare data di protocollo della sanzione pecuniaria.
+
+**Soluzione**: Inserisci la data di protocollo nel formato **GG/MM/AAAA** (`txtDataProt4_2_4`).
+
+---
+
+#### ATTENZIONE! Inserire la data nel formato gg/mm/aaaa.
 
 **Soluzione**: Inserisci la data di protocollo nel formato **GG/MM/AAAA** (`txtDataProt4_2_4`).
 
@@ -496,13 +552,25 @@ Le checkbox **10, 11, 12, 13** ("altro") richiedono: tipo pratica (campo testo) 
 
 ---
 
-#### ATTENZIONE! Specificare numero di protocollo della pratica edilizia. / Specificare data di protocollo della pratica edilizia. (g_5, chk 5_1)
+#### ATTENZIONE! Specificare numero di protocollo della pratica edilizia. (g_5, chk 5_1)
 
 **Soluzione**: Compila n. e data (GG/MM/AAAA) della pratica edilizia nella tolleranza 5_1.
 
 ---
 
-#### ATTENZIONE! Specificare numero dell'atto di registrazione. / Specificare data dell'atto di registrazione. (g_5, chk 5_2)
+#### ATTENZIONE! Specificare data di protocollo della pratica edilizia. (g_5, chk 5_1)
+
+**Soluzione**: Compila n. e data (GG/MM/AAAA) della pratica edilizia nella tolleranza 5_1.
+
+---
+
+#### ATTENZIONE! Specificare numero dell'atto di registrazione. (g_5, chk 5_2)
+
+**Soluzione**: Compila n. e data (GG/MM/AAAA) dell'atto di registrazione nella tolleranza 5_2.
+
+---
+
+#### ATTENZIONE! Specificare data dell'atto di registrazione. (g_5, chk 5_2)
 
 **Soluzione**: Compila n. e data (GG/MM/AAAA) dell'atto di registrazione nella tolleranza 5_2.
 

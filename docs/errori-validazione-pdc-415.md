@@ -115,7 +115,31 @@ Guida completa agli errori specifici per il **Permesso di Costruire** ai sensi d
 
 ---
 
-#### ATTENZIONE ! Specificare la densità edilizia. / Specificare l'altezza. / Specificare la distanza tra fabbricati. / Specificare la destinazione d'uso.
+#### ATTENZIONE ! Specificare la densità edilizia.
+
+**Causa**: Hai spuntato una checkbox di deroga ma non hai compilato il campo di testo specificazione.
+
+**Soluzione**: Inserisci nel campo di testo accanto alla checkbox la specificazione richiesta per ogni deroga selezionata (es. `da 2,5 m³/m² a 3,0 m³/m²`, `da 10 m a 12 m`, `da 5 m a 3 m`).
+
+---
+
+#### ATTENZIONE ! Specificare l'altezza.
+
+**Causa**: Hai spuntato una checkbox di deroga ma non hai compilato il campo di testo specificazione.
+
+**Soluzione**: Inserisci nel campo di testo accanto alla checkbox la specificazione richiesta per ogni deroga selezionata (es. `da 2,5 m³/m² a 3,0 m³/m²`, `da 10 m a 12 m`, `da 5 m a 3 m`).
+
+---
+
+#### ATTENZIONE ! Specificare la distanza tra fabbricati.
+
+**Causa**: Hai spuntato una checkbox di deroga ma non hai compilato il campo di testo specificazione.
+
+**Soluzione**: Inserisci nel campo di testo accanto alla checkbox la specificazione richiesta per ogni deroga selezionata (es. `da 2,5 m³/m² a 3,0 m³/m²`, `da 10 m a 12 m`, `da 5 m a 3 m`).
+
+---
+
+#### ATTENZIONE ! Specificare la destinazione d'uso.
 
 **Causa**: Hai spuntato una checkbox di deroga ma non hai compilato il campo di testo specificazione.
 
@@ -136,7 +160,7 @@ Guida completa agli errori specifici per il **Permesso di Costruire** ai sensi d
 
 ---
 
-#### ATTENZIONE ! Inserire N° Pratica titolo unico. / Inserire Data Pratica titolo unico. (a.8 — titolo unico)
+#### ATTENZIONE ! Inserire N° Pratica titolo unico. (a.8 — titolo unico)
 
 **Causa**: Hai spuntato la checkbox titolo unico ma non hai compilato n. e/o data.
 
@@ -144,7 +168,15 @@ Guida completa agli errori specifici per il **Permesso di Costruire** ai sensi d
 
 ---
 
-#### ATTENZIONE ! Inserire N° Pratica del permesso di costruire. / Inserire Data Pratica del permesso di costruire. (a.8 — PdC)
+#### ATTENZIONE ! Inserire Data Pratica titolo unico. (a.8 — titolo unico)
+
+**Causa**: Hai spuntato la checkbox titolo unico ma non hai compilato n. e/o data.
+
+**Soluzione**: Inserisci il numero di pratica nel campo "Pratica n." e la data nel campo "del" nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE ! Inserire N° Pratica del permesso di costruire. (a.8 — PdC)
 
 **Causa**: Hai spuntato la checkbox permesso di costruire ma non hai compilato n. e/o data.
 
@@ -152,11 +184,35 @@ Guida completa agli errori specifici per il **Permesso di Costruire** ai sensi d
 
 ---
 
-#### ATTENZIONE ! Inserire N° Pratica della denuncia inizio attività. / Inserire Data Pratica della denuncia inizio attività. (a.8 — DIA/SCIA)
+#### ATTENZIONE ! Inserire Data Pratica del permesso di costruire. (a.8 — PdC)
+
+**Causa**: Hai spuntato la checkbox permesso di costruire ma non hai compilato n. e/o data.
+
+**Soluzione**: Inserisci il numero di pratica e la data nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE ! Inserire N° Pratica della denuncia inizio attività. (a.8 — DIA/SCIA)
 
 **Causa**: Hai spuntato la checkbox SCIA/DIA alternativa ma non hai compilato n. e/o data.
 
 **Soluzione**: Inserisci il numero di pratica e la data nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE ! Inserire Data Pratica della denuncia inizio attività. (a.8 — DIA/SCIA)
+
+**Causa**: Hai spuntato la checkbox SCIA/DIA alternativa ma non hai compilato n. e/o data.
+
+**Soluzione**: Inserisci il numero di pratica e la data nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa. (a.8)
+
+**Dove si trova**: campo **"del"** della pratica indicata sotto la variazione essenziale (a.8).
+
+**Soluzione**: correggi la data scrivendola come gg/mm/aaaa (es. 05/03/2019) e ripeti **Valida e Salva**.
 
 ---
 
@@ -185,7 +241,7 @@ Guida completa agli errori specifici per il **Permesso di Costruire** ai sensi d
 
 ---
 
-#### ATTENZIONE ! Inserire N° Pratica del permesso di costruire. / Inserire Data Pratica del permesso di costruire. (a.10)
+#### ATTENZIONE ! Inserire N° Pratica del permesso di costruire. (a.10)
 
 **Causa**: Hai selezionato "permesso di costruire" ma non hai compilato n. e/o data.
 
@@ -193,7 +249,23 @@ Guida completa agli errori specifici per il **Permesso di Costruire** ai sensi d
 
 ---
 
-#### ATTENZIONE ! Inserire N° Pratica del segnalazione certificata di inizio attività/denuncia di inizio attività. / Inserire Data Pratica del segnalazione certificata di inizio attività/denuncia di inizio attività. (a.10)
+#### ATTENZIONE ! Inserire Data Pratica del permesso di costruire. (a.10)
+
+**Causa**: Hai selezionato "permesso di costruire" ma non hai compilato n. e/o data.
+
+**Soluzione**: Inserisci n. pratica e data nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE ! Inserire N° Pratica del segnalazione certificata di inizio attività/denuncia di inizio attività. (a.10)
+
+**Causa**: Hai selezionato "SCIA/DIA" ma non hai compilato n. e/o data.
+
+**Soluzione**: Inserisci n. pratica e data nel formato **GG/MM/AAAA**.
+
+---
+
+#### ATTENZIONE ! Inserire Data Pratica del segnalazione certificata di inizio attività/denuncia di inizio attività. (a.10)
 
 **Causa**: Hai selezionato "SCIA/DIA" ma non hai compilato n. e/o data.
 
@@ -369,7 +441,7 @@ La sezione sanatoria si attiva **solo** quando in cima al modulo hai selezionato
 
 ## 7. Regolarità urbanistica e precedenti edilizi
 
-Stessa struttura della SCIA Nazionale con alcune varianti: la macro-opzione **g.1** è "nuova costruzione su area libera" (senza checkbox), le opzioni g.2–g.6 seguono logiche analoghe alla SCIA; la sezione "stato attuale" è gestita da `chkRegUrb7` (checkbox madre) con 2 sub-checkbox.
+Stessa struttura della SCIA Nazionale con alcune varianti: la macro-opzione **g.1** è "nuova costruzione su area libera" (senza checkbox), le opzioni g.2–g.6 richiedono di indicare titoli, allegati, sanzioni o tolleranze; in fondo c'è la dichiarazione sullo stato attuale dell'immobile, con due voci da scegliere.
 
 ---
 
@@ -385,7 +457,169 @@ Stessa struttura della SCIA Nazionale con alcune varianti: la macro-opzione **g.
 - ⚪ **g.5** — Sanzioni pecuniarie irrogate e versate → spunta almeno una checkbox
 - ⚪ **g.6** — Dichiarazioni di tolleranza costruttiva (art. 34-bis/34-ter) → spunta almeno una checkbox
 
-I messaggi di errore specifici per g.2–g.6 sono identici a quelli della SCIA Nazionale (stessa struttura di validazione). Vedi [Errori SCIA Nazionale — Sezione 7](errori-validazione-scia-9923.html#7-regolarità-urbanistica-e-precedenti-edilizi) per i dettagli.
+I singoli errori di ciascuna opzione sono descritti qui sotto.
+
+---
+
+### ATTENZIONE! Non è stata selezionata nessun titolo o pratica edilizia.
+
+**Dove si trova**: opzione **"che l'immobile/U.I. è stato oggetto del/i seguente/i titolo/i o pratica/che edilizie"**.
+
+**Causa**: hai scelto questa opzione ma non hai spuntato nessun titolo.
+
+**Soluzione**: spunta almeno uno dei titoli elencati (titolo unico (SUAP), permesso di costruire / licenza edil. / concessione edilizia, autorizzazione edilizia, comunicazione edilizia, denuncia di inizio attività, DIA/SCIA alternativa al permesso di costruire, segnalazione certificata di inizio attività, comunicazione edilizia libera, titolo edilizio in sanatoria, altro) e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Inserire il numero del titolo o pratica edilizia.
+
+**Dove si trova**: campo **"n."** accanto al titolo spuntato (anche le voci del titolo in sanatoria e le voci "altro").
+
+**Soluzione**: inserisci il numero del titolo o della pratica e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Inserire la data del titolo o pratica edilizia.
+
+**Dove si trova**: campo **"del"** accanto al titolo spuntato (anche le voci del titolo in sanatoria e le voci "altro").
+
+**Soluzione**: inserisci la data nel formato gg/mm/aaaa e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE! Non è stata selezionata nessun titolo edilizio in sanatoria.
+
+**Dove si trova**: voce **"titolo edilizio in sanatoria con il pagamento della relativa oblazione ed in particolare:"**.
+
+**Causa**: hai spuntato il titolo in sanatoria ma non hai indicato di quale si tratta.
+
+**Soluzione**: spunta almeno una tra **condono edilizio**, **permesso di costruire in sanatoria di cui agli artt. 36 o 36-bis**, **SCIA in sanatoria di cui all'art. 36-bis**, **SCIA in sanatoria per variante in corso d'opera … prima della L. 10/1977**; compila numero e data e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Inserire la descrizione del titolo o pratica edilizia.
+
+**Dove si trova**: campo di testo accanto a una voce **"altro"** spuntata.
+
+**Soluzione**: scrivi di che titolo o pratica si tratta, compila numero e data e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE! Non è stata selezionato nessun tipo di allegato.
+
+**Dove si trova**: opzioni **"si tratta di immobile realizzato in un'epoca in cui non era obbligatorio un titolo abilitativo e pertanto allega:"** e **"non sono disponibili la copia o gli estremi del titolo abilitativo, ma sussiste un principio di prova documentale … e pertanto si allega:"**.
+
+**Causa**: hai scelto una di queste opzioni ma non hai indicato cosa alleghi.
+
+**Soluzione**: spunta **"copia accatastamento di primo impianto o si forniscono i relativi estremi"** e/o **"altri documenti probanti …"**, poi ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Inserire il numero degli estremi della copia di accatastamento.
+
+**Dove si trova**: primo campo della voce "copia accatastamento di primo impianto o si forniscono i relativi estremi".
+
+**Soluzione**: inserisci il numero e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Inserire la data della copia di accatastamento.
+
+**Dove si trova**: campo data della voce "copia accatastamento di primo impianto o si forniscono i relativi estremi".
+
+**Soluzione**: inserisci la data nel formato gg/mm/aaaa e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE! Non è stata selezionato nessun tipo di sanzioni pecuniarie.
+
+**Dove si trova**: opzione **"che per l'immobile/U.I. sono state irrogate le seguenti sanzioni pecuniarie …"**.
+
+**Causa**: hai scelto questa opzione ma non hai indicato come documenti il pagamento.
+
+**Soluzione**: spunta **"si allega la relativa ricevuta"** oppure **"si forniscono gli estremi del pagamento"** (in questo caso compila importo, data e protocollo) e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Inserire l'ammontare del pagamento.
+
+**Dove si trova**: campo **"€"** della voce "si forniscono gli estremi del pagamento".
+
+**Soluzione**: inserisci l'importo pagato e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Inserire la data di irroga della sanzione.
+
+**Dove si trova**: campo **"irrogata in data"** della voce "si forniscono gli estremi del pagamento".
+
+**Soluzione**: inserisci la data nel formato gg/mm/aaaa e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Inserire il numero del protocollo.
+
+**Dove si trova**: campo **"Prot. n."** della voce "si forniscono gli estremi del pagamento".
+
+**Soluzione**: inserisci il numero di protocollo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Inserire la data del protocollo.
+
+**Dove si trova**: campo **"del"** dopo "Prot. n." nella voce "si forniscono gli estremi del pagamento".
+
+**Soluzione**: inserisci la data nel formato gg/mm/aaaa e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE! Non è stata selezionato nessun tipo di tolleranza.
+
+**Dove si trova**: opzione **"che l'immobile/U.I. è stato oggetto della/e seguente/i dichiarazione/i di tolleranza/e costruttiva/e …"**.
+
+**Causa**: hai scelto questa opzione ma non hai indicato la dichiarazione.
+
+**Soluzione**: spunta almeno una tra la dichiarazione **"presentata nella modulistica relativa alla pratica edilizia prot."** e quella **"allegata agli atti … atto di registrazione"**, compila numero e data e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Inserire il numero di protocollo della pratica edilizia.
+
+**Dove si trova**: primo campo della dichiarazione "presentata nella modulistica relativa alla pratica edilizia prot.".
+
+**Soluzione**: inserisci il numero di protocollo e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Inserire la data del protocollo della pratica edilizia.
+
+**Dove si trova**: campo data della dichiarazione "presentata nella modulistica relativa alla pratica edilizia prot.".
+
+**Soluzione**: inserisci la data nel formato gg/mm/aaaa e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Inserire il numero dell'atto di registrazione.
+
+**Dove si trova**: primo campo della dichiarazione "allegata agli atti … atto di registrazione".
+
+**Soluzione**: inserisci il numero dell'atto e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Inserire la data dell'atto di registrazione.
+
+**Dove si trova**: campo data della dichiarazione "allegata agli atti … atto di registrazione".
+
+**Soluzione**: inserisci la data nel formato gg/mm/aaaa e ripeti **Valida e Salva**.
+
+---
+
+### ATTENZIONE ! Inserire la data nel formato gg/mm/aaaa.
+
+**Dove si trova**: uno dei campi data di questa sezione (date dei titoli, della copia accatastamento, della sanzione, dei protocolli e degli atti).
+
+**Soluzione**: correggi la data scrivendola come gg/mm/aaaa (es. 05/03/2019) e ripeti **Valida e Salva**.
 
 ---
 
